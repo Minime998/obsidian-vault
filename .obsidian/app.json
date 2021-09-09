@@ -1,1 +1,13 @@
-{}
+{
+  "spellcheck": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "contrapositive",
+    "Biconditional"
+  ],
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "foldIndent": false
+}

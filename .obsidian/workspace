@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian-vault/Uni Notes/DisMath/DisMath_Capter1P1.md",
+            "file": "uni-notes/dis-math/dismath-capter1p1.md",
             "mode": "source"
           }
         }
@@ -47,12 +47,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "ef3fe62ab7b0a483",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2867e27739ea02f4",
@@ -68,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-vault/Uni Notes/DisMath/DisMath_Capter1P1.md",
+                "file": "uni-notes/dis-math/dismath-capter1p1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,6 +85,39 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a24d30ed0da2f84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa83b044dee9e806",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "uni-notes/dis-math/dismath-capter1p1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db32ec1086bae439",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "uni-notes/dis-math/dismath-capter1p1.md"
               }
             }
           }
@@ -88,6 +130,12 @@
   },
   "active": "47a8a78fc3a6d639",
   "lastOpenFiles": [
+    "uni-notes/dis-math/dismath-capter1p1.md",
+    "uni-notes/markdown-sheet.md",
+    "uni-notes/dis-math/note-images/CaptureDis_Implication.PNG",
+    "uni-notes/dis-math/note-images/CaptureDis_Disjunction.PNG",
+    "README.md",
+    "uni-notes/dis-math/note-images/CaptureDis_Xor.PNG",
     "obsidian-vault/Uni Notes/DisMath/DisMath_Capter1P1.md"
   ]
 }
