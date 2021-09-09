@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "c48968421815f431",
+    "type": "split",
+    "children": [
+      {
+        "id": "47a8a78fc3a6d639",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "obsidian-vault/Uni Notes/DisMath/DisMath_Capter1P1.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff91d64d854023ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b6a22b34b0ee07b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b43e02c79201736",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e134d44d94ba9a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2867e27739ea02f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9073fc5955a32c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af8f51c3ed3795ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian-vault/Uni Notes/DisMath/DisMath_Capter1P1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "47a8a78fc3a6d639",
+  "lastOpenFiles": [
+    "obsidian-vault/Uni Notes/DisMath/DisMath_Capter1P1.md"
+  ]
+}
