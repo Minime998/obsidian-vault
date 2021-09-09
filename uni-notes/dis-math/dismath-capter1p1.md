@@ -131,3 +131,5 @@ Columns
 Construct a truth table for *p* $\vee$ *q* $\rightarrow$$\neg$*r*
 ![](CaptureDis_TruthTable.PNG)
 
+###Equivalent Propositions
+Two propositions are *equivalent* if they always have the same truth value.
