@@ -122,4 +122,10 @@ Some alternative ways "*p* if and only if *q*" is expressed in English:
 ### Truth Tables For Compound Propositions
 Construction of a truth table:
 Rows
-* Need a 
+* Need a row for every possible combination of values for the *atomic propositions*
+Columns
+* Need a column for the compound proposition (usually at far right)
+* Need a column for the truth value of each expression
+
+#### Example Truth Table
+Construct a truth table for *p* $\vee$ *q* $\rightarrow$*r*
