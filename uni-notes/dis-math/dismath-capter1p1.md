@@ -11,7 +11,7 @@
 - [[#Understanding Implication]] 
 - [[#Different ways of Expressing p rightarrow q]]
 - [[#Converse Contrapositive and Inverse]]
-- Biconditional
+- [[#Biconditional]]
 - Truth Tables
 
 #### Propositions
@@ -113,4 +113,13 @@ Let *p* and *q* be propositions. The *biconditional* statement *p* $\leftrightar
 
 **Example**: if *p* denotes "I am at home." and *q* denotes "it is raining." then *p* $\leftrightarrow$ *q* denotes "I am at home if and only if it is raining."
 
-#### 
+#### Expressing the Biconditional
+Some alternative ways "*p* if and only if *q*" is expressed in English:
+* *P* is necessary and sufficient for *q*
+* if *p* then *q*, and conversely
+* *p* if *q*
+
+### Truth Tables For Compound Propositions
+Construction of a truth table:
+Rows
+* Need a 
