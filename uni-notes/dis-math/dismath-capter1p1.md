@@ -107,4 +107,6 @@ From *p* $\rightarrow$ *q* we can form new conditional statements.
 **contrapositive**: if I go to town, then it is not raining.
 
 ## Biconditional
-Let *p* and *q* be propositions. The *biconditional* statement *p* $\leftrightarrow$ *q* is the *proposition* "*P* if and only if *q*." The biconditional *p* $\leftrightarrow$ *q* is true when *p* and *q* have same trut
+Let *p* and *q* be propositions. The *biconditional* statement *p* $\leftrightarrow$ *q* is the *proposition* "*P* if and only if *q*." The biconditional *p* $\leftrightarrow$ *q* is true when *p* and *q* have same truth values
+
+![](CaptureDis_Biconditional.PNG)
