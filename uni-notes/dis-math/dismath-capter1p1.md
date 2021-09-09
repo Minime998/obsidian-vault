@@ -110,3 +110,5 @@ From *p* $\rightarrow$ *q* we can form new conditional statements.
 Let *p* and *q* be propositions. The *biconditional* statement *p* $\leftrightarrow$ *q* is the *proposition* "*P* if and only if *q*." The biconditional *p* $\leftrightarrow$ *q* is true when *p* and *q* have same truth values
 
 ![](CaptureDis_Biconditional.PNG)
+
+**Example**: if *p* denotes "I am at home." and *q* denotes "it is raining." then *p* $\leftrightarrow$ *q* denotes "I am at home if and only if it is raining."
