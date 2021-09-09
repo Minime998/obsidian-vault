@@ -103,3 +103,7 @@ From *p* $\rightarrow$ *q* we can form new conditional statements.
 * $\neg$*p*$\rightarrow$ $\neg$*q* is the **inverse** of *p*$\rightarrow$ *q*
 
 **Example**: Find the converse, inverse, and contrapositive of "It raining is a sufficient condition for my not going to town."
+<p>
+	***converse**: If I do not go to town, then it is raining.
+	
+</p>
