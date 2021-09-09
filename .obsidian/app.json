@@ -7,7 +7,8 @@
     "contrapositive",
     "Biconditional",
     "Disjunction",
-    "disjunction"
+    "disjunction",
+    "biconditional"
   ],
   "strictLineBreaks": false,
   "foldHeading": true,

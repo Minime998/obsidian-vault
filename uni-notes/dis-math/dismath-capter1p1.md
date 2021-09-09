@@ -10,9 +10,7 @@
 - [[#Compound Propositions Implication]] 
 - [[#Understanding Implication]] 
 - [[#Different ways of Expressing p rightarrow q]]
-- contrapositive
--  inverse
--  converse
+- [[#Converse Contrapositive and Inverse]]
 - Biconditional
 - Truth Tables
 
@@ -107,3 +105,6 @@ From *p* $\rightarrow$ *q* we can form new conditional statements.
 **converse**: If I do not go to town, then it is raining.
 **inverse**: if it is not raining, then I will go to town.
 **contrapositive**: if I go to town, then it is not raining.
+
+## Biconditional
+Let *p* and *q* be propositions. The *biconditional* statement *p*
