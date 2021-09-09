@@ -5,7 +5,9 @@
   "alwaysUpdateLinks": true,
   "spellcheckDictionary": [
     "contrapositive",
-    "Biconditional"
+    "Biconditional",
+    "Disjunction",
+    "disjunction"
   ],
   "strictLineBreaks": false,
   "foldHeading": true,
