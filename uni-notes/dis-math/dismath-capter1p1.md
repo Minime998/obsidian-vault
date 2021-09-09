@@ -12,7 +12,7 @@
 - [[#Different ways of Expressing p rightarrow q]]
 - [[#Converse Contrapositive and Inverse]]
 - [[#Biconditional]]
-- Truth Tables
+- [[#Truth Tables For Compound Propositions]]
 
 #### Propositions
 A *proposition* is a declarative sentence that is either true or false
@@ -128,4 +128,6 @@ Columns
 * Need a column for the truth value of each expression
 
 #### Example Truth Table
-Construct a truth table for *p* $\vee$ *q* $\rightarrow$*r*
+Construct a truth table for *p* $\vee$ *q* $\rightarrow$$\neg$*r*
+![](CaptureDis_TruthTable.PNG)
+
