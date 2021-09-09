@@ -104,6 +104,6 @@ From *p* $\rightarrow$ *q* we can form new conditional statements.
 
 **Example**: Find the converse, inverse, and contrapositive of "It raining is a sufficient condition for my not going to town."
 
-<h1>converse: If I do not go to town, then it is raining.<h1>
-inverse: if it is not raining, then I will go to town.
-contrapositive: if I go to town, then it is not raining.
+**converse**: If I do not go to town, then it is raining.
+**inverse**: if it is not raining, then I will go to town.
+**contrapositive**: if I go to town, then it is not raining.
