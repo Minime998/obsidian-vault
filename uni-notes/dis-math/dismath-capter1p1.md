@@ -13,6 +13,8 @@
 - [[#Converse Contrapositive and Inverse]]
 - [[#Biconditional]]
 - [[#Truth Tables For Compound Propositions]]
+- [[#Equivalent Propositions]]
+- [[#Precedence of Logical Operators]]
 
 #### Propositions
 A *proposition* is a declarative sentence that is either true or false
