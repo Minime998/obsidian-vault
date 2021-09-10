@@ -139,3 +139,4 @@ Two propositions are *equivalent* if they always have the same truth value.
 
 #### Using a Truth Table to show Non-Equivalence
 **Example**: Show using truth tables that neither the converse nor the inverse of an implication are equivalent to the implication.
+![](CaptureDis_Non-Equivalence.PNG)
