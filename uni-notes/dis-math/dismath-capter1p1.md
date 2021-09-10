@@ -142,3 +142,6 @@ Two propositions are *equivalent* if they always have the same truth value.
 ![](CaptureDis_Non-Equivalence.PNG)
 
 ## Precedence of Logical Operators
+![](CaptureDis_Logical-Operators.PNG)
+
+*p* $\vee$ *q* $\rightarrow$ $\neg$*r* is equivalent to (*p* $\vee$ *q*) $\rightarrow$ $\neg$*r* if the intended meaning is *p* $\vee$(*q* $\rightarrow$ $\neg$*r*) then parentheses must be used

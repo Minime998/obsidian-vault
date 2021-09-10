@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "uni-notes/dis-math/dismath-capter1p1.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -131,6 +131,7 @@
   "active": "47a8a78fc3a6d639",
   "lastOpenFiles": [
     "uni-notes/dis-math/dismath-capter1p1.md",
+    "uni-notes/dis-math/note-images/CaptureDis_Logical-Operators.PNG",
     "uni-notes/dis-math/note-images/CaptureDis_Xor.PNG",
     "uni-notes/dis-math/note-images/CaptureDis_TruthTable.PNG",
     "uni-notes/dis-math/note-images/CaptureDis_Non-Equivalence.PNG",
@@ -138,7 +139,6 @@
     "uni-notes/dis-math/note-images/CaptureDis_Implication.PNG",
     "uni-notes/dis-math/note-images/CaptureDis_EquivalentTable.PNG",
     "uni-notes/dis-math/note-images/CaptureDis_Disjunction.PNG",
-    "uni-notes/dis-math/note-images/CaptureDis_Conjunction.PNG",
-    "uni-notes/dis-math/note-images/CaptureDis_Biconditional.PNG"
+    "uni-notes/dis-math/note-images/CaptureDis_Conjunction.PNG"
   ]
 }
