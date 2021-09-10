@@ -137,3 +137,5 @@ Two propositions are *equivalent* if they always have the same truth value.
 **Example**: Show using a truth table that the conditional is equivalent to the contrapositive
 ![](CaptureDis_EquivalentTable.PNG)
 
+Using a Truth Table to show Non-Equivalence
+**Example**: Show using truth tables that neither the converse nor the inverse of an implication are quivalent to the implication 
