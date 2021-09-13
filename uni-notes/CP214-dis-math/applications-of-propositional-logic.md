@@ -68,7 +68,13 @@ __Solution__:Let *p* denote "The diagnostic message is stored in the buffer." Le
 their are two options:
 *p*: A is a knight or *q*: B is a knight
 
-*A* said
+*A* said that *B* is a knight: *q*
+*B* said that the two of them are opposites: (*p* $\wedge$ $\neg$*q*) $\vee$ ($\neg$*p* $\wedge$ *q*)
+
+(i) is *A* is a knight then: *p* $\leftrightarrow$ *q*
+(ii) if *B* is a knight then: *q* $\leftrightarrow$ (*p* $\wedge$ $\neg$*q*) $\vee$ ($\neg$*p* $\wedge$ *q*)
+
+For this to be consistent both of these specifications should be true. This satisfies when both p and q are false
 
 
 
