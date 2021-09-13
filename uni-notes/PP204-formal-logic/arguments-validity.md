@@ -125,3 +125,5 @@ true in all cases
 > Julie is now 10 years old.
 > Julie is now 70 years old.
 > Therefore, cheese is quite expensive today.
+
+impossible for both to be false
