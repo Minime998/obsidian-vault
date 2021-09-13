@@ -72,7 +72,7 @@ If *p* and *q* are propositions, then *p $\rightarrow$ q* is a *conditional stat
 
 ![](CaptureDis_Implication.PNG)
 
-**Example**: if *p* denotes "I am at home." and *q* denotes "it is raining." then *p $\rightarrow$ q* denotes "If I am at home then it is raining." 
+>**Example**: if *p* denotes "I am at home." and *q* denotes "it is raining." then *p $\rightarrow$ q* denotes "If I am at home then it is raining." 
 
 ##### Understanding Implication
 In the *p $\rightarrow$ q* there does not need to be any connection between the antecedent or the consequent. the "meaning" of *p $\rightarrow$ q* depends only on the truth values of *p* and *q*.
@@ -102,7 +102,7 @@ From *p* $\rightarrow$ *q* we can form new conditional statements.
 * $\neg$*q*$\rightarrow$ $\neg$*p* is the **contrapositive** of *p*$\rightarrow$ *q*
 * $\neg$*p*$\rightarrow$ $\neg$*q* is the **inverse** of *p*$\rightarrow$ *q*
 
-**Example**: Find the converse, inverse, and contrapositive of "It raining is a sufficient condition for my not going to town."
+>**Example**: Find the converse, inverse, and contrapositive of "It raining is a sufficient condition for my not going to town."
 
 **converse**: If I do not go to town, then it is raining.
 **inverse**: if it is not raining, then I will go to town.
@@ -113,7 +113,7 @@ Let *p* and *q* be propositions. The *biconditional* statement *p* $\leftrightar
 
 ![](CaptureDis_Biconditional.PNG)
 
-**Example**: if *p* denotes "I am at home." and *q* denotes "it is raining." then *p* $\leftrightarrow$ *q* denotes "I am at home if and only if it is raining."
+>**Example**: if *p* denotes "I am at home." and *q* denotes "it is raining." then *p* $\leftrightarrow$ *q* denotes "I am at home if and only if it is raining."
 
 #### Expressing the Biconditional
 Some alternative ways "*p* if and only if *q*" is expressed in English:
@@ -136,11 +136,11 @@ Construct a truth table for *p* $\vee$ *q* $\rightarrow$$\neg$*r*
 ### Equivalent Propositions
 Two propositions are *equivalent* if they always have the same truth value.
 
-**Example**: Show using a truth table that the conditional is equivalent to the contrapositive
+>**Example**: Show using a truth table that the conditional is equivalent to the contrapositive
 ![](CaptureDis_EquivalentTable.PNG)
 
 #### Using a Truth Table to show Non-Equivalence
-**Example**: Show using truth tables that neither the converse nor the inverse of an implication are equivalent to the implication.
+>**Example**: Show using truth tables that neither the converse nor the inverse of an implication are equivalent to the implication.
 ![](CaptureDis_Non-Equivalence.PNG)
 
 ## Precedence of Logical Operators

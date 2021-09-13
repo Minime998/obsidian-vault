@@ -28,7 +28,7 @@ In our second example, the conclusion was stated first and the words "after all"
 
 ### Validity
 An argument is **valid** iff it is impossible for the premises to be true and the conclusion false
-- the conclusion must be true
+- the conclusion must be true (premises dependent)
 
 	Validity concerns the logical relationship between an argument's premises and conclusion. If an argument is valid it tells us that <u>if</u> the premises are true, so the conclusion must also be true. Our definition does not say that the premises must be true or are true. In fact it is possible to construct an argument that is **logically valid**, yet contains one or more false premises
 
@@ -39,3 +39,8 @@ It has to do with the *relationship* between premises and conclusion. *If* the p
 >All professors are aliens.
 <u>Jill is a professor</u>
 Therefore, Jill is an alien
+
+## Two ways an argument can go wrong
+- one or more of the premises might be false
+and/or
+- The conclusion might not follow
