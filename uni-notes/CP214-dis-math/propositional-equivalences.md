@@ -62,6 +62,10 @@ Absorption Laws:
 
 ###### More Logical Equivalences
 
+![[CaptureDis_Table7.png]]
+
+![[CaptureDis_Table8.png]]
+
 
 
 
