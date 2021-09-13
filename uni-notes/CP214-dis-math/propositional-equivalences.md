@@ -11,3 +11,13 @@
 
 A *tautology* is a proposition which is always true.
 * Example: *p* $\vee$ $\neg$*p*
+
+A *contradiction* is a proposition which is always false.
+* Example: *p* $\wedge$ $\neg$*p*
+
+A *contingency* is a proposition which is neither a tautology nor a contradiction, such as *p*
+
+![[CaptureDis_TCCChart.png]]
+
+
+
