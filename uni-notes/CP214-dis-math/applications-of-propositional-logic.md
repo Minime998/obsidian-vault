@@ -90,6 +90,8 @@ Complicated circuits are constructed from three basic circuits called gates
 
 * The inverter (__NOT gate__) takes an input and produces the negation of that bit.
 * The __OR gate__ takes two input bits and produces the value equivalent to the disjunction of the two bits.
-* The __AN
+* The __AND gate__ takes two input bits and produces the value equivalent to the conjunction of the two bits.
 
+More complicated digital circuits can be constructed bu combining these basic circuits to produce the desired output given the input signals by building a circuit for each piece of the output expression and then combining them:
 
+![](CaptureDis_CombineGate.png)
