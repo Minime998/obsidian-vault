@@ -24,3 +24,10 @@ If *p* or *q*, then not *r*.
 
 Let *a*, *c*, and *f* represent respectively
 *a* $\rightarrow$ (*c* $\vee$ $\neg$*f*)
+
+#### System Specifications
+
+System and software engineers take requirements in English and express then in a precise specification language based on logic
+
+>__Example__: Express in propositional logic
+>"The automated reply cannot be sent when the file system is full"
