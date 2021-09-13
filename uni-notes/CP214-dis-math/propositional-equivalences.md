@@ -6,6 +6,7 @@
 
 ### Summary
 [[#Tautologies Contradictions and Contingencies]]
+[[#Logically Equivalent]]
 
 #### Tautologies, Contradictions, and Contingencies
 
@@ -18,6 +19,14 @@ A *contradiction* is a proposition which is always false.
 A *contingency* is a proposition which is neither a tautology nor a contradiction, such as *p*
 
 ![[CaptureDis_TCCChart.png]]
+
+#### Logically Equivalent
+
+Two compound propositions *p* and *q* are logically equivalent if *q* $\leftrightarrow$ *q* is a tautology
+
+We write this as *p* $\leftrightarrow$ *q* or as p $\equiv$ *q* where *p* and *q* are compound propositions.
+
+
 
 
 
