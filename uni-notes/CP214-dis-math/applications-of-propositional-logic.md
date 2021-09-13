@@ -62,9 +62,9 @@ __Solution__:Let *p* denote "The diagnostic message is stored in the buffer." Le
 * What if "The diagnostic message is not re-transmitted" is added?
 	* __Solution__: Now their will be a $\neg$*q* and there is no satisfying assignment. So this would make the specification not consistent.
 	
-	#### Logic Puzzles
-	>__Example__: An island has two kinds of inhabitants, knights, who always tell the truth, and their opposites, knaves, who always lie. You encounter two people *A* and *B*, if *A* says "*B* is a knight" and *B* says "The two of us are of opposite types", what are *A* and *B*
+#### Logic Puzzles
+>__Example__: An island has two kinds of inhabitants, knights, who always tell the truth, and their opposites, knaves, who always lie. You encounter two people *A* and *B*, if *A* says "*B* is a knight" and *B* says "The two of us are of opposite types", what are *A* and *B*
 
-
+their are two options 
 
 
