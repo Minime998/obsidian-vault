@@ -73,7 +73,9 @@ We can show that two expressions are logically equivalent by developing a series
 
 To prove that *A* $\equiv$ *B* we produce a series of equivalences beginning with *A* and ending with *B*
 
-*A* $\equiv$ *A*
+![[CaptureDis_Series.png]]
+
+Keep in mind that whenever a proposition (represented by a propositional variable) occurs in the equivalences listed earlier, it may be replaced by an arbitrarily complex compound proposition 
 
 
 
