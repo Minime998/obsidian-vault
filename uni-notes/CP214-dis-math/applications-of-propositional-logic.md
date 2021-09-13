@@ -55,7 +55,10 @@ The specifications are consistent since all *p*, *q*, *t* and *r* are true.
 	>"The diagnostic message is not stored in the buffer."
 	>"If the diagnostic message is stored in the buffer, then it is re-transmitted."
 
-__Solution__:Let *p* denote "The diagnostic message is stored in the buffer." Let *q* denote "The diagnostic message is re-transmitted" The specification can be wr
+__Solution__:Let *p* denote "The diagnostic message is stored in the buffer." Let *q* denote "The diagnostic message is re-transmitted" The specification can be written as: *p* $\vee$ *q*, $\neg$*p*, *p* $\rightarrow$ *q*. When *q* is false, and *q* is true all three statements are true. So, the specification is consistent
+
+* What if "The diagnostic message is not re-transmitted" is added?
+	* __Solution__: Now their will be a $\neg$*q* and there is no satisfying assignment. So
 
 
 
