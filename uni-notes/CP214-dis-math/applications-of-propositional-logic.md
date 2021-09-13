@@ -86,6 +86,10 @@ Electronic circuits; each input/output signal can be viewed as 0 or 1.
 
 Complicated circuits are constructed from three basic circuits called gates 
 
+![](CaptureDis_BasicLogic.png)
 
+* The inverter (__NOT gate__) takes an input and produces the negation of that bit.
+* The __OR gate__ takes two input bits and produces the value equivalent to the disjunction of the two bits.
+* The __AN
 
 
