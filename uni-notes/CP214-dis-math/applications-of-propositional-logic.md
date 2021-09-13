@@ -3,6 +3,8 @@
 ## Section 1.2
 ### Summary 
 [[#Translating English Sentences]]
+[[#System Specifications]]
+
 
 #### Translating English Sentences
 
@@ -31,3 +33,11 @@ System and software engineers take requirements in English and express then in a
 
 >__Example__: Express in propositional logic
 >"The automated reply cannot be sent when the file system is full"
+
+*q* $\rightarrow$ $\neg$*p*
+
+##### Consistent System Specifications
+
+A list of propositions is *consistent* if it is possible to assign truth values to the proposition variables so that each proposition is true.
+
+>
