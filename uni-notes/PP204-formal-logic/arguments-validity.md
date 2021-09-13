@@ -9,6 +9,7 @@
 - [[#A strange thing about validity]]
 
 [[#Two ways an argument can go wrong]]
+- soundness
 
 ### Arguments
 An *argument* is a series of statements consisting of premises and a conclusion
@@ -50,7 +51,7 @@ Therefore, Jill is an alien
 - The conclusion might not follow from the premises.
 	-->*Entailment*, or logical consequence, is a relation between premises and conclusion 
 	
->If the premises are assumed to be true, then is it impossible for the conclusion to be false?
+If the premises are assumed to be true, then is it impossible for the conclusion to be false?
 
 ![](CaptureLogic_argumentwrong.png)
 
@@ -62,5 +63,8 @@ A valid argument?
 
 Answer: 
 (see [[#Validity]])
-according to the definiation of validity an arguemtn is on valid 
+
+According to the definition of validity an argument is only valid if it is impossible for the premises to be true and the conclusion false which is exactly how this argument is structured as the premises are true yet the conclusion could be false therefore, the argument can not be called valid and by extension sound
+
+
 
