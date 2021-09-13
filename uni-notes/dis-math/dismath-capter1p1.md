@@ -46,21 +46,21 @@ $\neg$*p* and has the truth table:
 
 ![](CaptureDis_Negation.png)
 
-**Example**: if *p* denotes "The Earth is round.", then $\neg$*p* denotes "It is not the case that the Earth is round" or more simply "The Earth is not round"
+>**Example**: if *p* denotes "The Earth is round.", then $\neg$*p* denotes "It is not the case that the Earth is round" or more simply "The Earth is not round"
 
 #### Compound Propositions: Conjunction
 The *conjunction* of propositions *p* and *q* is denoted by *p $\wedge$ q* and has the truth table:
 
 ![](CaptureDis_Conjunction.PNG)
 
-**Example**: if *p* denotes "I am at home." and *q* denotes "It is raining." then *p $\wedge$ q* denotes "I am at home, and it is raining."
+>**Example**: if *p* denotes "I am at home." and *q* denotes "It is raining." then *p $\wedge$ q* denotes "I am at home, and it is raining."
 
 #### Compound Propositions: Disjunction
 The *disjunction* of propositions *p* and *q* is denoted by *p $\vee$ q* and has the truth table:
 
 ![](CaptureDis_Disjunction.PNG)
 
-**Example**: if *p* denotes "I am at home." and *q* denotes "It is raining." then *p $\vee$ q* denotes "I am at home or it is raining." 
+>**Example**: if *p* denotes "I am at home." and *q* denotes "It is raining." then *p $\vee$ q* denotes "I am at home or it is raining." 
 
 ##### The Connective Or in English
 In English "or" has two distinct meanings. Inclusive or or exclusive or

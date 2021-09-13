@@ -6,14 +6,16 @@
 - [[#Premise Indicators]]
 
 [[#Validity]]
+- [[#A strange thing about validity]]
 
 ### Arguments
 An *argument* is a series of statements consisting of premises and a conclusion
 - The conclusion is meant to follow from the argument's premises
 Often, in English the conclusion will come after the premises. But, this need not always be the case.
-- Dumbo is an elephant. All elephants are bigger than a breadbox. <Mark>Therefore</Mark>, Dumbo is bigger than a breadbox
+- >Dumbo is an elephant. All elephants are bigger than a breadbox. <Mark>Therefore</Mark>, Dumbo is bigger than a breadbox
+
 But we could have said:
-- Dumbo is bigger than a breadbox. <Mark>After all</Mark>, Dumbo is an elephant, and all elephants are bigger than a bread box
+- >Dumbo is bigger than a breadbox. <Mark>After all</Mark>, Dumbo is an elephant, and all elephants are bigger than a bread box
 
 #### Conclusion Indicators
 Notice, in the first way of putting our argument about Dumbo, the conclusion was signaled by the work "therefore".
@@ -32,7 +34,8 @@ An argument is **valid** iff it is impossible for the premises to be true and th
 
 ### A strange thing about *validity*
 It has to do with the *relationship* between premises and conclusion. *If* the premises were true, must the conclusion also be true?
+- yes!
 
-	All professors are aliens.
-	<u>Jill is a professor</u>
-	Therefore, Jill is an alien
+>All professors are aliens.
+<u>Jill is a professor</u>
+Therefore, Jill is an alien
