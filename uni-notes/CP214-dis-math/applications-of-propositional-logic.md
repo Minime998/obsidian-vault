@@ -4,7 +4,9 @@
 - [[propositional-logic#^1d87bb|Section 1.1]]
 ### Summary 
 [[#Translating English Sentences]]
+
 [[#System Specifications]]
+- [[#Consistent System Specifications]]
 
 
 #### Translating English Sentences
@@ -58,7 +60,10 @@ The specifications are consistent since all *p*, *q*, *t* and *r* are true.
 __Solution__:Let *p* denote "The diagnostic message is stored in the buffer." Let *q* denote "The diagnostic message is re-transmitted" The specification can be written as: *p* $\vee$ *q*, $\neg$*p*, *p* $\rightarrow$ *q*. When *q* is false, and *q* is true all three statements are true. So, the specification is consistent
 
 * What if "The diagnostic message is not re-transmitted" is added?
-	* __Solution__: Now their will be a $\neg$*q* and there is no satisfying assignment. So
+	* __Solution__: Now their will be a $\neg$*q* and there is no satisfying assignment. So this would make the specification not consistent.
+	
+	#### Logic Puzzles
+	>__Example__: An island has two kinds of inhabitants, knights, who always tell the truth, and their opposites, knaves, who always lie. You encounter two people *A* and *B*, if *A* says "*B* is a knight" and *B* says "The two of us are of opposite types", what are *A* and *B*
 
 
 
