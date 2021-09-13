@@ -74,7 +74,7 @@ According to the definition of validity an argument is only valid if it is impos
 
 this is proving invalidity by *counterexample* ^d0cf7b
 
-## Deductive arguments vs. inductive arguments
+ ### Deductive arguments vs. inductive arguments
 >Note: When you are thinking about what is "possible" or considering "cases" or scenarios, make sure that you don't equivocate or rely on vagueness in your cases. Since logician theorize about logical consequences/entailment, they don't want the distraction of ambiguity of terms (equivocation) or indeterminate predicate terms. Rather fix terms as clearly as possible (that is, both names and predicates or properties should be clearly interpreted and not shifting), so that we can then ask, given that statement or claim what follows from it?
 
 Can't do this:
@@ -86,3 +86,12 @@ Ryan is a person, not all Ryans
 - So we evaluate arguments as __valid__ or __invalid__, __sound__ or __unsound__.
 	- But not: true or false. *Sentences* are evaluated as true or false
 		- *arguments* are evaluated as valid or invalid, sound or unsound 
+
+## Types of Validity
+Formal Validity:
+>All professors are aliens.		
+[All As are B.]
+>Jill is a professor	
+[Jill is an A]
+>Therefor, Jill is an alien		
+[Therefore, Jill is a B]
