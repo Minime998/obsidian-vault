@@ -9,7 +9,6 @@
 - [[#A strange thing about validity]]
 
 [[#Two ways an argument can go wrong]]
-[[soundness]]
 
 ### Arguments
 An *argument* is a series of statements consisting of premises and a conclusion
@@ -52,3 +51,4 @@ Therefore, Jill is an alien
 	-->*Entailment*, or logical consequence, is a relation between premises and conclusion 
 	
 >If the premises are assumed to be true, then is it impossible for the conclusion to be false?
+![](CaptureLogic_argumentwrong.png)
