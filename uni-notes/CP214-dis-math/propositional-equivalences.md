@@ -26,6 +26,14 @@ Two compound propositions *p* and *q* are logically equivalent if *q* $\leftrigh
 
 We write this as *p* $\leftrightarrow$ *q* or as p $\equiv$ *q* where *p* and *q* are compound propositions.
 
+Two compound propositions *p* and *q* are equivalent if and only if the columns in a truth table giving their truth values agree.
+
+This truth tale shows that $\neg$*p* $\vee$ *q* is equivalent to *p* $\rightarrow$ *q*
+
+![[CaptureDis_LogicallyEquivalentTable.png]]
+
+
+
 
 
 
