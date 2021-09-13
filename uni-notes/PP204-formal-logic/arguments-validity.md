@@ -9,9 +9,9 @@
 - [[#A strange thing about validity]]
 
 [[#Two ways an argument can go wrong]]
-- [[arguments-validity#^57e5f2]]
-- [[arguments-validity#^f54b57]]
-- [[arguments-validity#^d0cf7b]]
+- [[arguments-validity#^57e5f2|soundness]]
+- [[arguments-validity#^f54b57|entailment]]
+- [[arguments-validity#^d0cf7b|counterexample]]
 
 ### Arguments
 An *argument* is a series of statements consisting of premises and a conclusion
@@ -50,9 +50,11 @@ Therefore, Jill is an alien
 ## Two ways an argument can go wrong
 - one or more of the premises might be false
 	-->*Soundness:* An argument is sound if and only if it is valid AND its premises are true. ^57e5f2
+
 - The conclusion might not follow from the premises.
 	-->*Entailment*, or logical consequence, is a relation between premises and conclusion 
-	 ^f54b57
+   ^f54b57
+
 If the premises are assumed to be true, then is it impossible for the conclusion to be false?
 
 ![](CaptureLogic_argumentwrong.png)
@@ -69,3 +71,5 @@ Answer:
 According to the definition of validity an argument is only valid if it is impossible for the premises to be true and the conclusion false which is exactly how this argument is structured as the premises are true yet the conclusion could be false therefore, the argument can not be called valid and by extension sound
 
 this is proving invalidity by *counterexample* ^d0cf7b
+
+## Deductive arguments vs. inductive arguments
