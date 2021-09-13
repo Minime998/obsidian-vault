@@ -5,6 +5,8 @@
 - [[#Conclusion Indicators]]
 - [[#Premise Indicators]]
 
+[[#Validity]]
+
 ### Arguments
 An *argument* is a series of statements consisting of premises and a conclusion
 - The conclusion is meant to follow from the argument's premises
@@ -25,4 +27,7 @@ In our second example, the conclusion was stated first and the words "after all"
 ### Validity
 An argument is **valid** iff it is impossible for the premises to be true and the conclusion false
 - the conclusion must be true
-Validity concerns the logical relationship between an argument's oremises and conclusion. If an argument is valid it tells us that <u>if</u>
+
+	Validity concerns the logical relationship between an argument's premises and conclusion. If an argument is valid it tells us that <u>if</u> the premises are true, so the conclusion must also be true. Our definition does not say that the premises must be true or are true. In fact it is possible to construct an argument that is **logically valid**, yet contains one or more false premises
+
+### A Strange thing about
