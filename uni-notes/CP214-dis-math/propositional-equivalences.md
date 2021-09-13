@@ -9,6 +9,7 @@
 
 [[#Logically Equivalent]]
 - [[#Key Logical Equivalences]]
+	- [[#More Logical Equivalences]]
 
 #### Tautologies, Contradictions, and Contingencies
 
@@ -54,7 +55,14 @@ Associative Laws:
 
 Distributive Laws:
 (*p* $\vee$ (*q* $\wedge$ *r*)) $\equiv$ (*p* $\vee$ *q*) $\wedge$ (*p* $\vee$ *r*)
-(*p* $\wedge$ (*q* ))
+(*p* $\wedge$ (*q* $\vee$ *r*)) $\equiv$ (*p* $\wedge$ *q*) $\vee$ (*p* $\wedge$ *r*)
+
+Absorption Laws:
+*p* $\vee$ (*p* $\wedge$ *q*) $\equiv$ *p* | *p* $\wedge$ (*p* $\vee$ *q*) $\equiv$ *p*
+
+###### More Logical Equivalences
+
+
 
 
 
