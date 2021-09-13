@@ -30,4 +30,9 @@ An argument is **valid** iff it is impossible for the premises to be true and th
 
 	Validity concerns the logical relationship between an argument's premises and conclusion. If an argument is valid it tells us that <u>if</u> the premises are true, so the conclusion must also be true. Our definition does not say that the premises must be true or are true. In fact it is possible to construct an argument that is **logically valid**, yet contains one or more false premises
 
-### A Strange thing about
+### A strange thing about *validity*
+It has to do with the *relationship* between premises and conclusion. *If* the premises were true, must the conclusion also be true?
+
+	All professors are aliens.
+	<u>Jill is a professor</u>
+	Therefore, Jill is an alien
