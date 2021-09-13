@@ -1,7 +1,8 @@
 #dis-math 
 # Applications of Propositional Logic
 ## Section 1.2
-- [[propositional-logic#^1d87bb|Section 1.1]]
+[[propositional-logic|Section 1.1]]
+
 ### Summary 
 [[#Translating English Sentences]]
 

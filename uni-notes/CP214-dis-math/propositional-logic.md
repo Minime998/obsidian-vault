@@ -2,8 +2,6 @@
 # Propositional Logic
 ## Section 1.1
 
-^1d87bb
-
 ### Summary:
 [[#Propositions]]
 [[#Propositional Logic and Compound Propositions]]:
