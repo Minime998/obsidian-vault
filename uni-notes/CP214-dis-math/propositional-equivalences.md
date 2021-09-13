@@ -32,6 +32,14 @@ This truth tale shows that $\neg$*p* $\vee$ *q* is equivalent to *p* $\rightarro
 
 ![[CaptureDis_LogicallyEquivalentTable.png]]
 
+##### Key Logical Equivalences
+
+Identity Laws: *p* $\wedge$ *T* $\equiv$ *p* | *p* $\vee$ *F* $\equiv$ *p*
+
+Domination Laws: *p* $\vee$ *T* $\equiv$ *T* | *p* $wedge$ *F* $\equiv$ *F*
+
+Idempotent Laws: *p* $\vee$ *p* $\equiv$ *p* | *p*
+
 
 
 
