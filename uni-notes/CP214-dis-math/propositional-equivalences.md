@@ -84,6 +84,18 @@ Keep in mind that whenever a proposition (represented by a propositional variabl
 
 ![[CaptureDis_EquivProof2.png]]
 
+#### Propositional Satisfiability
+
+A compound proposition is *satisfiable* if there is an assignment of truth values to its variables that make it true. When no such assignments exist, the compound proposition is *unsatisfiable*.
+
+A compound proposition is unsatisfiable if and only if its negation is a tautology
+
+##### Questions on Propositional Satisfiability
+
+__Example__: Determine the Satisfiability of the following compound propositions:
+
+(*p* $\vee$ $\neg$)
+
 
 
 

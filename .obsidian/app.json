@@ -9,7 +9,10 @@
     "Disjunction",
     "disjunction",
     "biconditional",
-    "iff"
+    "iff",
+    "Satisfiability",
+    "satisfiable",
+    "unsatisfiable"
   ],
   "strictLineBreaks": false,
   "foldHeading": true,
