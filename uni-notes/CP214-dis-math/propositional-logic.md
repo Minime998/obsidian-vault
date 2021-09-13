@@ -4,8 +4,8 @@
 ### Summary:
 [[#Propositions]]
 [[#Propositional Logic and Compound Propositions]]:
-- [[#Compound Propositions Negation]]
-- [[#Compound Propositions Conjunction]]
+- [[#Compound Propositions Negation]] ^ac60f4
+- [[#Compound Propositions Conjunction]] ^80d5ea
 - [[#Compound Propositions Disjunction]]
 - [[#Compound Propositions Implication]] 
 - [[#Understanding Implication]] 
