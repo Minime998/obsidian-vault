@@ -34,4 +34,8 @@ For example, let P(x) denote "x > 0" and the domain be the integers. Then:
 
 Often the domain is denoted by *U*. So in this example *U* is the integers
 
+##### Examples of Propositional Functions
+
+Let "x + y = z"
+
 
