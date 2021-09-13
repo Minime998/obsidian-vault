@@ -46,7 +46,15 @@ Double Negation Laws: $\neg$($\neg$*p*) $\equiv$ *p*
 
 Negation Laws: *p* $\vee$ $\neg$*p* $\equiv$ *T* | *p* $\wedge$ $\neg$*p* $\equiv$ *F*
 
-Commutative Laws: *p* $\vee$ *q* $\equiv$ *q* $\vee$ **
+Commutative Laws: *p* $\vee$ *q* $\equiv$ *q* $\vee$ *p* | *p* $\wedge$ *q* $\equiv$ *q* $\wedge$ *p*
+
+Associative Laws: 
+(*p* $\wedge$ *q*) $\wedge$ *r* $\equiv$ *p* $\wedge$ (*q* $\wedge$ *r*)
+(*p* $\vee$ *q*) $\vee$ *r* $\equiv$ *p* $\vee$ (*q* $\vee$ *r*)
+
+Distributive Laws:
+(*p* $\vee$ (*q* $\wedge$ *r*)) $\equiv$ (*p* $\vee$ *q*) $\wedge$ (*p* $\vee$ *r*)
+(*p* $\wedge$ (*q* ))
 
 
 
