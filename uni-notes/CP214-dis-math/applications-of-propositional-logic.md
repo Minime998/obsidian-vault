@@ -65,7 +65,10 @@ __Solution__:Let *p* denote "The diagnostic message is stored in the buffer." Le
 #### Logic Puzzles
 >__Example__: An island has two kinds of inhabitants, knights, who always tell the truth, and their opposites, knaves, who always lie. You encounter two people *A* and *B*, if *A* says "*B* is a knight" and *B* says "The two of us are of opposite types", what are *A* and *B*
 
-their are two options
+their are two options:
+*p*: A is a knight or *q*: B is a knight
+
+*A* said
 
 
 
