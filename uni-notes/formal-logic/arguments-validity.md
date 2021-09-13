@@ -1,7 +1,10 @@
 #formal-logic
 # Arguments and Validity
-## Arguments
+
+### Arguments
 An *argument* is a series of statements consisting of premises and a conclusion
 - The conclusion is meant to follow from the argument's premises
 Often, in English the conclusion will come after the premises. But, this need not always be the case.
-- Dumbo is an elephant. All elephants are bigger than a breadbox. Therefore, Dumbo is bigger than a bre
+- Dumbo is an elephant. All elephants are bigger than a breadbox. Therefore, Dumbo is bigger than a breadbox
+But we could have said:
+- Dumbo is bigger than a breadbox. After all, Dumbo is an elephant, and all elephants are bigger than a bread box
