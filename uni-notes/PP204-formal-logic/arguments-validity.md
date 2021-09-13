@@ -83,4 +83,6 @@ So, Ryan us now more than 40 years old --> F
 
 Ryan is a person, not all Ryans
 
-So we evaluate arguments as __valid__ or __invalid__
+- So we evaluate arguments as __valid__ or __invalid__, __sound__ or __unsound__.
+	- But not: true or false. *Sentences* are evaluated as true or false
+		- *arguments* are evaluated as valid or invalid, sound or unsound 
