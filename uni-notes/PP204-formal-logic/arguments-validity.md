@@ -88,22 +88,40 @@ Ryan is a person, not all Ryans
 		- *arguments* are evaluated as valid or invalid, sound or unsound 
 
 ## Types of Validity
-Formal Validity:
+### Formal Validity:
 
 >All professors are aliens.		
 >Jill is a professor	
 >Therefor, Jill is an alien
 
+```
 All As are B.
 Jill is an A.
 Therefore, Jill is a B.
+```
 
-Conceptual Validity:
+### Conceptual Validity:
 
 >Rover is a beagle.
 >Therefor, Rover is a dog
 
+```
 Rover is A.
 Therefore, Rover is a B.
+```
 This is because of the *Conceptual relationship*:
 anything that's a beagle is a dog
+
+### Vacuous Validity:
+
+>I am hungry.
+>Therefore, 2+2=4.
+
+Conclusion is a *necessary truth*:
+true in all cases
+
+### Explosive Validity:
+
+> Julie is now 10 years old.
+> Julie is now 70 years old.
+> Therefore, cheese is quite expensive today.
