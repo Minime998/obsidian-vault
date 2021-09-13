@@ -73,3 +73,4 @@ According to the definition of validity an argument is only valid if it is impos
 this is proving invalidity by *counterexample* ^d0cf7b
 
 ## Deductive arguments vs. inductive arguments
+>Note: When you are thinking about what is "possible" or considering "cases" or scenarios, make sure that you don't equivocate or rely on vagueness in your cases. Since logician theorize about logical consequences/entailment, they don't want the distraction of ambiguity of terms (equivocation) or indeterminate predicate terms. Rather fix terms as clearly as possible (that is, both names and predicates or properties should be clearly interpreted and not shifting), so that we can then ask, given that statement or claim what follows from it?
