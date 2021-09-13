@@ -5,5 +5,9 @@
 [[propositional-logic|Section 1.1]]
 
 ### Summary
+[[#Tautologies Contradictions and Contingencies]]
 
-#### Tautologies, Contradictions, and Contin
+#### Tautologies, Contradictions, and Contingencies
+
+A *tautology* is a proposition which is always true.
+* Example: *p* $\vee$ $\neg$*p*
