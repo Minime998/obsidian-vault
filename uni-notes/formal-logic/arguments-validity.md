@@ -23,4 +23,6 @@ In our second example, the conclusion was stated first and the words "after all"
 - *after all* is a **premise indicator**. Often premise indicators: *given that, since, because*
 
 ### Validity
-An argument is **val
+An argument is **valid** iff it is impossible for the premises to be true and the conclusion false
+- the conclusion must be true
+Validity concerns the logical relationship between an argument's oremises and conclusion. If an argument is valid it tells us that <u>if</u>

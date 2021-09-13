@@ -8,7 +8,8 @@
     "Biconditional",
     "Disjunction",
     "disjunction",
-    "biconditional"
+    "biconditional",
+    "iff"
   ],
   "strictLineBreaks": false,
   "foldHeading": true,
