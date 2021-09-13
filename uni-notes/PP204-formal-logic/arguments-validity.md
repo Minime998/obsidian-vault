@@ -13,6 +13,8 @@
 - [[arguments-validity#^f54b57|entailment]]
 - [[arguments-validity#^d0cf7b|counterexample]]
 
+[[#Deductive arguments vs inductive arguments]]
+
 ### Arguments
 An *argument* is a series of statements consisting of premises and a conclusion
 - The conclusion is meant to follow from the argument's premises
@@ -74,3 +76,11 @@ this is proving invalidity by *counterexample* ^d0cf7b
 
 ## Deductive arguments vs. inductive arguments
 >Note: When you are thinking about what is "possible" or considering "cases" or scenarios, make sure that you don't equivocate or rely on vagueness in your cases. Since logician theorize about logical consequences/entailment, they don't want the distraction of ambiguity of terms (equivocation) or indeterminate predicate terms. Rather fix terms as clearly as possible (that is, both names and predicates or properties should be clearly interpreted and not shifting), so that we can then ask, given that statement or claim what follows from it?
+
+Can't do this:
+Ryan is now 43 years old. --> T
+So, Ryan us now more than 40 years old --> F
+
+Ryan is a person, not all Ryans
+
+So we evaluate arguments as __valid__ or __invalid__
