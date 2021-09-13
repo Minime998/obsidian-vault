@@ -94,8 +94,9 @@ A compound proposition is unsatisfiable if and only if its negation is a tautolo
 
 __Example__: Determine the Satisfiability of the following compound propositions:
 
-(*p* $\vee$ $\neg$)
+(*p* $\vee$ $\neg$*q*) $\wedge$ (*q* $\vee$ $\neg$*r*) $\wedge$ (*r* $\vee$ $\neg$*p*)
 
+__Solution__: assign T to all variables 
 
 
 
