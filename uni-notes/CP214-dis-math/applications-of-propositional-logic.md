@@ -76,5 +76,16 @@ their are two options:
 
 For this to be consistent both of these specifications should be true. This satisfies when both p and q are false
 
+__Therefore__: Both are knaves
+
+#### Logic Circuits (more in chapter 12)
+
+Electronic circuits; each input/output signal can be viewed as 0 or 1.
+* 0 represents __False__
+* 1 represents __True__
+
+Complicated circuits are constructed from three basic circuits called gates 
+
+
 
 
