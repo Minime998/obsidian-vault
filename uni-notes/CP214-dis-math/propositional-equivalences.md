@@ -11,6 +11,7 @@
 - [[#Key Logical Equivalences]]
 	- [[#More Logical Equivalences]]
 	- [[#Constructing new Logical Equivalences]]
+- [[#Equivalence Proofs]]
 
 #### Tautologies, Contradictions, and Contingencies
 
@@ -77,7 +78,11 @@ To prove that *A* $\equiv$ *B* we produce a series of equivalences beginning wit
 
 Keep in mind that whenever a proposition (represented by a propositional variable) occurs in the equivalences listed earlier, it may be replaced by an arbitrarily complex compound proposition 
 
+#### Equivalence Proofs
 
+![[CaptureDis_EquivProof1.png]]
+
+![[CaptureDis_EquivProof2.png]]
 
 
 
