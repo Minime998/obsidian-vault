@@ -58,4 +58,5 @@ Therefore, Jill is an alien
 
 conclusion: Alice went to the playground.
 
+Since it is possible that Alice could be pressured (for example) into going into the movie theater, it is the possible for the premises to be false yet the conclusion to be t
 
