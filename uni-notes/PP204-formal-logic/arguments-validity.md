@@ -89,9 +89,21 @@ Ryan is a person, not all Ryans
 
 ## Types of Validity
 Formal Validity:
+
 >All professors are aliens.		
-[All As are B.]
 >Jill is a professor	
-[Jill is an A]
->Therefor, Jill is an alien		
-[Therefore, Jill is a B]
+>Therefor, Jill is an alien
+
+All As are B.
+Jill is an A.
+Therefore, Jill is a B.
+
+Conceptual Validity:
+
+>Rover is a beagle.
+>Therefor, Rover is a dog
+
+Rover is A.
+Therefore, Rover is a B.
+This is because of the *Conceptual relationship*:
+anything that's a beagle is a dog
