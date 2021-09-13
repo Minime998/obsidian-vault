@@ -40,4 +40,9 @@ System and software engineers take requirements in English and express then in a
 
 A list of propositions is *consistent* if it is possible to assign truth values to the proposition variables so that each proposition is true.
 
->
+>__Example__: Are these specifications consistent?
+	>"The system has at least 8GB of memory."
+	>"The system has Intel i5 or AMD 4500 processor."
+	>"The system has 512GB of storage."
+
+Let *p* denote "The system has at least 8GB of memory.", *q* denote "The system has Intel i5 or AMD 4500 processor." and *r* denote "The has 512GB of storage." The specification can be written as: *p*,*q*,*r*
