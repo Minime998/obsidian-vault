@@ -36,11 +36,11 @@ An argument is **valid** iff it is impossible for the premises to be true and th
 It has to do with the *relationship* between premises and conclusion. *If* the premises were true, must the conclusion also be true?
 - yes!
 
->All professors are aliens.
-<u>Jill is a professor</u>
-Therefore, Jill is an alien
+	>All professors are aliens.
+	<u>Jill is a professor</u>
+	Therefore, Jill is an alien
 
 ## Two ways an argument can go wrong
 - one or more of the premises might be false
-and/or
-- The conclusion might not follow
+	--> *Entailment*, or logical consequence, is a relation between premises and conclusion 
+- The conclusion might not follow from the premises.
