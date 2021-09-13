@@ -51,4 +51,7 @@ Therefore, Jill is an alien
 	-->*Entailment*, or logical consequence, is a relation between premises and conclusion 
 	
 >If the premises are assumed to be true, then is it impossible for the conclusion to be false?
+
 ![](CaptureLogic_argumentwrong.png)
+
+>Either Alice went to the playground or she went to the movies. She didn't really like anything paying at the movie theater.
