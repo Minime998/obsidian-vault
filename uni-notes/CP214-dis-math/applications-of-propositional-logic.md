@@ -46,8 +46,17 @@ A list of propositions is *consistent* if it is possible to assign truth values 
 	>"The system has Intel i5 or AMD 4500 processor."
 	>"The system has 512GB of storage."
 
-Let *p* denote "The system has at least 8GB of memory.", *q* $\vee$ *t* denote "The system has Intel i5 or AMD 4500 processor." and *r* denote "The has 512GB of storage." The specification can be written as: *p*,*q*,*t*,r*
+__Solution__:Let *p* denote "The system has at least 8GB of memory.", *q* $\vee$ *t* denote "The system has Intel i5 or AMD 4500 processor." and *r* denote "The has 512GB of storage." The specification can be written as: *p*,*q*,*t*,*r*
 
-The specifications are consistent when all *p*, *q*, *t* and *r* are true.
+The specifications are consistent since all *p*, *q*, *t* and *r* are true.
+
+>__Example__: Are these specifications consistent?
+	>"The diagnostic message is stored in the buffer, or it is re-transmitted."
+	>"The diagnostic message is not stored in the buffer."
+	>"If the diagnostic message is stored in the buffer, then it is re-transmitted."
+
+__Solution__:Let *p* denote "The diagnostic message is stored in the buffer." Let *q* denote "The diagnostic message is re-transmitted" The specification can be wr
+
+
 
 
