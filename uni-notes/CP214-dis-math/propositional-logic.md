@@ -6,12 +6,12 @@
 [[#Propositional Logic and Compound Propositions]]:
 - [[#Compound Propositions Negation]] ^ac60f4
 - [[#Compound Propositions Conjunction]] ^80d5ea
-- [[#Compound Propositions Disjunction]]
-- [[#Compound Propositions Implication]] 
+- [[#Compound Propositions Disjunction]] ^0eae32
+- [[#Compound Propositions Implication]]  ^adcdb1
 - [[#Understanding Implication]] 
 - [[#Different ways of Expressing p rightarrow q]]
 - [[#Converse Contrapositive and Inverse]]
-- [[#Biconditional]]
+- [[#Biconditional]] ^33945f
 - [[#Truth Tables For Compound Propositions]]
 - [[#Equivalent Propositions]]
 - [[#Precedence of Logical Operators]]

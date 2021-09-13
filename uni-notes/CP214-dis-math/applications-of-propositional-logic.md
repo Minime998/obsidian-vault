@@ -6,4 +6,5 @@
 #### Translating English Sentences
 
 Steps to convert an English sentence to a statement in propositional logic
-- identify atomic (simple) propositions and represent using propositional variables 
+- identify atomic (simple) propositions and represent using propositional variables
+- determine approp
