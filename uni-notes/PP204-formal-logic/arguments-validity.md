@@ -55,3 +55,7 @@ Therefore, Jill is an alien
 ![](CaptureLogic_argumentwrong.png)
 
 >Either Alice went to the playground or she went to the movies. She didn't really like anything paying at the movie theater.
+
+conclusion: Alice went to the playground.
+
+
