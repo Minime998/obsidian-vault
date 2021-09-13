@@ -10,6 +10,7 @@
 [[#Logically Equivalent]]
 - [[#Key Logical Equivalences]]
 	- [[#More Logical Equivalences]]
+	- [[#Constructing new Logical Equivalences]]
 
 #### Tautologies, Contradictions, and Contingencies
 
@@ -65,6 +66,14 @@ Absorption Laws:
 ![[CaptureDis_Table7.png]]
 
 ![[CaptureDis_Table8.png]]
+
+###### Constructing new Logical Equivalences
+
+We can show that two expressions are logically equivalent by developing a series of logically equivalent statements.
+
+To prove that *A* $\equiv$ *B* we produce a series of equivalences beginning with *A* and ending with *B*
+
+*A* $\equiv$ *A*
 
 
 
