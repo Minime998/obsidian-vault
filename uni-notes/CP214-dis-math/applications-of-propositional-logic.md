@@ -11,5 +11,11 @@ Steps to convert an English sentence to a statement in propositional logic
 
 >"If I go to Harry's or to the country, then I will not go shopping."
 
-* p: I go to Harry's
-* q:
+* *p*: I go to Harry's
+* *q*: I go to the country.
+* *r*: I will go shopping.
+
+If *p* or *q*, then not *r*.
+
+(*p* $\vee$ *q*) $\rightarrow$ $\neg$*r*
+
