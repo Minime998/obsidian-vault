@@ -2,6 +2,7 @@
 # Applications of Propositional Logic
 ## Section 1.2
 ### Summary 
+[[#Translating English Sentences]]
 
 #### Translating English Sentences
 
@@ -19,3 +20,7 @@ If *p* or *q*, then not *r*.
 
 (*p* $\vee$ *q*) $\rightarrow$ $\neg$*r*
 
+>"You can access the internet from campus only if you are a computer science major or you are not a freshman."
+
+Let *a*, *c*, and *f* represent respectively
+*a* $\rightarrow$ (*c* $\vee$ $\neg$*f*)
