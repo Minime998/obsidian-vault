@@ -6,7 +6,9 @@
 
 ### Summary
 [[#Tautologies Contradictions and Contingencies]]
+
 [[#Logically Equivalent]]
+- [[#Key Logical Equivalences]]
 
 #### Tautologies, Contradictions, and Contingencies
 
@@ -36,9 +38,15 @@ This truth tale shows that $\neg$*p* $\vee$ *q* is equivalent to *p* $\rightarro
 
 Identity Laws: *p* $\wedge$ *T* $\equiv$ *p* | *p* $\vee$ *F* $\equiv$ *p*
 
-Domination Laws: *p* $\vee$ *T* $\equiv$ *T* | *p* $wedge$ *F* $\equiv$ *F*
+Domination Laws: *p* $\vee$ *T* $\equiv$ *T* | *p* $\wedge$ *F* $\equiv$ *F*
 
-Idempotent Laws: *p* $\vee$ *p* $\equiv$ *p* | *p*
+Idempotent Laws: *p* $\vee$ *p* $\equiv$ *p* | *p* $\wedge$ *p* $\equiv$ *p*
+
+Double Negation Laws: $\neg$($\neg$*p*) $\equiv$ *p*
+
+Negation Laws: *p* $\vee$ $\neg$*p* $\equiv$ *T* | *p* $\wedge$ $\neg$*p* $\equiv$ *F*
+
+Commutative Laws: *p* $\vee$ *q* $\equiv$ *q* $\vee$ **
 
 
 
