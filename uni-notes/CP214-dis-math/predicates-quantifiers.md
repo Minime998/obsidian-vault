@@ -120,3 +120,13 @@ __Examples__:
 The uniqueness quantifier is not really needed as the restriction that there is a unique *x* such that P(x) can be expressed as:
 - $\exists$*x*(P(x) $\wedge$ $\forall$ *y*(P(y) $\rightarrow$ *y* = x))
 
+##### Thinking about Quantifiers
+
+When the domain of discourse is finite, we can think of quantification as looping through the elements of the domain.
+
+To evaluate $\forall$*x* P(x) loop through all x in the domain.
+* If at every step P(x) is true, then $\forall$*x* P(x) is true;
+* If at every step P(x) is false, then ($\forall$x P(x)) is false and the loop terminates.
+
+To evaluate $\exists$*x* P(x) loop through all x in the domain 
+* If at some step, P(x) is true, then $$
