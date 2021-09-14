@@ -14,6 +14,11 @@
 
 [[#Compound Expressions]]
 
+[[#Quantifiers]]
+- [[#Universal Quantifier]]
+- [[#Existential Quantifier]]
+- [[#Uniqueness Quantifier]]
+
 #### Propositional Logic Not Enough
 
 If we have:
@@ -96,4 +101,10 @@ __Examples__:
 $\exists$*x* *P(x)* is read as "For some *x*, *P(x)*", or as "There is an *x* such that P(x)", or "For at least one *x*, P(x)"
 
 __Examples__:
-1. If *P(x)* denotes "x > 0" and *U* is the integers, then $\exists$*x* *P(x)*
+1. If *P(x)* denotes "x > 0" and *U* is the integers, then $\exists$*x* *P(x)* is true. It is also true if *U* is the positive integers.
+2. If *P(x)* denotes "x < 0" and *U* is the positive integers, then $\exists$*x* *P(x)* is false.
+3. If *P(x)* denotes "x is even" and *U* is the integers, then $\exists$*x* P(x) is true
+
+##### Uniqueness Quantifier
+
+$\exists$!*x* *P(x)*
