@@ -36,6 +36,16 @@ Often the domain is denoted by *U*. So in this example *U* is the integers
 
 ##### Examples of Propositional Functions
 
-Let "x + y = z"
+Let "x + y = z" be denoted by R(x,y,z) and U (For all three variables) be the integers. Find these truth tables:
+- R(2,-1,5)
+	- __Solution__: F
+- R(x,3,z)
+	- __Solution__: Not a Proposition
+
+Now let "x -y = z" be denoted by Q(x, y, z) with U as the integers. Find these truth values:
+- Q(2,-1,3)
+	- __Solution__: T
+
+####
 
 
