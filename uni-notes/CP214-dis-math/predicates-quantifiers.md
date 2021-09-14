@@ -20,7 +20,13 @@
 - [[#Uniqueness Quantifier]]
 - [[#Thinking about Quantifiers]]
 
-[[#p]]
+[[#Precedence of Quantifiers]]
+[[#Translating from English to Logic]]
+[[#Equivalences in Predicate Logic]]
+[[#Thinking about Quantifiers as Conjunctions and Disjunctions]]
+[[#Negating Quantified Expressions]]
+[[#De Morgan's Laws for quantifiers]]
+
 
 
 
@@ -158,14 +164,14 @@ First decide on the domain *U*
 - Solution 2__: But if *U* is all people, also define a propositional function S(x) denoting "x is a student in this class" and translate as $\forall$*x* (S(x) $\rightarrow$ J(x)).
 	- $\forall$*x* (S(x) $\wedge$ J(x)) is not correct as it would include everyone not just the people in the class
 	
-	#### Equivalences in Predicate Logic
+#### Equivalences in Predicate Logic
 	
-	Statements involving predicates and quantifiers are logically equivalent if and only if they have the same truth value
-	* for every predicate substituted into these statements and
-	* for every domain of discourse used for the variables in the expression
+Statements involving predicates and quantifiers are logically equivalent if and only if they have the same truth value
+* for every predicate substituted into these statements and
+* for every domain of discourse used for the variables in the expression
 	
-	The notation S $\equiv$ T indicates that S and T are logically equivalent.
-	__Example__: $\forall$*x* $\neg$$\neg$S(X) $\equiv$ $\forall$*x* S(x)
+The notation S $\equiv$ T indicates that S and T are logically equivalent.
+__Example__: $\forall$*x* $\neg$$\neg$S(X) $\equiv$ $\forall$*x* S(x)
 
 #### Thinking about Quantifiers as Conjunctions and Disjunctions
 
@@ -191,6 +197,7 @@ Symbolically $\neg$$\exists$*x* J(x) and $\forall$*x* $\neg$J(x) are equivalent
 
 The rules for negating quantifiers are:
 
+![[CaptureDis_MorganQuant.png]]
 
 The reasoning in the table shows that:
 - $\neg$$\forall$*x*P(x) $\equiv$ $\exists$*x*$\neg$P(x)
