@@ -13,4 +13,9 @@
 Nested quantifiers are often necessary to express the meaning of sentences in English as well as important concepts in computer science and mathematics.
 
 __Example__: "Every real number has an inverse" is:
-- $\forall$
+- $\forall$*x* $\exists$*y*(x + y = 0)
+
+Where the domains of x and y are real numbers.
+
+We can also think of nested propositional functions:
+- $\forall$*x* $\exists$*y*(x + y = 0) can be viewed as $\forall$*x* Q(x) where Q(x) is $\exists$*y* P(x,y) where P(x,y) is ( x + y = 0)
