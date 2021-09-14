@@ -12,7 +12,8 @@
     "iff",
     "Satisfiability",
     "satisfiable",
-    "unsatisfiable"
+    "unsatisfiable",
+    "Disjunctions"
   ],
   "strictLineBreaks": false,
   "foldHeading": true,

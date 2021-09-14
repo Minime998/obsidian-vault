@@ -161,3 +161,14 @@ First decide on the domain *U*
 	
 	The notation S $\equiv$ T indicates that S and T are logically equivalent.
 	__Example__: $\forall$*x* $\neg$$\neg$S(X) $\equiv$ $\forall$*x* S(x)
+
+#### Thinking about Quantifiers as Conjunctions and Disjunctions
+
+If the domain is finite, a universally quantified proposition is equivalent to a conjunction of propositions without quantifiers and quantifiers and an existentially quantified proposition is equivalent to a disjunction of propositions without quantifiers.
+
+If *U* consists of the integers 1,2, and 3:
+- $\forall$*x* P(x) $\equiv$ P(1) $\wedge$ P(2) $\wedge$ P(3)
+- $\exists$*x* P(x) $\equiv$ P(1) $\vee$ P(2) $\vee$ P(3)
+
+Even if the domain are infinite, you can still think of the quantifiers in this fashion, but the equivalent expressions wihtout quantifiers will be infitiely long 
+
