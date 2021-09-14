@@ -152,3 +152,12 @@ First decide on the domain *U*
 - __Solution__: If *U* is all students in this class, define a propositional function J(x) denoting "x has taken a course in Java" and translate as $\forall$*x* J(x).
 - Solution 2__: But if *U* is all people, also define a propositional function S(x) denoting "x is a student in this class" and translate as $\forall$*x* (S(x) $\rightarrow$ J(x)).
 	- $\forall$*x* (S(x) $\wedge$ J(x)) is not correct as it would include everyone not just the people in the class
+	
+	#### Equivalences in Predicate Logic
+	
+	Statements involving predicates and quantifiers are logically equivalent if and only if they have the same truth value
+	* for every predicate substituted into these statements and
+	* for every domain of discourse used for the variables in the expression
+	
+	The notation S $\equiv$ T indicates that S and T are logically equivalent.
+	__Example__: $\forall$*x* $\neg$$\neg$S(X) $\equiv$ $\forall$*x* S(x)
