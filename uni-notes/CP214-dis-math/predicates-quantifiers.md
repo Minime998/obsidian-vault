@@ -118,4 +118,5 @@ __Examples__:
 2. But is P(x) denotes "x > 0" then $\exists$!*x* *P(x)* is false.
 
 The uniqueness quantifier is not really needed as the restriction that there is a unique *x* such that P(x) can be expressed as:
-- $\exists$*x*(P(x) $\wedge$)
+- $\exists$*x*(P(x) $\wedge$ $\forall$ *y*(P(y) $\rightarrow$ *y* = x))
+
