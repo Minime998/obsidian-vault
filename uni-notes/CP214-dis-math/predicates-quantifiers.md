@@ -170,5 +170,14 @@ If *U* consists of the integers 1,2, and 3:
 - $\forall$*x* P(x) $\equiv$ P(1) $\wedge$ P(2) $\wedge$ P(3)
 - $\exists$*x* P(x) $\equiv$ P(1) $\vee$ P(2) $\vee$ P(3)
 
-Even if the domain are infinite, you can still think of the quantifiers in this fashion, but the equivalent expressions wihtout quantifiers will be infitiely long 
+Even if the domain are infinite, you can still think of the quantifiers in this fashion, but the equivalent expressions without quantifiers will be infinitely long.
 
+#### Negating Quantified Expressions
+
+Now Consider $\exists$*x* J(x)
+- "There is a student in this class who has taken a course in java."
+Where J(x) is "x has taken a course in java."
+
+Negating the original statement gives "it is not the case that there is a student in this class who has taken java." This implies that "Every student in this class has not taken java"
+
+Symbolically $\neg$$\exists$*x* J(x) and $\forall$*x* $\neg$J(x)
