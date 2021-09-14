@@ -27,9 +27,6 @@
 [[#Negating Quantified Expressions]]
 [[#De Morgan's Laws for quantifiers]]
 
-
-
-
 #### Propositional Logic Not Enough
 
 If we have:

@@ -20,7 +20,7 @@
   "foldHeading": true,
   "foldIndent": false,
   "attachmentFolderPath": "uni-notes/PP204-formal-logic/note-images",
-  "fileSortOrder": "byCreatedTime",
+  "fileSortOrder": "byCreatedTimeReverse",
   "showUnsupportedFiles": true,
   "defaultViewMode": "preview"
 }

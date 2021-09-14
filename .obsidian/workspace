@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "uni-notes/formal-logic/Untitled.md",
-            "mode": "source"
+            "file": "uni-notes/CP214-dis-math/propositional-equivalences.md",
+            "mode": "preview"
           }
         }
       }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2867e27739ea02f4",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uni-notes/formal-logic/Untitled.md",
+                "file": "uni-notes/CP214-dis-math/propositional-equivalences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uni-notes/formal-logic/Untitled.md",
+                "file": "uni-notes/CP214-dis-math/propositional-equivalences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uni-notes/formal-logic/Untitled.md"
+                "file": "uni-notes/CP214-dis-math/propositional-equivalences.md"
               }
             }
           }
@@ -130,15 +129,15 @@
   },
   "active": "47a8a78fc3a6d639",
   "lastOpenFiles": [
+    "uni-notes/CP214-dis-math/propositional-equivalences.md",
+    "uni-notes/CP214-dis-math/nested-quantifiers.md",
+    "uni-notes/CP214-dis-math/propositional-logic.md",
+    "uni-notes/CP214-dis-math/applications-of-propositional-logic.md",
+    "uni-notes/CP214-dis-math/predicates-quantifiers.md",
+    "uni-notes/PP204-formal-logic/arguments-validity.md",
     "uni-notes/formal-logic/Untitled.md",
     "uni-notes/dis-math/dismath-capter1p1.md",
     "uni-notes/dis-math/note-images/CaptureDis_Logical-Operators.PNG",
-    "uni-notes/dis-math/note-images/CaptureDis_Xor.PNG",
-    "uni-notes/dis-math/note-images/CaptureDis_TruthTable.PNG",
-    "uni-notes/dis-math/note-images/CaptureDis_Non-Equivalence.PNG",
-    "uni-notes/dis-math/note-images/CaptureDis_Negation.png",
-    "uni-notes/dis-math/note-images/CaptureDis_Implication.PNG",
-    "uni-notes/dis-math/note-images/CaptureDis_EquivalentTable.PNG",
-    "uni-notes/dis-math/note-images/CaptureDis_Disjunction.PNG"
+    "uni-notes/dis-math/note-images/CaptureDis_Xor.PNG"
   ]
 }
