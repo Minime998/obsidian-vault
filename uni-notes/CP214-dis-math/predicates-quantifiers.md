@@ -81,3 +81,12 @@ $\forall$ *x* P(*x*) asserts P(x) is true for every x in the *domain*.
 $\exists$ *x* P(*x*) asserts P(x) is true for some x in every *domain*.
 
 The quantifiers are said to bind the variables *x* in these expressions 
+
+##### Universal Quantifier
+
+$\forall$ *x* *P(x)* is read as "for all *x*, *P(x)*" or "For every *x*, P(x)"
+
+__Examples__:
+1) If *P(x)* denotes "x > 0" and *U* is the integers, then $\forall$ *x* *P(x)* is false.
+2) If *P(x)* denotes "x > 0" and *U* is the positive integers, then $\forall$ *x* P(x) is true.
+3) If *P(x)* denotes "x is e"
