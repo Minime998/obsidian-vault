@@ -11,6 +11,7 @@
 - [[#Compound Propositions Disjunction]] ^0eae32
 - [[#Compound Propositions Implication]]  ^adcdb1
 - [[#Understanding Implication]] 
+	- [[dislogic-descriptions]]
 
 [[#Different ways of Expressing p rightarrow q]]
 
@@ -49,6 +50,8 @@ Examples that are not *Propositions*:
 	* Biconditional $\leftrightarrow$
 
 #### Compound Propositions: Negation
+[[dislogic-descriptions]]
+
 The *negation* of a proposition *p* is denoted by 
 $\neg$*p* and has the truth table:
 
@@ -57,6 +60,8 @@ $\neg$*p* and has the truth table:
 >**Example**: if *p* denotes "The Earth is round.", then $\neg$*p* denotes "It is not the case that the Earth is round" or more simply "The Earth is not round"
 
 #### Compound Propositions: Conjunction
+[[dislogic-descriptions]]
+
 The *conjunction* of propositions *p* and *q* is denoted by *p $\wedge$ q* and has the truth table:
 
 ![](CaptureDis_Conjunction.PNG)
@@ -64,6 +69,8 @@ The *conjunction* of propositions *p* and *q* is denoted by *p $\wedge$ q* and h
 >**Example**: if *p* denotes "I am at home." and *q* denotes "It is raining." then *p $\wedge$ q* denotes "I am at home, and it is raining."
 
 #### Compound Propositions: Disjunction
+[[dislogic-descriptions]]
+
 The *disjunction* of propositions *p* and *q* is denoted by *p $\vee$ q* and has the truth table:
 
 ![](CaptureDis_Disjunction.PNG)
@@ -76,6 +83,8 @@ In English "or" has two distinct meanings. Inclusive or or exclusive or
 * "Exclusive Or" - ![](CaptureDis_Xor.PNG)
 
 #### Compound Propositions: Implication 
+[[dislogic-descriptions]]
+
 If *p* and *q* are propositions, then *p $\rightarrow$ q* is a *conditional statement* or *implication* which is read as "if *p*, then *q*" and has the following truth table:
 
 ![](CaptureDis_Implication.PNG)
@@ -117,6 +126,8 @@ From *p* $\rightarrow$ *q* we can form new conditional statements.
 **contrapositive**: if I go to town, then it is not raining.
 
 ### Biconditional
+[[dislogic-descriptions]]
+
 Let *p* and *q* be propositions. The *biconditional* statement *p* $\leftrightarrow$ *q* is the *proposition* "*P* if and only if *q*." The biconditional *p* $\leftrightarrow$ *q* is true when *p* and *q* have same truth values
 
 ![](CaptureDis_Biconditional.PNG)

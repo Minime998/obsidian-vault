@@ -1,7 +1,7 @@
 #dis-math 
 
 
-# Markdown Special Symbols
+# Markdown Special Symbols/Descriptions
 Negation ``$\neg$``$\neg$
 - [[propositional-logic#^ac60f4|Negation Desc.]]
 
