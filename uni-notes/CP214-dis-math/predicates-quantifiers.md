@@ -18,6 +18,11 @@
 - [[#Universal Quantifier]]
 - [[#Existential Quantifier]]
 - [[#Uniqueness Quantifier]]
+- [[#Thinking about Quantifiers]]
+
+[[#p]]
+
+
 
 #### Propositional Logic Not Enough
 
@@ -180,4 +185,13 @@ Where J(x) is "x has taken a course in java."
 
 Negating the original statement gives "it is not the case that there is a student in this class who has taken java." This implies that "Every student in this class has not taken java"
 
-Symbolically $\neg$$\exists$*x* J(x) and $\forall$*x* $\neg$J(x)
+Symbolically $\neg$$\exists$*x* J(x) and $\forall$*x* $\neg$J(x) are equivalent 
+
+#### De Morgan's Laws for quantifiers
+
+The rules for negating quantifiers are:
+
+
+The reasoning in the table shows that:
+- $\neg$$\forall$*x*P(x) $\equiv$ $\exists$*x*$\neg$P(x)
+- $\neg$$\exists$*x*P(x) $\equiv$ $\forall$*x*$\neg$P(x)
