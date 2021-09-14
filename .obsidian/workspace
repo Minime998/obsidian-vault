@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "uni-notes/CP214-dis-math/propositional-equivalences.md",
+            "file": "uni-notes/CP214-dis-math/predicates-quantifiers.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uni-notes/CP214-dis-math/propositional-equivalences.md",
+                "file": "uni-notes/CP214-dis-math/predicates-quantifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uni-notes/CP214-dis-math/propositional-equivalences.md",
+                "file": "uni-notes/CP214-dis-math/predicates-quantifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uni-notes/CP214-dis-math/propositional-equivalences.md"
+                "file": "uni-notes/CP214-dis-math/predicates-quantifiers.md"
               }
             }
           }
@@ -129,11 +129,11 @@
   },
   "active": "47a8a78fc3a6d639",
   "lastOpenFiles": [
+    "uni-notes/CP214-dis-math/predicates-quantifiers.md",
     "uni-notes/CP214-dis-math/propositional-equivalences.md",
     "uni-notes/CP214-dis-math/nested-quantifiers.md",
     "uni-notes/CP214-dis-math/propositional-logic.md",
     "uni-notes/CP214-dis-math/applications-of-propositional-logic.md",
-    "uni-notes/CP214-dis-math/predicates-quantifiers.md",
     "uni-notes/PP204-formal-logic/arguments-validity.md",
     "uni-notes/formal-logic/Untitled.md",
     "uni-notes/dis-math/dismath-capter1p1.md",
