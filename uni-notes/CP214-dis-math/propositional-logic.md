@@ -1,4 +1,5 @@
 #dis-math 
+#formal-logic 
 # Propositional Logic
 ## Section 1.1
 

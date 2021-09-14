@@ -9,9 +9,9 @@
 - [[#A strange thing about validity]]
 
 [[#Two ways an argument can go wrong]]
-- [[arguments-validity#^57e5f2|soundness]]
-- [[arguments-validity#^f54b57|entailment]]
-- [[arguments-validity#^d0cf7b|counterexample]]
+- [[lec1-arguments-validity#^57e5f2|soundness]]
+- [[lec1-arguments-validity#^f54b57|entailment]]
+- [[lec1-arguments-validity#^d0cf7b|counterexample]]
 
 [[#Deductive arguments vs inductive arguments]]
 
