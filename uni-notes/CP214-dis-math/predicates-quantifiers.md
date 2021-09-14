@@ -73,4 +73,11 @@ We need *quantifiers* to express the meaning of English words including *all* an
 - "Some cats have fur."
 
 The two most important quantifiers are:
-- *universal quantifier*, "for all," symbol: 
+- *universal quantifier*, "for all," symbol: $\forall$
+- *existential quantifier,* "there exists" symbol $\exists$
+
+We write as in $\forall$ *x* P(*x*) and $\exists$ *x* P(*x*).
+$\forall$ *x* P(*x*) asserts P(x) is true for every x in the *domain*.
+$\exists$ *x* P(*x*) asserts P(x) is true for some x in every *domain*.
+
+The quantifiers are said to bind the variables *x* in these expressions 
