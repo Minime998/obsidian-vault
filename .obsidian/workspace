@@ -7,11 +7,8 @@
         "id": "47a8a78fc3a6d639",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "uni-notes/CP214-dis-math/Untitled.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uni-notes/CP214-dis-math/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uni-notes/CP214-dis-math/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "uni-notes/CP214-dis-math/Untitled.md"
-              }
+              "state": {}
             }
           }
         ]
