@@ -150,3 +150,5 @@ __Solution__:
 First decide on the domain *U*
 
 - __Solution__: If *U* is all students in this class, define a propositional function J(x) denoting "x has taken a course in Java" and translate as $\forall$*x* J(x).
+- Solution 2__: But if *U* is all people, also define a propositional function S(x) denoting "x is a student in this class" and translate as $\forall$*x* (S(x) $\rightarrow$ J(x)).
+	- $\forall$*x* (S(x) $\wedge$ J(x)) is not correct as it would include everyone not just the people in the class
