@@ -60,7 +60,17 @@ If P(x) denotes "x > 0", find these truth values:
 	- __Solution__: T
 - P(3) $\rightarrow$ P(-1)
 	- __Solution__: F
-- P(3)
+- P(3) $\rightarrow$ $\neg$*P*(-1)
+	- __Solution__: T
 
+Expressions with variables are not propositions and therefore do not have truth values.
+When used with quantifiers (see next) these expressions (propositional functions) become propositions
 
+#### Quantifiers
 
+We need *quantifiers* to express the meaning of English words including *all* and *some*:
+- "All men are mortal."
+- "Some cats have fur."
+
+The two most important quantifiers are:
+- *universal quantifier*, "for all," symbol: 
