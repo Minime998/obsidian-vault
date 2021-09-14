@@ -129,4 +129,14 @@ To evaluate $\forall$*x* P(x) loop through all x in the domain.
 * If at every step P(x) is false, then ($\forall$x P(x)) is false and the loop terminates.
 
 To evaluate $\exists$*x* P(x) loop through all x in the domain 
-* If at some step, P(x) is true, then $$
+* If at some step, P(x) is true, then $\exists$*x* P(x) is true and the loop terminates
+* if the loop send without finding an *x* for which P(x) is true, then $\exists$*x* *P(x)* is false
+
+even if the domains are infinite, we can still think of the quantifiers this fashion, but the loops will not terminate in some cases
+
+#### Precedence of Quantifiers
+
+The quantifiers $\forall$ and $\exists$ have higher precedence than all the logical operators.
+
+For example, P(x) $\vee$ Q(x) means ($\forall$*x* P(x)) $\vee$ Q(x) and $\forall$*x* (P(x) $\vee$ Q(x)) means something different
+
