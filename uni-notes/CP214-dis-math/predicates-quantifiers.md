@@ -107,4 +107,15 @@ __Examples__:
 
 ##### Uniqueness Quantifier
 
-$\exists$!*x* *P(x)*
+$\exists$!*x* *P(x)* means that P(x) is true for one and only one *x* in the universe of discourse
+
+This is commonly expressed in English in the following equivalent ways:
+- "There is a unique *x* such that P(x)"
+- "There is one and only one *x* such that *P(x)*"
+
+__Examples__:
+1. If P(x) denotes "x +1 = 0" and *U* is the integers, then $\exists$!*x* P(x) is true
+2. But is P(x) denotes "x > 0" then $\exists$!*x* *P(x)* is false.
+
+The uniqueness quantifier is not really needed as the restriction that there is a unique *x* such that P(x) can be expressed as:
+- $\exists$*x*(P(x) $\wedge$)
