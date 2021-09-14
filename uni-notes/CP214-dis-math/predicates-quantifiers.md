@@ -9,6 +9,11 @@
 ### Summary
 [[#Propositional Logic Not Enough]]
 
+[[#Propositional Functions]]
+- [[#Examples of Propositional Functions]]
+
+[[#Compound Expressions]]
+
 #### Propositional Logic Not Enough
 
 If we have:
@@ -46,6 +51,16 @@ Now let "x -y = z" be denoted by Q(x, y, z) with U as the integers. Find these t
 - Q(2,-1,3)
 	- __Solution__: T
 
-####
+#### Compound Expressions
+
+Connectives from propositional logic carry over to predicate logic.
+
+If P(x) denotes "x > 0", find these truth values:
+- P(3) $\vee$ P(-1)
+	- __Solution__: T
+- P(3) $\rightarrow$ P(-1)
+	- __Solution__: F
+- P(3)
+
 
 
