@@ -89,4 +89,11 @@ $\forall$ *x* *P(x)* is read as "for all *x*, *P(x)*" or "For every *x*, P(x)"
 __Examples__:
 1) If *P(x)* denotes "x > 0" and *U* is the integers, then $\forall$ *x* *P(x)* is false.
 2) If *P(x)* denotes "x > 0" and *U* is the positive integers, then $\forall$ *x* P(x) is true.
-3) If *P(x)* denotes "x is e"
+3) If *P(x)* denotes "x is even" and *U* is the integers, then $\forall$ *x* *P(x)* is false
+
+##### Existential Quantifier
+
+$\exists$*x* *P(x)* is read as "For some *x*, *P(x)*", or as "There is an *x* such that P(x)", or "For at least one *x*, P(x)"
+
+__Examples__:
+1. If *P(x)* denotes "x > 0" and *U* is the integers, then $\exists$*x* *P(x)*
