@@ -140,3 +140,13 @@ The quantifiers $\forall$ and $\exists$ have higher precedence than all the logi
 
 For example, P(x) $\vee$ Q(x) means ($\forall$*x* P(x)) $\vee$ Q(x) and $\forall$*x* (P(x) $\vee$ Q(x)) means something different
 
+unfortunately, often people write $\forall$ P(x) $\vee$ Q(x) when they mean $\forall$*x* (P(x) $\vee$ Q(x))
+
+#### Translating from English to Logic
+
+__Example__: Translate the following sentence into predicate logic: "Every student in this class has taken a course in java."
+
+__Solution__:
+First decide on the domain *U*
+
+- __Solution__: If *U* is all students in this class, define a propositional function J(x) denoting "x has taken a course in Java" and translate as $\forall$*x* J(x).
