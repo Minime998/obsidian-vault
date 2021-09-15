@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "uni-notes/PP204-formal-logic/lec1-arguments-validity.md",
-            "mode": "preview"
+            "file": "uni-notes/CP220-digital-electronics/lecture-2.md",
+            "mode": "source"
           }
         }
       }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2867e27739ea02f4",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uni-notes/PP204-formal-logic/lec1-arguments-validity.md",
+                "file": "uni-notes/CP220-digital-electronics/lecture-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uni-notes/PP204-formal-logic/lec1-arguments-validity.md",
+                "file": "uni-notes/CP220-digital-electronics/lecture-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uni-notes/PP204-formal-logic/lec1-arguments-validity.md"
+                "file": "uni-notes/CP220-digital-electronics/lecture-2.md"
               }
             }
           }
@@ -129,6 +130,7 @@
   },
   "active": "47a8a78fc3a6d639",
   "lastOpenFiles": [
+    "uni-notes/CP220-digital-electronics/Untitled.md",
     "uni-notes/PP204-formal-logic/lec1-arguments-validity.md",
     "uni-notes/CP213-java/Untitled.md",
     "uni-notes/PP204-formal-logic/chapter1-arguments.md",
@@ -137,7 +139,6 @@
     "uni-notes/CP214-dis-math/logic-markdown.md",
     "uni-notes/PP204-formal-logic/Untitled.md",
     "uni-notes/CP214-dis-math/predicates-quantifiers.md",
-    "uni-notes/CP214-dis-math/propositional-equivalences.md",
-    "uni-notes/CP214-dis-math/nested-quantifiers.md"
+    "uni-notes/CP214-dis-math/propositional-equivalences.md"
   ]
 }
