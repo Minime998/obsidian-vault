@@ -7,8 +7,11 @@
         "id": "47a8a78fc3a6d639",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "uni-notes/PP204-formal-logic/lec1-arguments-validity.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "uni-notes/PP204-formal-logic/lec1-arguments-validity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "uni-notes/PP204-formal-logic/lec1-arguments-validity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "uni-notes/PP204-formal-logic/lec1-arguments-validity.md"
+              }
             }
           }
         ]
@@ -122,8 +129,8 @@
   },
   "active": "47a8a78fc3a6d639",
   "lastOpenFiles": [
-    "uni-notes/CP213-java/Untitled.md",
     "uni-notes/PP204-formal-logic/lec1-arguments-validity.md",
+    "uni-notes/CP213-java/Untitled.md",
     "uni-notes/PP204-formal-logic/chapter1-arguments.md",
     "uni-notes/CP214-dis-math/dislogic-descriptions.md",
     "uni-notes/CP214-dis-math/propositional-logic.md",
