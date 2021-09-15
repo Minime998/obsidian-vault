@@ -6,6 +6,9 @@
 
 [[#2 1 Decimal Numbering System]]
 
+[[#2 2 Binary Numbers]]
+- [[#Binary-to-decimal Conversion]]
+
 #### 2.1 Decimal Numbering System
 
 The decimal numbering system has 10 digits 0-9
@@ -39,4 +42,11 @@ The largest decimal number = 2^n-1
 Weight: 2^-1 2^-2 2^-3 2^-4
 Binary number: 0 . 1 0 1 1
 
-0.1011 = 2^-1 - 2^-3 - 2^-4 = 0.5
+0.1011 = 2^-1 - 2^-3 - 2^-4 => 0.5 + 0.125 + 0.0625 => 0.6875
+
+##### Decimal-to-Binary Conversion
+
+**Sum-of-weight Method**:
+- Decompose the decimal number into 2-power terms
+
+Example: 9 = 8 +1 => 2^3 + 2^0

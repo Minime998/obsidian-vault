@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "uni-notes/CP220-digital-electronics/lecture-2.md",
+            "file": "uni-notes/CP220-digital-electronics/lecture-chapter2.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uni-notes/CP220-digital-electronics/lecture-2.md",
+                "file": "uni-notes/CP220-digital-electronics/lecture-chapter2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uni-notes/CP220-digital-electronics/lecture-2.md",
+                "file": "uni-notes/CP220-digital-electronics/lecture-chapter2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uni-notes/CP220-digital-electronics/lecture-2.md"
+                "file": "uni-notes/CP220-digital-electronics/lecture-chapter2.md"
               }
             }
           }
