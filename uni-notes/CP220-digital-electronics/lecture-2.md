@@ -28,5 +28,15 @@ The binary numbering system has a base of 2 with each position weighted by a fac
 
 The largest decimal number = 2^n-1
 
-**Example*: n=4
+**Example**: n=4
 2^n - 1 = 2^4 - 1 = 15
+
+##### Binary-to-decimal Conversion
+
+**Example**: convert binary 0.1011 to decimal
+- **Solution**: Determine the weight of each bit that is a 1, and then sum the weights to get the decimal fraction
+
+Weight: 2^-1 2^-2 2^-3 2^-4
+Binary number: 0 . 1 0 1 1
+
+0.1011 = 2^-1 - 2^-3 - 2^-4 = 0.5
