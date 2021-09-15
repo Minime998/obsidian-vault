@@ -18,8 +18,15 @@ The decimal numbering system has a base of 10 with each position weighted by a f
 
 #### 2.2 Binary Numbers
 
-The binary number sysytem has 2 digits 0 and 1
+The binary number system has 2 digits 0 and 1
 
-The binary numbering system has a base of 2 with each posiiton weighted by a factor of 2
+The binary numbering system has a base of 2 with each position weighted by a factor of 2
 
-...2^5...
+...2^5...2^0...2^-2
+
+10111 = 1 X 2^4 + 0 X 2^3 + 1 X 2^3 + 1 X 2^0
+
+The largest decimal number = 2^n-1
+
+**Example*: n=4
+2^n - 1 = 2^4 - 1 = 15
