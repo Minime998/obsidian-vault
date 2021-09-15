@@ -50,3 +50,4 @@ Binary number: 0 . 1 0 1 1
 - Decompose the decimal number into 2-power terms
 
 Example: 9 = 8 +1 => 2^3 + 2^0 --> 1 0 0 1
+
