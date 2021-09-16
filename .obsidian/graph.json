@@ -20,6 +20,20 @@
         "a": 1,
         "rgb": 5405920
       }
+    },
+    {
+      "query": "path:uni-notes/CP220-digital-electronics",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:uni-notes/CC102-criminal-justice",
+      "color": {
+        "a": 1,
+        "rgb": 14147666
+      }
     }
   ],
   "collapse-display": false,
