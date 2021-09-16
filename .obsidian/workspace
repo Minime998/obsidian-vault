@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "27ff8d67f83caa82",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -60,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2867e27739ea02f4",
@@ -77,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uni-notes/CP220-digital-electronics/lecture-chapter2.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uni-notes/CP220-digital-electronics/lecture-chapter2.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uni-notes/CP220-digital-electronics/lecture-chapter2.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -128,8 +138,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "47a8a78fc3a6d639",
+  "active": "27ff8d67f83caa82",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "uni-notes/CP220-digital-electronics/lecture-chapter2.md",
     "uni-notes/CP220-digital-electronics/Untitled.md",
     "uni-notes/PP204-formal-logic/lec1-arguments-validity.md",
@@ -138,7 +149,6 @@
     "uni-notes/CP214-dis-math/dislogic-descriptions.md",
     "uni-notes/CP214-dis-math/propositional-logic.md",
     "uni-notes/CP214-dis-math/logic-markdown.md",
-    "uni-notes/PP204-formal-logic/Untitled.md",
-    "uni-notes/CP214-dis-math/predicates-quantifiers.md"
+    "uni-notes/PP204-formal-logic/Untitled.md"
   ]
 }
