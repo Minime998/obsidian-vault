@@ -33,3 +33,6 @@ We'll first look at arguments that are formally valid by virtue of their **truth
 
 ### Symbolization Key
 
+A **symbolization key** pairs sentence letters with the basic english sentences they represent.
+
+
