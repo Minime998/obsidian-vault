@@ -18,6 +18,11 @@ Each of these arguments is valid, and the validity of them follows from their lo
 | A.<br>If A, then D.<br>Therefore, D. | Either R or U.<br>Not R.<br>So, U. |
 
 We'll first look at arguments that are formally valid by virtue of their **truth-functional structure**.
-- :We'll break each English sentence down into the smallest units that can be T or F, ***atomic sentences***
-	- 
+
+<center>
+	We'll break each English sentence down into the smallest units that can be T or F, <i>atomic sentences</i>
+</center>
+<center>	
+	- Assign each atomic sentence a sentence letter: A,B,P,Q,Q^2 
+</center>
 
