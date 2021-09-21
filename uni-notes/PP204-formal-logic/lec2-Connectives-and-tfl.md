@@ -16,3 +16,8 @@ Each of these arguments is valid, and the validity of them follows from their lo
 | logical form 1                       | logical form 2                     |
 |:------------------------------------ |:---------------------------------- |
 | A.<br>If A, then D.<br>Therefore, D. | Either R or U.<br>Not R.<br>So, U. |
+
+We'll first look at arguments that are formally valid by virtue of their **truth-functional structure**.
+- :We'll break each English sentence down into the smallest units that can be T or F, ***atomic sentences***
+	- 
+
