@@ -51,3 +51,83 @@ Binary number: 0 . 1 0 1 1
 
 Example: 9 = 8 +1 => 2^3 + 2^0 --> 1 0 0 1
 
+---
+
+### Summary
+
+#### Binary Arithmetic
+
+- Binary addition
+- Binary subtraction
+- Binary multiplication
+- Binary division
+
+##### Binary Addition
+
+0 + 0 Sum of 0 with a carry of 0
+
+0 + 1 = 1 Sum of 1 with a carry of 0
+
+1 + 0 = 1 Sum of 1 with a carry of 0
+
+1 + 1 = 10 Sum of 1 with a carry of 1
+
+11001 + 1101 = 100110
+
+##### Binary Subtraction
+
+0 - 0 = 0
+
+1 - 1 = 0
+
+1 - 0 = 1
+
+10 - 1 = 1 0-1 with a borrow of 1
+
+1011 - 111 = 100
+
+##### Binary Multiplication
+
+0 X 0 = 0
+
+0 X 1 = 0
+
+1 X 0 = 0
+
+1 X 1 = 1
+
+100110 X 101 = 100110
+ 
+ ##### Binary Division
+ 
+ #### 1's and 2's Complements of Binary numbers
+ 
+ The 1's **complement** of a binary number is found by changing all 1's to 0's and all 0's to 1's as show below:
+ 
+0 0 0 1 1 0 0 1 0 0 1 0 1 | Binary number
+
+1 1 1 0 0 1 1 0 1 1 0 1 0
+
+##### Finding 2's complement
+
+2's complement = 1's complement + 1
+
+#### Signed Numbers
+
+**Sign bit** - a 0 is for positive a 1 is for negative
+
+**Sign-Magnitude** - a negative number has the same magnitude as the corresponding positive number but the sign bit is q rather than 0
+- 0 0011001 = +0011001 | 1 0011001 = -0011001
+
+1's complement form a negative number is the 1's complement of the corresponding positive number
+- +25 == **0**0011001; | -25 == **1**1100110 (1's Comp.)
+
+2's complement form a negative number is the 2's complement of the corresponding positive number
+- +25 == **0**0011001; | -25 == **1**1100111 (2's Comp.)
+
+##### Decimal value of signed numbers
+
+
+
+ 
+
