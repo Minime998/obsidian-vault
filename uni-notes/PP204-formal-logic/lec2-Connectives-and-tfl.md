@@ -2,7 +2,10 @@
 #dis-math 
 # Connectives and TFL Symbolization
 ## Summary
-[[]]
+[[#Validity in virtue of form]]
+
+[[#Symbolization Key]]
+- [[dislogic-descriptions]]
 
 ### Validity in virtue of form
 
@@ -44,3 +47,4 @@ A **symbolization key** pairs sentence letters with the basic English sentences 
 *A* Jenny is an anarcho-syndicalist
 *B* Jenny is a banker
 
+See: [[dislogic-descriptions]]
