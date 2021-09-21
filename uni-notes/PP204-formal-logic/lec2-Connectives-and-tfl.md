@@ -4,8 +4,9 @@
 
 ### Validity in virtue of form
 
-Example 1: *(valid)* | Example 2:  *(valid)*
-Jenny is an anarcho-syndicalist .	                  
+| Example 1: | Example 2: | 
+| ---------- | ---------- |
+| Jenny is an anarcho-syndicalist .<br>	                  
 If Jenny is an anarcho-syndicalist, then Dipan
 is an avid reader of Tolstoy.
 Therefore, Dipan is an avid reader of Tolstoy. 
