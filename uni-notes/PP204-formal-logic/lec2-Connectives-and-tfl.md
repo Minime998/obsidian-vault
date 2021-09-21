@@ -2,6 +2,7 @@
 #dis-math 
 # Connectives and TFL Symbolization
 ## Summary
+[[]]
 
 ### Validity in virtue of form
 
@@ -33,6 +34,13 @@ We'll first look at arguments that are formally valid by virtue of their **truth
 
 ### Symbolization Key
 
-A **symbolization key** pairs sentence letters with the basic english sentences they represent.
+A **symbolization key** pairs sentence letters with the basic English sentences they represent.
 
+*A*: Jenny is an anarcho-syndicalist.
+*D*: Dipan is an avid reader of Tolstoy.
+* the sentence letters should stand in for simple sentence units.
+* where possible, we want to bring out logical form, so we'll treat "Jenny is an anarcho-syndicalist and a banker" like:
+
+*A* Jenny is an anarcho-syndicalist
+*B* Jenny is a banker
 
