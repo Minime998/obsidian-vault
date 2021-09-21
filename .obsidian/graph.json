@@ -1,51 +1,22 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
-  "showOrphans": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:uni-notes/CP214-dis-math",
-      "color": {
-        "a": 1,
-        "rgb": 5431401
-      }
-    },
-    {
-      "query": "path:uni-notes/PP204-formal-logic",
-      "color": {
-        "a": 1,
-        "rgb": 5405920
-      }
-    },
-    {
-      "query": "path:uni-notes/CP220-digital-electronics",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:uni-notes/CC102-criminal-justice",
-      "color": {
-        "a": 1,
-        "rgb": 14147666
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.28176470588235,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 16.3529411764706,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 342,
-  "scale": 0.6147386076544861,
-  "close": true
+  "linkDistance": 250,
+  "scale": 0.3744909117412818,
+  "close": false
 }

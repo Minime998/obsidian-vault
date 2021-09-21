@@ -27,6 +27,9 @@ We'll first look at arguments that are formally valid by virtue of their **truth
 	- Assign each atomic sentence a sentence letter: A,B,P,Q,Q^2 
 </center>
 
-| atomic 1 | atomic 2 | 
-| -------- | -------- |
-|A<br>A-->D<br>$\therefore$ D.|R v U<br> $\neg$R<br>$\therefore$
+| atomic 1                     | atomic 2                            |
+| ---------------------------- | ----------------------------------- |
+| A<br>A-->D<br>$\therefore$ D | R v U<br> $\neg$R<br>$\therefore$ U |
+
+### Symbolization Key
+
