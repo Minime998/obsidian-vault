@@ -48,5 +48,3 @@ A **symbolization key** pairs sentence letters with the basic English sentences 
 *B* Jenny is a banker
 
 See: [[dislogic-descriptions]]
-
-also [[lecture-chapter2]]
