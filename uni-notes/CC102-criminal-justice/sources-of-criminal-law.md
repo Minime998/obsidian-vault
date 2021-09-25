@@ -12,6 +12,10 @@
 ### Constitutional sources
 
 includes both written statutes and unwritten principles and conventions. Written sources are spread out and can not be found in just one single document. The most important provisions can be found in two constituional acts:
-- The Constitution Act, 1867 (British North America Act, 1867)
-	- set out the powers and juristictions of b
-- the Constitution Act, 1982
+- The **Constitution Act, 1867** (British North America Act, 1867)
+	- set out the powers and jurisdictions of both the federal and provincial governments
+	- established the court system 
+	- true independence was not achieved until the **Statute of Westminster** in 1931
+
+- the **Constitution Act, 1982**
+	- 
