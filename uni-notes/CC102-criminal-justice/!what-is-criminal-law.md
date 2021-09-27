@@ -1,4 +1,5 @@
 #criminal-justice 
+#random
 # What is Criminal Law?
 ## Summary
 [[#Criminal law]]

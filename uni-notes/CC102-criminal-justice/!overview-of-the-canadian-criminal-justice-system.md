@@ -1,4 +1,5 @@
 #criminal-justice
+#random 
 # Lesson 1
 ## Summary
 [[#Criminal law vs civil law]]

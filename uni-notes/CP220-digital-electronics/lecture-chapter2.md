@@ -1,4 +1,5 @@
 #digital-electronics
+#random
 # Number systems operations and codes
 ## Chapter 2
 
