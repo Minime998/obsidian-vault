@@ -5,7 +5,7 @@
 [[#Validity in virtue of form]]
 
 [[#Symbolization Key]]
-- [[dislogic-descriptions]]
+- [[dislogic-truthtables+desc.]]
 
 ### Validity in virtue of form
 
@@ -47,4 +47,4 @@ A **symbolization key** pairs sentence letters with the basic English sentences 
 *A* Jenny is an anarcho-syndicalist
 *B* Jenny is a banker
 
-See: [[dislogic-descriptions]]
+See: [[dislogic-truthtables+desc.]]
