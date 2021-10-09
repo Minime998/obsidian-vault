@@ -21,3 +21,12 @@ A **regional police service** is a growing trend in Canada and is where a police
 **Municipal Police Services** provide policing inside a city's boundaries. enforcing the criminal code, provincial statutes, municipal bylaws, and some federal statutes such as the controlled Drugs and Substances Act. First nations can also have their own police force. their is also an observed increase in private policing.  
 
 ### Defining Police Work
+
+**Policing** is defined as:
+> "the activities of any individual or organization acting
+> legally on behalf of public or private organizations
+> persons to maintain security or order."
+
+This highlights that policing is not only provided by government agencies. as seen before private policing is on the rise. Policing researchers describe this trend as **pluralization of policing**, which refers to the sharing of responsibility for safety and security in the community between public and private police.
+
+First, police are 
