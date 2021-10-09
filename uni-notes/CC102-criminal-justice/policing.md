@@ -12,4 +12,4 @@ In Canada early attempts at policing first started in Quebec in the 1600s and gr
 
 ### Structure of Policing in Canada
 
-Policing in Canada is provided in many ways and can be confusing when first looking at them. At the federal level, police services are provided by the RCMP under the **Royal Canadian Mounted Police Act**. In addition to being 
+Policing in Canada is provided in many ways and can be confusing when first looking at them. At the federal level, police services are provided by the RCMP under the **Royal Canadian Mounted Police Act**, a piece of federal legislation that provides the framework for the operation of the RCMP. In addition to being  a federal law enforcement agency, the RCMP provides **contract policing**, which refers to an arrangement where RCMP officers provide provincial and municipal level policing services. Policing services are also provided at the provincial level. The three are (1) the Ontario Provincial Police (OPP), (2) the Surete du Quebec, and (3) the Royal Newfoundland Constabulary. these forces are responsible for law enforcement in rural areas as well as doing contract policing for certain municpaliites 
