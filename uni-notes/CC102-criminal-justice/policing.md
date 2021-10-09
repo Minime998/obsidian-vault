@@ -29,4 +29,7 @@ A **regional police service** is a growing trend in Canada and is where a police
 
 This highlights that policing is not only provided by government agencies. as seen before private policing is on the rise. Policing researchers describe this trend as **pluralization of policing**, which refers to the sharing of responsibility for safety and security in the community between public and private police.
 
-First, police are 
+First, police are responsible for **crime control**, which includes responding to and investigating crimes, arresting suspects, and patrolling communities. Second, police are responsible for order maintenance including the maintenance of peace during public protests. Third, police are responsible for **crime prevention and service**, including the formation and maintenance of relationships with community stakeholders and additional community services.
+
+| Style | Description | 
+| ----- | ----------- |
