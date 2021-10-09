@@ -36,4 +36,6 @@ First, police are responsible for **crime control**, which includes responding t
 | **The Social Agent**  | This style of policing views police work<br> as involving a range of activities that extend<br> beyond law enforcement                                                   |
 | **The Watchman**      | This style of policing places an emphasis<br> on public tolerance. Officers that<br> adopt this approach to policing focuses<br> more on restoration in public disputes. |
 | **The Law enforcer**  | This style of policing emphasizes the legal<br> or authoritarian power of the police role.                                                                               |
-| **The Crime Fighter** | This style of policing emphasizes<br> crime control with a focus on serious crime.                                                                                       |                                                                                                                                                                          |
+| **The Crime Fighter** | This style of policing emphasizes<br> crime control with a focus on serious crime.                                                                                       |
+
+### Police Governance
