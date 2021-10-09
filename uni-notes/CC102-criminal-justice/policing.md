@@ -31,7 +31,9 @@ This highlights that policing is not only provided by government agencies. as se
 
 First, police are responsible for **crime control**, which includes responding to and investigating crimes, arresting suspects, and patrolling communities. Second, police are responsible for order maintenance including the maintenance of peace during public protests. Third, police are responsible for **crime prevention and service**, including the formation and maintenance of relationships with community stakeholders and additional community services.
 
-| Style                | Description                                                                                                            |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **The Social Agent** | This style of policing views police work<br> as involving a range of activities that extend<br> beyond law enforcement |
-| **The Watchman**     | This style of policing places an emphasis<br> on public tolerance. Officers that<br> adopt this approach to policing focuses<br> more on restoration                                                                                                        |
+| Style                 | Description                                                                                                                                                              |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **The Social Agent**  | This style of policing views police work<br> as involving a range of activities that extend<br> beyond law enforcement                                                   |
+| **The Watchman**      | This style of policing places an emphasis<br> on public tolerance. Officers that<br> adopt this approach to policing focuses<br> more on restoration in public disputes. |
+| **The Law enforcer**  | This style of policing emphasizes the legal<br> or authoritarian power of the police role.                                                                               |
+| **The Crime Fighter** | This style of policing emphasizes<br> crime control with a focus on serious crime.                                                                                       |                                                                                                                                                                          |
