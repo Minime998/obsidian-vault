@@ -49,4 +49,19 @@ Important Sets:
 
 *N* = *natural numbers* = {0,1,2,3,...}
 *Z* = *integers* = {...,-3,-2,-1,0,1,2,3,...}
-*Z*
+*Z+* = *positive integers* = {1,2,3,.....}
+*R* = set of *real numbers*
+*R+* = set of *positive real numbers*
+*C* = set of *complex numbers*
+*Q* = set of *rational numbers*
+
+## Set-Builder Notation
+
+Specify the property or properties that all members must satisfy:
+- *S* = {*x* | *x* is a positive integer less than 100}
+- *O* = {*x* | *x* is an odd positive integer less than 10}
+- *O* = {*x* $\in$ *Z+* | *x* is odd and *x* < 10}
+
+A predicate may be used:
+- *S* = []
+
