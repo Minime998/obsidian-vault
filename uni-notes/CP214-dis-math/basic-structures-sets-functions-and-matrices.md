@@ -71,6 +71,85 @@ Positive rational numbers:
 ## Interval Notation
 
 [*a,b*] = {*x* | *a* $\leq$ *x* $\leq$ *b*}
+[*a*,*b*)
+(*a*,*b*]
+(*a*,*b*)
+
+*closed interval* [*a*,*b*]
+*open interval* (*a*,*b*)
+
+## Universal Set and Empty Set
+
+The *universal set U* is the set containing everything currently under consideration.
+- sometimes implicit
+- sometimes explicitly stated
+- content depend on the context
+
+The empty set is the set with no elements. Symbolized $\emptyset$, but {} also used.
+
+## Russell's Paradox
+
+Let *S* be the set of all sets which are not members of themselves. A paradox results from trying to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
