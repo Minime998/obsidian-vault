@@ -106,7 +106,13 @@ $\emptyset$ $\ne$ {$\emptyset$}
 ## Set Equality
 
 **Definition**: Two elements are *equal* if and only if they have the same elements.
-- There
+- Therefore, if *A* and *B* are sets, than *A* and *B* are equal if and only if *upside downA*: *x*(*x* $\in$ *A* $\iff$ *x* $\in$ *B*)
+- We write *A* = *B* if *A* and *B* are equal sets:
+- {1,3,5} = {3,5,1}
+
+## Subsets
+
+**Definition**: The set *A* is a *subset* of *B*, if and only if every element of *A* i
 
 
 
