@@ -63,5 +63,14 @@ Specify the property or properties that all members must satisfy:
 - *O* = {*x* $\in$ *Z+* | *x* is odd and *x* < 10}
 
 A predicate may be used:
-- *S* = []
+- *S* = {*x* | *P(x)*}
+Example: *S* = {*x* | Prime(*x*)}
+Positive rational numbers:
+*Q+* = {*x* $\in$ *R* | *x* = *p/q*, for some positive integers *p,q*}
+
+## Interval Notation
+
+[*a,b*] = {*x* | *a* $\leq$ *x* $\leq$ *b*}
+
+
 
