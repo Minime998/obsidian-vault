@@ -89,7 +89,24 @@ The empty set is the set with no elements. Symbolized $\emptyset$, but {} also u
 
 ## Russell's Paradox
 
-Let *S* be the set of all sets which are not members of themselves. A paradox results from trying to
+Let *S* be the set of all sets which are not members of themselves. A paradox results from trying to answer the question: "is *S* a member of itself?"
+
+Related paradox:
+- Henry is a barber who shaves all people who do not shave themselves. A paradox results from trying to answer the question: "Does Henry shave himself?"
+
+## Things to remember:
+
+Sets can be elements of sets.
+{{1,2,3},*a*,{*b*,*c*}}
+{*N*,*Z*,*Q*,*R*}
+
+The empty set is different from a set containing the empty set.
+$\emptyset$ $\ne$ {$\emptyset$}
+
+## Set Equality
+
+**Definition**: Two elements are *equal* if and only if they have the same elements.
+- There
 
 
 
