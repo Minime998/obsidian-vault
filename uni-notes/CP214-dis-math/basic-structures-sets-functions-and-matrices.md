@@ -30,4 +30,23 @@ Each distinct object is either a member or not; listing more than once does not 
 *S*={*a*,*b*,*c*,*d*} = {*a*,*b*,*c*,*d*}
 
 Can we describe a set without listing all of the members when the pattern is clear?
-*S*={*a*,*b*,*c*,*d*,}
+*S*={*a*,*b*,*c*,*d*,......,*z*}
+
+Examples:
+>Set of all vowels in the English alphabet:
+*V*={*a*,*e*,*i*,*o*,*u*}
+
+>Set of all odd positive integers less than 10:
+*O*={1,3,5,7,9}
+
+>Set of all positive integers less than 100:
+*S*={1,2,3,........,99}
+
+>Set of all integers less than 0:
+*S*={.....,-3,-2,-1}
+
+Important Sets:
+
+*N* = *natural numbers* = {0,1,2,3,...}
+*Z* = *integers* = {...,-3,-2,-1,0,1,2,3,...}
+*Z*
