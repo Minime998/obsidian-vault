@@ -112,7 +112,8 @@ $\emptyset$ $\ne$ {$\emptyset$}
 
 ## Subsets
 
-**Definition**: The set *A* is a *subset* of *B*, if and only if every element of *A* i
+**Definition**: The set *A* is a *subset* of *B*, if and only if every element of *A* is also an element of *B*
+- The notation *A* $\subseteq$ *B* is used to indicate that *A* is a subset of the set *B*
 
 
 
