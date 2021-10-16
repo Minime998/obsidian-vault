@@ -15,4 +15,6 @@ A **class** is a user defined blueprint or prototype from which objects are made
 - Interfaces(if any)
 - Body
 
-## Run-time errors and Compile Errors 
+## Run-time errors and Compile Errors
+
+Run time error will only occur when the code is running. Compiler errors are due to inaccuracies in code, where the compiler throws an error to alert you to something while will not compile properly 
