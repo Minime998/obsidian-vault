@@ -8,4 +8,11 @@ The main difference between them is that a **instance variable** is a variable t
 
 ## Class definition:
 
-A **class** is a user defined blueprint or prototype from which objects are made. It represents the set of properties or methods that are common to all objects of one type. In general
+A **class** is a user defined blueprint or prototype from which objects are made. It represents the set of properties or methods that are common to all objects of one type. In general **class declarations** can include the following:
+- Modifiers: A class can be public or private
+- class keyword: class keyword is used to create a class
+- class name: The name should begin with an capitalized letter
+- Interfaces(if any)
+- Body
+
+## Run-time errors and Compile Errors 
