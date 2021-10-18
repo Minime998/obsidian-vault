@@ -2,9 +2,20 @@
 
 ## Quiz 1:
 
-A constitution servers to limit the power of government.
+A constitution servers:
+to limit the power of government.
 
-provincial governments handles the enforcement of criminal law and admin of justice
+Provincial governments handles:
+the enforcement of criminal law and admin of justice.
 
 The inclusion of freedom of rights in the constitution have the effects of:
-judges have the power to review the constitionality of laws passed by the government
+judges have the power to review the constituonality of laws passed by the government.
+
+The purpose of the criminal justice system is to:
+maintain justice, control crime and prevent crime
+
+Charter rights are limited by:
+Section 1
+
+
+
