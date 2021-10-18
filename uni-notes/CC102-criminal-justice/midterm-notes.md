@@ -17,5 +17,12 @@ maintain justice, control crime and prevent crime
 Charter rights are limited by:
 Section 1
 
+charter extends to prisoners 
 
+laws written down:
+codified 
+
+differing perspectives on law system:
+value consensus model
+conflict model
 
