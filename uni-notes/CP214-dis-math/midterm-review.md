@@ -4,7 +4,7 @@
 Summary:
 - Week 1:
 	- [[#Proposition]]
-	- [[#Proposition Logic]]
+		- [[#Proposition Logic]]
 	- [[#Converse Contrapositive and Inverse]]
 	- [[#Equivalent Propositions]]
 	- [[#Consistent System Specifications]]
@@ -12,6 +12,10 @@ Summary:
 	- [[#Logically Equivalent]]
 	- [[#De Morgan's Laws]]
 	- [[#Equivalence Proofs]]
+	- [[#Propositional Satisfiability]]
+	- [[#Predicate Logic]]
+		- [[#Propositional functions]]
+		- 
 
 ## Chapter 1
 
@@ -86,6 +90,14 @@ For more info see earlier notes into how each law works (but know they are all d
 - They use variables and a predicate e.g *P*(*x*)
 - variables are stand ins for elements within their *domain*
 - They are generalizations of propositions and become them when elements are introduced
-- 
+> For Example:
+> let *P*(*x*) denote "x > 0" and the domain be the integers. Then:
+> *P*(-3) is false.
+> *P*(0) is false.
+> *P*(3) is true.
+- Often the domain is denoted by *U* (so in the previous U is the integers)
 
+#### Compound Expressions
+- Connectives from **propositional logic** carry over to **predicate logic**
+- 
 ---
