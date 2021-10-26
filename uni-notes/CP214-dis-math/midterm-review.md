@@ -1,6 +1,15 @@
 #dis-math 
 
 # Midterm review
+Summary:
+- Chapter 1:
+	- [[#Proposition]]
+	- [[#Proposition Logic]]
+	- [[#Converse Contrapositive and Inverse]]
+	- [[#Equivalent Propositions]]
+	- [[#Consistent System Specifications]]
+	- [[#Tautologies Contradictions and Contingencies]]
+	- [[#Logically Equivalent]]
 
 ## Chapter 1
 
@@ -44,5 +53,13 @@ Solution:
 - A *contingency* is a proposition which is neither of the above (none of the above)
 
 ### Logically Equivalent
+- Two compound propositions are **logically equivalent** if the share the same truth values
 
+### De Morgan's Laws
+- **Identity laws**
+- **Domination laws**
+- **Idempotent laws**
+- **Double Negation law**
+- **Negation Laws**
+- **
 ---
