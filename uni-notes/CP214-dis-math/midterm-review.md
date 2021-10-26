@@ -26,5 +26,11 @@
 >Example: Find the converse, inverse, and contrapositive of "It raining is a sufficient condition for my not going to town."
 
 Solution:
-- **converse**: If I do not go to town, then it is raining.
+- **converse**: If I do not go to town, then it is raining. *(flipped)*
+- **inverse**: If it is not raining, then I will go to town. *(negative meaning)*
+- **contrapositive**: If I go to town, then it is not raining. *(negative + flipped)*
+
+## Equivalent Propositions
+- Two propositions can be called *equivalent* if they always have the same truth value.
+
 	
