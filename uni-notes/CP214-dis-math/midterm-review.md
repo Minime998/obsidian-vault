@@ -2,7 +2,9 @@
 
 # Midterm review
 
-## Proposition
+## Chapter 1
+
+### Proposition
 - A *proposition* is a declarative sentence that is either true or false
 >Examples:
 >a) The Moon is made of green cheese
@@ -12,7 +14,7 @@
 >Examples that are not:
 >a) Sit down!
 
-### Proposition Logic
+#### Proposition Logic
 - In propositional logic **Propositional variables** like *p*,*q*,*r*,*s* are used to represent a proposition
 - Any proposition can be either *T* or *F*
 - A more advanced form of logic is **Compound Propositions** which are constructed from combining propositions using symbols like:
@@ -22,7 +24,7 @@
 	- **Implication** $\rightarrow$
 	- **Biconditional** $\leftrightarrow$
 	
-## Converse, Contrapositive, and Inverse
+### Converse, Contrapositive, and Inverse
 >Example: Find the converse, inverse, and contrapositive of "It raining is a sufficient condition for my not going to town."
 
 Solution:
@@ -30,10 +32,17 @@ Solution:
 - **inverse**: If it is not raining, then I will go to town. *(negative meaning)*
 - **contrapositive**: If I go to town, then it is not raining. *(negative + flipped)*
 
-## Equivalent Propositions
+### Equivalent Propositions
 - Two propositions can be called *equivalent* if they always have the same truth value.
 
-## Consistent System Specifications
+### Consistent System Specifications
 - A system of propositions is *consistent* if there is a combination that makes all of them true
 
-	
+### Tautologies, Contradictions, and Contingencies
+- A *tautology* is a proposition which is always true (all results are true)
+- A *contradiction* is a proposition which is always false (all results are false)
+- A *contingency* is a proposition which is neither of the above (none of the above)
+
+### Logically Equivalent
+
+---
