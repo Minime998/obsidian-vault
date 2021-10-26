@@ -22,6 +22,6 @@
 	- **Implication** $\rightarrow$
 	- **Biconditional** $\leftrightarrow$
 	
-	## Negation
-	- the *negation* of a proposition like *p* is denoted by $\neg$*p* and has the following truth table:
-	![Ca]
+## Converse, Contrapositive, and Inverse
+>Example: Find the converse, inverse, and contrapositive of "It raining is"
+	
