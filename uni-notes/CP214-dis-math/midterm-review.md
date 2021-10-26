@@ -2,7 +2,7 @@
 
 # Midterm review
 Summary:
-- Chapter 1:
+- Week 1:
 	- [[#Proposition]]
 	- [[#Proposition Logic]]
 	- [[#Converse Contrapositive and Inverse]]
@@ -11,6 +11,7 @@ Summary:
 	- [[#Tautologies Contradictions and Contingencies]]
 	- [[#Logically Equivalent]]
 	- [[#De Morgan's Laws]]
+	- [[#Equivalence Proofs]]
 
 ## Chapter 1
 
@@ -71,5 +72,10 @@ For more info see earlier notes into how each law works (but know they are all d
 
 ### Equivalence Proofs
 - to show that two compound propositions are equivalent to each other de morgan's laws can be used to simplify one down into the other 
+
+### Propositional Satisfiability
+- A compound proposition is satisfiable if there is a combination of T and/or F that makes then end result *T*
+
+
 
 ---
