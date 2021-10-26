@@ -33,4 +33,7 @@ Solution:
 ## Equivalent Propositions
 - Two propositions can be called *equivalent* if they always have the same truth value.
 
+## Consistent System Specifications
+- A system of propositions is *consistent* if there is a combination that makes all of them true
+
 	
