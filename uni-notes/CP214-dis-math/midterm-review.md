@@ -10,6 +10,7 @@ Summary:
 	- [[#Consistent System Specifications]]
 	- [[#Tautologies Contradictions and Contingencies]]
 	- [[#Logically Equivalent]]
+	- [[#De Morgan's Laws]]
 
 ## Chapter 1
 
@@ -61,5 +62,14 @@ Solution:
 - **Idempotent laws**
 - **Double Negation law**
 - **Negation Laws**
-- **
+- **Commutative Laws**
+- **Associative Laws**
+- **Distributive Laws**
+- **Absorption Laws**
+
+For more info see earlier notes into how each law works (but know they are all de morgan laws)
+
+### Equivalence Proofs
+- to show that two compound propositions are equivalent to each other de morgan's laws can be used to simplify one down into the other 
+
 ---
