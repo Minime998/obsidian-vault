@@ -113,4 +113,7 @@ For more info see earlier notes into how each law works (but know they are all d
 - $\forall$*x P*(*x*) asserts *P*(*x*) is true for *every* *x* in the *domain*
 - $\exists$*x P*(*x*) asserts *P*(*x*) is true for *some* *x* in the *domain*
 - The quantifiers *bind* the variable *x* in these expressions 
+
+#### Uniqueness Quantifier
+- $\exists$!*x* *P*(*x*) means that *P*(*x*) is true for one and only one *x* in the *universe of discourse*
 --- 
