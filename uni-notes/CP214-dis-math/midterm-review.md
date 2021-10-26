@@ -15,5 +15,13 @@
 ### Proposition Logic
 - In propositional logic **Propositional variables** like *p*,*q*,*r*,*s* are used to represent a proposition
 - Any proposition can be either *T* or *F*
-- A more advanced form of logic is **
-
+- A more advanced form of logic is **Compound Propositions** which are constructed from combining propositions using symbols like:
+	- **Negation** $\neg$
+	- **Conjunction** $\wedge$
+	- **Disjunction** $\vee$
+	- **Implication** $\rightarrow$
+	- **Biconditional** $\leftrightarrow$
+	
+	## Negation
+	- the *negation* of a proposition like *p* is denoted by $\neg$*p* and has the following truth table:
+	![Ca]
