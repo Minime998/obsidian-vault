@@ -23,5 +23,8 @@
 	- **Biconditional** $\leftrightarrow$
 	
 ## Converse, Contrapositive, and Inverse
->Example: Find the converse, inverse, and contrapositive of "It raining is"
+>Example: Find the converse, inverse, and contrapositive of "It raining is a sufficient condition for my not going to town."
+
+Solution:
+- **converse**: If I do not go to town, then it is raining.
 	
