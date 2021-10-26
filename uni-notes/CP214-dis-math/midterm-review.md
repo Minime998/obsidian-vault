@@ -76,6 +76,16 @@ For more info see earlier notes into how each law works (but know they are all d
 ### Propositional Satisfiability
 - A compound proposition is satisfiable if there is a combination of T and/or F that makes then end result *T*
 
+### Predicate Logic
+- uses the following:
+	- Variables: *x*,*y*,*z*
+	- Predicates: *P*, *M* (denoted by a capital)
+	- Quantifiers (see later in note)
 
+#### Propositional functions
+- They use variables and a predicate e.g *P*(*x*)
+- variables are stand ins for elements within their *domain*
+- They are generalizations of propositions and become them when elements are introduced
+- 
 
 ---
