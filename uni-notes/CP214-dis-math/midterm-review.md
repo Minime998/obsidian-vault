@@ -15,7 +15,7 @@ Summary:
 	- [[#Propositional Satisfiability]]
 	- [[#Predicate Logic]]
 		- [[#Propositional functions]]
-		- 
+		- [[#Compound Expressions]]
 
 ## Chapter 1
 
@@ -99,5 +99,15 @@ For more info see earlier notes into how each law works (but know they are all d
 
 #### Compound Expressions
 - Connectives from **propositional logic** carry over to **predicate logic**
-- 
+> Example:
+> P(3) -> P(1)
+
+#### Quantifiers
+- *quantifiers* are used to express the meaning of English words including *all* or *some* (which we could not do earlier):
+	- "All men are Mortal."
+	- "Some cats do not have fur."
+
+- The most important quantifiers are:
+	- *Universal Quantifier*, "For all", symbol: $\forall$
+	- *Existential Quantifier*, "There exists", symbol: $\$
 ---
