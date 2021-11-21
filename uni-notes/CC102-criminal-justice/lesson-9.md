@@ -24,4 +24,11 @@
 	# **Probation**
 	- Refers to a sentence imposed on an offender by a criminal court judge that provides for the supervision of the offender in the community by a probation officer, either is an alternative to incarceration or in conjunction with a period of incarceration
 	- Is mandatory for those that have served a conditional discharge, suspended sentence, or an intermittent sentence
+		- *Conditional Discharge*:
+			- Todd is given a conditional discharge by his sentencing judge and receives a mandatory period of probation
+		-*Suspended Sentence*:
+			- Sir Alfred receives a suspended sentence with a mandatory period of incarceration from the sentencing judge
+		-*Intermittent Sentence*:
+			-Brenda is given an intermittent sentence of 60 days she will serve her jail time on weekends and when she is in the community during the week she will follow the conditions of a probation order.
+			
 	
