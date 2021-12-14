@@ -24,6 +24,10 @@ An *array* is a data structure used to process a collection of data that is all 
 
 **Arrays** possess two features: all of its **elements are of the same type** and its elements are **adjacent** in the memory
 
-An array that b
+An array that behaves like a collection of variables can be made using the following (double used here):
+```java
+double[] score = new double[5];
+```
+
 
  

@@ -25,7 +25,7 @@
   ],
   "strictLineBreaks": false,
   "foldHeading": true,
-  "foldIndent": false,
+  "foldIndent": true,
   "attachmentFolderPath": "uni-notes/PP204-formal-logic/note-images",
   "fileSortOrder": "byCreatedTime",
   "showUnsupportedFiles": true,
