@@ -35,3 +35,20 @@ double[] score;
 score = new double[5];
 ```
 
+Every array has three components:
+	- The access modifier
+	- The array type
+	- The array name 
+
+If an access modifier is not provided, the variable takes the default access modifier. Brackets showing that it is an array can be put before or after the name.
+```java
+float anArrayOfFloats[]; 
+
+or 
+
+float [] anArrayOfFloats;
+```
+
+The second option is preferable as it looks more natural
+
+The **New** operator is used to make new arrays that dont already exist
