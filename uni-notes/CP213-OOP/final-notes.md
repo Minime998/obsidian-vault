@@ -28,3 +28,10 @@ An array that behaves like a collection of variables can be made using the follo
 ```java
 double[] score = new double[5];
 ```
+
+or using two statements:
+```java
+double[] score;
+score = new double[5];
+```
+
