@@ -20,7 +20,7 @@
 
 ### Lesson 6:
 
-An *array* is a data structure used to process a collection of data that is all of the **same type**. It behaves like a numbered list of variables with a uniform naming system. It has a part that **does not change**: the name, and a part that **does change**: an integer in square bracket.
+An *array* is a data structure used to process a collection of data that is all of the **same type**. It behaves like a numbered list of variables with a uniform naming system. It has a part that  **does not change**: the name, and a part that **does change**: an integer in square bracket.
 
-**Arrays** possess two feature
+**Arrays** possess two features: all of its **elements are of the same type**
  
