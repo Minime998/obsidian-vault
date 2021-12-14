@@ -56,3 +56,5 @@ The **New** operator is used to make new arrays that don't already exist
 The individual variables that make up the array are called *indexed variables* or *subscripted* variables or *elements* of the array. If a set amount of memory is put aside that number in brackets is called an *index* or *subscript*
 
 The number of variables in an array is called the *length* or size of the array
+
+When an array is made it will come with an instance variable named *length* that can not be changed until a new array is made
