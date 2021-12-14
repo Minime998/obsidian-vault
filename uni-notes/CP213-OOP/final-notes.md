@@ -51,4 +51,8 @@ float [] anArrayOfFloats;
 
 The second option is preferable as it looks more natural
 
-The **New** operator is used to make new arrays that dont already exist
+The **New** operator is used to make new arrays that don't already exist
+
+The individual variables that make up the array are called *indexed variables* or *subscripted* variables or *elements* of the array. If a set amount of memory is put aside that number in brackets is called an *index* or *subscript*
+
+The number of variables in an array is called the *length* or size of the array
