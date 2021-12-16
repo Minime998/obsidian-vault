@@ -12,4 +12,4 @@
 - output dependent on two inputs and carry input
 - Single but #'s
 - A + B + Ci = S
-- A +B + Ci = Co
+- Co = AB + Ci(A+B)exclusive
