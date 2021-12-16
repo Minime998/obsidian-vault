@@ -30,5 +30,6 @@
   "attachmentFolderPath": "uni-notes/PP204-formal-logic/note-images",
   "fileSortOrder": "byCreatedTime",
   "showUnsupportedFiles": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "promptDelete": false
 }

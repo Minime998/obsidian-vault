@@ -1,0 +1,7 @@
+#digital-electronics 
+
+# 220 Final
+## Half adder
+- output dependent on the two inputs that are being added
+	- Single bit #'s
+	- It does not take carry from previous sum
