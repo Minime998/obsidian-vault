@@ -40,4 +40,11 @@ Tech,Architecture,System,Applications,etc...
 - Transistors
 - Transistor effect
 - transistor computers
-- 
+
+## 1.4 The Stored Program Computer
+
+Program code is written and then compiled into a line by line instructions made out of 32 bits. (or 64 depending on the System)
+
+IF logic is the foundation of most logic (IF Then Else)
+
+
