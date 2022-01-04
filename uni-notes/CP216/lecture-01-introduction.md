@@ -37,3 +37,7 @@ Tech,Architecture,System,Applications,etc...
 - 1904
 - Atanasoff-Berry Computer
 - ENIAC
+- Transistors
+- Transistor effect
+- transistor computers
+- 
