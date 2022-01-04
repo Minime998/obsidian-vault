@@ -22,3 +22,4 @@ The design of computers is affected by things like current tech, performance, ap
 
 The main focus is how the CPU will communicate to the Memory using a bus. The Memory itself is partitioned into different blocks. The CPU will read the instructions from the memory and then carried out operations on input data from the Memory. Data and Instructions co-exist in the same Memory system (see partitions).
 
+Data is used in the memory as instructions to go to the interpreter which is regulated by a clock. The interpreter then sens the instructions to the Control signal generator which signals to different parts of the computer. Software controls the hardware.
