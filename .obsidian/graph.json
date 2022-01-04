@@ -8,31 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:uni-notes/CP214-dis-math",
+      "query": "tag:CP216",
       "color": {
         "a": 1,
-        "rgb": 65310
-      }
-    },
-    {
-      "query": "path:uni-notes/CC102-criminal-justice",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
-    },
-    {
-      "query": "path:uni-notes/PP204-formal-logic",
-      "color": {
-        "a": 1,
-        "rgb": 79872
-      }
-    },
-    {
-      "query": "path:uni-notes/CP220-digital-electronics",
-      "color": {
-        "a": 1,
-        "rgb": 65437
+        "rgb": 14701138
       }
     }
   ],
@@ -47,5 +26,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.5588744829138823,
-  "close": true
+  "close": false
 }
