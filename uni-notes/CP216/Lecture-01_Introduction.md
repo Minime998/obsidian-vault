@@ -18,4 +18,7 @@ The **CPU** is connected by a **bus** to the **Cache memory** and the **System b
 
 The design of computers is affected by things like current tech, performance, applications, the OS, and power consumption.
 
-*This course will focus on the CPU*
+*This course will focus on the CPU (ARM architecture)*
+
+The main focus is how the CPU will communicate to the Memory using a bus. The Memory itself is partitioned into different blocks. The CPU will read the instructions from the memory and then carried out operations on input data from the Memory. Data and Instructions co-exist in the same Memory system (see partitions).
+
