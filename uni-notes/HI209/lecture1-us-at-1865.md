@@ -39,5 +39,11 @@ Racial Theory was a *Pseudoscience*, but became very important to white American
 
 Was also the idea of *Separate Spheres* women where in the private sphere, men in public
 public
-- begane to shift to more women wanting equalitie
-- Spheres where more of a tr
+- began to shift to more women wanting equality
+- Spheres where more of a tradition and more women where able to read
+- Women's rights conventions "called *first wave feminism*" wanted equality under the law
+
+The Revolution was supposed to make a *"Classless Society"*, but the higher classes existed as people held more wealth than the others
+- white Americans at the top, other marginalized groups at the bottom
+- brought everything together to make **social hierarchies and the American identity**
+- was still a big gap between rich and poor white Americans 
