@@ -55,4 +55,5 @@ The Revolution was supposed to make a *"Classless Society"*, but the higher clas
   Collective identity at 1865
   - woman were held back by traditional roles
   - called a classless society
-  - Protestantism was the only religion 
+  - Protestantism was the only religion
+  - racial hierarchies  
