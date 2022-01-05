@@ -8,7 +8,7 @@
 - Class
 - Religion
 
-## American Identity: Westward Expansion
+## American Identity at 1865
 
 *Westward expansion* was occurring, but a look of the mid west states where not states yet
 
@@ -22,5 +22,14 @@ Attempt at the time to assimilate First Nations (**cultural genocide**)
 *Slavery* had developed due to economic reason (**mainly in the south**)
 - Idea grew of racial hierarchy, white man was higher up, developed by slavery economic system
 - Slavery started to **fade out in the North** but was still profitable as southern products from slavery are sold to the north a *symbiosis of North and South* 
-* Slavery started to become a **Moral** issue 
+* Slavery started to become a **Moral** issue
+
+*Nativism* was also an issue where native born Americans called "nativists" saw new arrivals as not white or inferior and dangerous
+
+*Chinese Exclusion* was also an issue
+- laws were put into place to limit their immigration, **seen as dangerous** to white women 
+
+Support for racial hierarchy seemed to come from *Darwinism*
+
+Racial Theory was a *Pseudoscience*, but 
 
