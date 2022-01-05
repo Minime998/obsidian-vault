@@ -31,5 +31,13 @@ Attempt at the time to assimilate First Nations (**cultural genocide**)
 
 Support for racial hierarchy seemed to come from *Darwinism*
 
-Racial Theory was a *Pseudoscience*, but 
+Racial Theory was a *Pseudoscience*, but became very important to white Americans ideas of race
+- different people were put into different hierarchies, white people were always at the top
+- Idea of *White Supremacy*
+- started to become more about skin tone (**slow process**)
+- white supremacy was reenforced in popular culture, where white people played as black people to reinforce white supremacy called *Black Minstrelsy*
 
+Was also the idea of *Separate Spheres* women where in the private sphere, men in public
+public
+- begane to shift to more women wanting equalitie
+- Spheres where more of a tr
