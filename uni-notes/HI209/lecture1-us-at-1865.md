@@ -19,6 +19,8 @@ Attempt at the time to assimilate First Nations (**cultural genocide**)
 - Later frustration shifted to a dying race, not as capable as white people
 - culture would die out in schools
 
-Slavery 
-
+*Slavery* had developed due to economic reason (**mainly in the south**)
+- Idea grew of racial hierarchy, white man was higher up, developed by slavery economic system
+- Slavery started to **fade out in the North** but was still profitable as southern products from slavery are sold to the north a *symbiosis of North and South* 
+* Slavery started to become a **Moral** issue 
 
