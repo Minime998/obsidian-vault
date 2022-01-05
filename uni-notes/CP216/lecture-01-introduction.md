@@ -47,4 +47,6 @@ Program code is written and then compiled into a line by line instructions made 
 
 IF logic is the foundation of most logic (IF Then Else)
 
+## 1.5 The stored Program Concept
 
+Memory gives location that is then connected to Data. (but Memory itself has no meaning on its own)
