@@ -46,4 +46,13 @@ public
 The Revolution was supposed to make a *"Classless Society"*, but the higher classes existed as people held more wealth than the others
 - white Americans at the top, other marginalized groups at the bottom
 - brought everything together to make **social hierarchies and the American identity**
-- was still a big gap between rich and poor white Americans 
+- was still a big gap between rich and poor white Americans
+
+ *The Second Great Awakening* was a revival of religion
+ - push for abolition and the inclusion of black people
+ - Protestants viewed Catholics and Jews as bad
+
+  Collective identity at 1865
+  - woman were held back by traditional roles
+  - called a classless society
+  - Protestantism was the only religion 
