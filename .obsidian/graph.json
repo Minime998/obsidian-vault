@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -8,15 +8,22 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:CP216",
+      "query": "tag:#CP216",
       "color": {
         "a": 1,
         "rgb": 14107202
       }
+    },
+    {
+      "query": "tag:#HI209",
+      "color": {
+        "a": 1,
+        "rgb": 2177722
+      }
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
@@ -25,6 +32,6 @@
   "repelStrength": 11.6470588235294,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5588744829138823,
+  "scale": 1.0984991186546282,
   "close": false
 }
