@@ -13,5 +13,11 @@
 *Information* is anything that can be stored and manipulated by computers
 
 The Bit and Byte and Bit Patterns:
-- one bit
-- two bit
+- One bits (**2 values**)
+- Two bits (**4 values**)
+- Three bits (**8 values**)
+- Four bits (**16 values**)
+
+ASCII Code
+- 0-7 table
+
