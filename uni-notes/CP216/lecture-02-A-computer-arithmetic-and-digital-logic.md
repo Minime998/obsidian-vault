@@ -17,7 +17,15 @@ The Bit and Byte and Bit Patterns:
 - Two bits (**4 values**)
 - Three bits (**8 values**)
 - Four bits (**16 values**)
+![[Screenshot 2022-01-06 144449.png]]
 
-ASCII Code
-- 0-7 table
+*ASCII Code*
+![[Screenshot 2022-01-06 144430.png]]
 
+The digits used by *four number bases*
+![[Screenshot 2022-01-06 144810.png]]
+
+The Position Notation
+
+The decimal numbering system has 10 digits 0-9
+- has a base of 10 with each postion
