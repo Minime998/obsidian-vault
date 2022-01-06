@@ -83,3 +83,9 @@ x  101
 -------
 10111110
 ```
+
+```dataview
+table date
+from uni-notes
+
+```
