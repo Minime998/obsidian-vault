@@ -22,7 +22,7 @@ The Bit and Byte and Bit Patterns:
 *ASCII Code*
 ![[Screenshot 2022-01-06 144430.png]]
 
-The digits used by *four number bases*
+### 2.2 The digits used by *four number bases*
 ![[Screenshot 2022-01-06 144810.png]]
 
 The *Position Notation*:
@@ -30,7 +30,6 @@ The *Position Notation*:
 The decimal numbering system has 10 digits 0-9
 - has a base of 10 with each position weight by a factor of 10
 - ...10^5 10^4...10^0...10^-5
-
 ```
 14.2 = 1 * 10^1 + 4 * 10^0 + 2 * 10^-1
 ```
@@ -39,5 +38,31 @@ The binary number system has 2 digits 0 and 1
 - has a base of 2 with each position weight by a factor of 2
 - ...2^5...2^0...2^-5
 ```
-10111 = 1 * 2^4 +0 * 2^3 + 1 * 2^2 + 1 *
+10111 = 1 * 2^4 +0 * 2^3 + 1 * 2^2 + 1 * 2^1 + 1 * 2^0
+```
+
+### 2.3 Binary Arithmetic
+
+Binary addition:
+- 0 + 0 = 0 Sum of 0 with a carry of 0
+- 0 + 1 = 1
+- 1 + 0 = 1
+- 1 + 1 = 10 Sum of 1 with a carry of 1
+```
+11001
++1101
+------
+100110
+```
+
+Binary Subtraction:
+- 0 -0 = 0
+- 1 - 1 = 0
+- 1 - 0 = 1
+- 10 - 1 = 1   0-1 with a borrow of 1
+```
+1011
+-111
+-----
+
 ```
