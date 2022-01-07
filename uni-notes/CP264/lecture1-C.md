@@ -33,3 +33,7 @@ gcc-g hello.c (put diagnostic into object file)
 gcc hello.c -o hello.exe (name exe)
 gcc-S hello.c (makes assemble file)
 ```
+
+Execution
+
+1. 
