@@ -1,0 +1,20 @@
+{
+  "settings": {
+    "enableRemixiconsLine": true,
+    "enableRemixiconsFill": false,
+    "enableFontawesomeFill": false,
+    "enableFontawesomeLine": false,
+    "enableFontawesomeBrands": false,
+    "fontSize": 16,
+    "iconColor": null,
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "uni-notes/CP264": "RiCodeLine",
+  "uni-notes/HI209": "RiHistoryLine",
+  "uni-notes/CP216": "RiArtboard2Line"
+}
