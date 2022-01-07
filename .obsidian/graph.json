@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 2177722
       }
+    },
+    {
+      "query": "tag:#CP264",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 11.6470588235294,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0984991186546282,
+  "scale": 1.4769860980686502,
   "close": true
 }
