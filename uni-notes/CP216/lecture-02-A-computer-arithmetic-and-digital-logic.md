@@ -31,7 +31,7 @@ The decimal numbering system has 10 digits 0-9
 - has a base of 10 with each position weight by a factor of 10
 - 10^5 10^4...10^0...10^-5
 
-$14.2 = 1 \times 10$ 14.2 = 1 * 10^1 + 4 * 10^0 + 2 * 10^-1
+$14.2 = 1 \times 10^1 + 4 \times 10^0 + 2 \times 10^-1$
 
 
 The binary number system has 2 digits 0 and 1
