@@ -9,7 +9,7 @@
 #include<stdio.h> //include a header file
 void main() // the main function
 {
- printf("hello world!\n"); //prints out
+ printf("hello world!\n"); //prints out (function call)
 }
 ```
 
