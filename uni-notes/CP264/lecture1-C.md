@@ -23,3 +23,13 @@ takes four steps:
 2. compilation (Convert C to assembly program)
 3. assemble (convert the assemble to binary format, called object programs)
 4. linking (link object files with other library files to make exe)
+
+Compiler Options
+
+```Terminal
+gcc-std=c99 (use C99 standard)
+gcc-c hello.c (makes object file)
+gcc-g hello.c (put diagnostic into object file)
+gcc hello.c -o hello.exe (name exe)
+gcc-S hello.c (makes assemble file)
+```
