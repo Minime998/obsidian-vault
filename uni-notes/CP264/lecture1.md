@@ -16,7 +16,7 @@ void main() // the main function
 To compile gcc hello.c
 - will create an executable then for windows: a.exe
 
-Compiling steps
+### Compiling steps
 
 takes four steps:
 1. pre-processing (resolve lines with pre-processor directives)
@@ -24,7 +24,7 @@ takes four steps:
 3. assemble (convert the assemble to binary format, called object programs)
 4. linking (link object files with other library files to make exe)
 
-Compiler Options
+### Compiler Options
 
 ```Terminal
 gcc-std=c99 (use C99 standard)
@@ -34,6 +34,9 @@ gcc hello.c -o hello.exe (name exe)
 gcc-S hello.c (makes assemble file)
 ```
 
-Execution
+### Execution
 
-1. 
+1. the exe is loaded onto memory
+2. starts from the first instruction controlled by flow control until end
+3. read from memory to CPU and then executed
+
