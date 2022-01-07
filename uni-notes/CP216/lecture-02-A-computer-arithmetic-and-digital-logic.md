@@ -30,9 +30,9 @@ The *Position Notation*:
 The decimal numbering system has 10 digits 0-9
 - has a base of 10 with each position weight by a factor of 10
 - 10^5 10^4...10^0...10^-5
-```
+$$math$$
 14.2 = 1 * 10^1 + 4 * 10^0 + 2 * 10^-1
-```
+
 
 The binary number system has 2 digits 0 and 1
 - has a base of 2 with each position weight by a factor of 2
