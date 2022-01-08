@@ -1,10 +1,10 @@
 {
   "settings": {
     "enableRemixiconsLine": true,
-    "enableRemixiconsFill": false,
-    "enableFontawesomeFill": false,
-    "enableFontawesomeLine": false,
-    "enableFontawesomeBrands": false,
+    "enableRemixiconsFill": true,
+    "enableFontawesomeFill": true,
+    "enableFontawesomeLine": true,
+    "enableFontawesomeBrands": true,
     "fontSize": 16,
     "iconColor": null,
     "extraPadding": {
