@@ -43,3 +43,15 @@ gcc-S hello.c (makes assemble file)
 
 # C programming language basics
 
+## Summary
+1. C program structure
+2. basic syntax
+3. data types
+4. variables
+
+### C program structure
+
+
+
+
+

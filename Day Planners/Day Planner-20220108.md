@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 2:40:18 PM
+    %% Current Time: 2:45:18 PM
     section Tasks
     Lecture study     :14-30, 90mm
     END     :16-00, 0mm
