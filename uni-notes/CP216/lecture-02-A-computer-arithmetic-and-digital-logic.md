@@ -3,7 +3,7 @@
 # Computer Arithmetic and Digital Logic 
 
 ## Chapter 2 A
-- fill in later
+-
 
 ### 2.1 What is data
 
