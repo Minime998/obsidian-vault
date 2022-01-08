@@ -1,5 +1,6 @@
 {
   "pinned": [
-    "obsidian-day-planner:app:show-day-planner-today-note"
+    "obsidian-day-planner:app:show-day-planner-today-note",
+    "obsidian-latex-environments:insert-latex-env"
   ]
 }
