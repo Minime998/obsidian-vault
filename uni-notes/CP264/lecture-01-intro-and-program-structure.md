@@ -82,10 +82,13 @@ return 0; }
 int add(int x, int y) // function header
 {
 
-return x+y; // function body }
+return x+y; // function body 
+}
 // definition/implementation of function minus(int, int)
-int minus(int x, int y) // function header {
-return x-y; // function body } 3
+int minus(int x, int y) // function header 
+{
+return x-y; // function body 
+} 
 ```
 
 
