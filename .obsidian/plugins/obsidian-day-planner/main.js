@@ -38,7 +38,7 @@ var DayPlannerMode;
 
 const DEFAULT_DATE_FORMAT = 'YYYYMMDD';
 const DATE_REGEX = /(?<target>{{date:?(?<date>[^}]*)}})/g;
-const DAY_PLANNER_FILENAME = 'Day Planner-{{date}}.md';
+const DAY_PLANNER_FILENAME = '000 Day Planner-{{date}}.md';
 //https://regex101.com/r/VAxRnc/8
 const PLAN_PARSER_REGEX = /^(((-?[\s]*\[?(?<completion>[x ]*)\])(\d.)?\s*?(?<hours>\d{1,2}):(?<minutes>\d{2})\s)((?<break>BREAK[\n ]?)|(?<end>END[\n ]?)|((?<text>.*))))$/gmi;
 const MERMAID_REGEX = /```mermaid\ngantt[\S\s]*?```\s*/gmi;
