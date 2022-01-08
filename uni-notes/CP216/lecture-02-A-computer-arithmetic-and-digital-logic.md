@@ -1,6 +1,7 @@
 #CP216 
 
-# Computer Arithmetic and Digital Logic 
+# Lecture-02-A
+## Computer Arithmetic and Digital Logic 
 
 ## Chapter 2 A
 
