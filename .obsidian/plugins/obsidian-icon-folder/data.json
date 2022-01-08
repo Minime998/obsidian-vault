@@ -14,9 +14,8 @@
       "left": 2
     }
   },
-  "uni-notes/CP264": "RiCodeLine",
-  "uni-notes/HI209": "RiHistoryLine",
-  "uni-notes/CP216": "RiCpuLine",
-  "uni-notes": "RiStickyNoteLine",
-  "000 Day Planners": "RiCalendarTodoLine"
+  "600 - uni-notes": "RiStickyNoteLine",
+  "600 - uni-notes/CP216": "RiCpuLine",
+  "600 - uni-notes/CP264": "RiCodeLine",
+  "600 - uni-notes/HI209": "RiHistoryLine"
 }
