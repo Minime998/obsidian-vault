@@ -90,10 +90,3 @@ int minus(int x, int y) // function header
 return x-y; // function body 
 } 
 ```
-
-
-
-
-
-
-![[Recording 20220108161513.webm]]
