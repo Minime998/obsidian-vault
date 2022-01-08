@@ -14,8 +14,9 @@
       "left": 2
     }
   },
-  "600 uni-notes": "RiStickyNoteLine",
-  "600 uni-notes/CP216": "RiCpuLine",
-  "600 uni-notes/CP264": "RiCodeLine",
-  "600 uni-notes/HI209": "RiHistoryLine"
+  "600-uni-notes": "FaUniversityFill",
+  "600-uni-notes/CP216": "RiCpuLine",
+  "600-uni-notes/CP264": "RiFileCodeFill",
+  "600-uni-notes/HI209": "FaHourglassHalfFill",
+  "000-day-planners": "FaCalendarCheckFill"
 }
