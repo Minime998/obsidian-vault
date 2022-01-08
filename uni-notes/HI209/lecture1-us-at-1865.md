@@ -49,11 +49,11 @@ The Revolution was supposed to make a *"Classless Society"*, but the higher clas
 - was still a big gap between rich and poor white Americans
 
  *The Second Great Awakening* was a revival of religion
- - push for abolition and the inclusion of black people
- - Protestants viewed Catholics and Jews as bad
+- push for abolition and the inclusion of black people
+- Protestants viewed Catholics and Jews as bad
 
-  Collective identity at 1865
-  - woman were held back by traditional roles
-  - called a classless society
-  - Protestantism was the only religion
-  - racial hierarchies  
+ Collective identity at 1865
+- woman were held back by traditional roles
+- called a classless society
+- Protestantism was the only religion
+-  racial hierarchies  
