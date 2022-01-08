@@ -51,6 +51,13 @@ gcc-S hello.c (makes assemble file)
 
 ### C program structure
 
+- A C source program is organized into a sequence of functions
+	- Must have the *main()* function for a exe program
+		- The function of a C program begins from its main() function
+	- A function has a logic sequence of statements
+	- A statement can call another function, a function has to be declared or defined before it can be called
+- After compiling, an exe is organized in sequences of blocks and functions 
+
 
 
 

@@ -4,7 +4,7 @@
 ## Computer System Architecture
 
 ## Chapter 1:
-- ![[#1 1 What is Computer Systems Architecture]]
+- What is Computer Systems Architecture
 - Architecture and Organization
 - Development of Computers
 - The Stored Program Computer
