@@ -14,8 +14,8 @@
       "left": 2
     }
   },
-  "600 - uni-notes": "RiStickyNoteLine",
-  "600 - uni-notes/CP216": "RiCpuLine",
-  "600 - uni-notes/CP264": "RiCodeLine",
-  "600 - uni-notes/HI209": "RiHistoryLine"
+  "uni-notes": "RiStickyNoteLine",
+  "uni-notes/CP216": "RiCpuLine",
+  "uni-notes/CP264": "RiCodeLine",
+  "uni-notes/HI209": "RiHistoryLine"
 }
