@@ -32,7 +32,6 @@ The decimal numbering system has 10 digits 0-9
 - 10^5 10^4...10^0...10^-5
 
 $$
-
 14.2 = 1 \times 10^1 + 4 \times 10^0 + 2 \times 10^-1
 $$
 
