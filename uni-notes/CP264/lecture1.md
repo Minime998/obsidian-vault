@@ -39,3 +39,7 @@ gcc-S hello.c (makes assemble file)
 2. starts from the first instruction controlled by flow control until end
 3. read from memory to CPU and then executed
 
+---
+
+# C programming language basics
+
