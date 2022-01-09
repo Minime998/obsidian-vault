@@ -97,6 +97,7 @@ return x-y; // function body
 ```ad-note
 title: Basic structure
 icon: info
+
 [preprocessor directives]
 [global variables]
 [function declarations]
