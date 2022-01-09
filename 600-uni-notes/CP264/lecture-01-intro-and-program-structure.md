@@ -108,3 +108,10 @@ main( arguments ) {
 
 ### Basic Syntax
 * Basic symbols
+
+![[Screenshot 2022-01-09 155836.png]]
+
+- C has 32 reserved words
+
+![[Screenshot 2022-01-09 160031.png]]
+
