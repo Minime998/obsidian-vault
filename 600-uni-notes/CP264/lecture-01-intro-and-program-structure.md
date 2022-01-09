@@ -115,3 +115,8 @@ main( arguments ) {
 
 ![[Screenshot 2022-01-09 160031.png]]
 
+- Expressions:
+	- Use infix notation consists of constants, variables, operators, parenthesis
+	```ad-example
+	$(1 + 2) \times 3, 1==2, (1==1) && ()$
+	```
