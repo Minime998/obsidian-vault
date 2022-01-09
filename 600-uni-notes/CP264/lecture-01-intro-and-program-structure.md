@@ -25,7 +25,7 @@ takes four steps:
 4. linking (link object files with other library files to make exe)
 
 ### Compiler Options
-```Terminal
+```ad-note
 gcc-std=c99 (use C99 standard)
 gcc-c hello.c (makes object file)
 gcc-g hello.c (put diagnostic into object file)
