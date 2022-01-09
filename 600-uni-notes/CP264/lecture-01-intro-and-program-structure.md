@@ -94,6 +94,17 @@ return x-y; // function body
 ```
 
 ### C program structure model
-
+```ad-note
+title: Basic structure
+icon: info
 [preprocessor directives]
-[]
+[global variables]
+[function declarations]
+main( arguments ) {
+[statements]
+}
+[function definitions]
+```
+
+### Basic Syntax
+* Basic symbols
