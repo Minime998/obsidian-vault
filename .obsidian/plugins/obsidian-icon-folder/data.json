@@ -20,5 +20,7 @@
   "600-uni-notes/HI209": "FaHourglassHalfFill",
   "000-day-planners": "FaCalendarCheckFill",
   "300-private": "RiAdminFill",
-  "600-uni-notes/general-markdown.md": "FaInfoFill"
+  "600-uni-notes/general-markdown.md": "FaInfoFill",
+  "A00-personal-projects": "RiAsterisk",
+  "300-private/testing.7z": "RiAlertFill"
 }
