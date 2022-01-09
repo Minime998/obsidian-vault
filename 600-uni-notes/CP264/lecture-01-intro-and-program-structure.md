@@ -152,4 +152,8 @@ main( arguments ) {
 	2. how many bytes are used to represent the data value and how a dat value is represented in bit pattern and stored in memory
 	3. what operations are applied to the data values and how data values are operated in the operations
 
-**Brief description:**
+**Brief description:** data type defines how certain type of data represented and operated in programming and computers
+
+- C provides primary (primitive or basic) data types, defined by keywords: *char*, *int*, *float*, *double*, *short*, *long*, *signed*, *unsigned*
+
+- C provides methods to build secondary 
