@@ -118,5 +118,19 @@ main( arguments ) {
 - Expressions:
 	- Use infix notation consists of constants, variables, operators, parenthesis
 	```ad-example
-	$(1 + 2) \times 3, 1==2, (1==1) && ()$
+
+	(1 + 2) X 3, 1=2, (1=1) && (2!=1)
+
+	```
+- Statements:
+	- A C statement is a command/instruction to the C compiler
+	- A statement can be a declaration, assignment, condition, function call, flow control statements of selection, and repetition
+
+- Program block:
+	- A program **block**, scoped by { }, is a sequence of statements
+
+- Function
+	- Function declaration/header syntax:
+	```C
+typename function_name(argument type list);
 	```
