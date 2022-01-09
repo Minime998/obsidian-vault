@@ -132,5 +132,17 @@ main( arguments ) {
 - Function
 	- Function declaration/header syntax:
 	```C
-typename function_name(argument type list);
+	typename function_name(argument type list);
 	```
+	- Function def/implementation syntax:
+	```C
+	typename function_name(argument type and name list){
+	// function block
+	}
+	```
+	- Function call syntax:
+	```C
+	function_name(parameter list)
+	```
+
+### Data types
