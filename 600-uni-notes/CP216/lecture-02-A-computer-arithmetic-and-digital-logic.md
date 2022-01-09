@@ -40,9 +40,9 @@ $$
 The binary number system has 2 digits 0 and 1
 - has a base of 2 with each position weight by a factor of 2
 - 2^5...2^0...2^-5
-```
-10111 = 1 * 2^4 +0 * 2^3 + 1 * 2^2 + 1 * 2^1 + 1 * 2^0
-```
+$$
+10111 = 1 \times 2^4 +0 \times 2^3 + 1 \times 2^2 + 1 \times 2^1 + 1 \times 2^0
+$$
 
 ### 2.3 Binary Arithmetic
 
@@ -51,12 +51,12 @@ Binary addition:
 - 0 + 1 = 1
 - 1 + 0 = 1
 - 1 + 1 = 10 Sum of 1 with a carry of 1
-```
+
 11001
 +1101
 ------
 100110
-```
+
 
 Binary Subtraction:
 - 0 -0 = 0
