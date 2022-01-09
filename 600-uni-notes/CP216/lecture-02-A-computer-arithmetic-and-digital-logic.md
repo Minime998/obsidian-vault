@@ -52,7 +52,11 @@ Binary addition:
 - 1 + 0 = 1
 - 1 + 1 = 10 Sum of 1 with a carry of 1
 $$
-11001+1101 \line{1,0}{1cm}  100110
+\begin
+11001
++1101
+\centerline
+100110
 $$
 
 Binary Subtraction:
