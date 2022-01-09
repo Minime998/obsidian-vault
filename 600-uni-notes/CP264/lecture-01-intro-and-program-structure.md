@@ -93,3 +93,7 @@ return x-y; // function body
 } 
 ```
 
+### C program structure model
+
+[preprocessor directives]
+[]
