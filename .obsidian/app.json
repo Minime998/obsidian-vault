@@ -33,5 +33,6 @@
   "defaultViewMode": "preview",
   "promptDelete": false,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "rightToLeft": false
 }
