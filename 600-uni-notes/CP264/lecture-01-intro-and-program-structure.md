@@ -151,3 +151,5 @@ main( arguments ) {
 	1. how a certain type of data value is represented in programs
 	2. how many bytes are used to represent the data value and how a dat value is represented in bit pattern and stored in memory
 	3. what operations are applied to the data values and how data values are operated in the operations
+
+**Brief description:**
