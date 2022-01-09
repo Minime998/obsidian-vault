@@ -14,17 +14,10 @@
       "left": 2
     }
   },
-<<<<<<< HEAD
   "600-uni-notes": "FaUniversityFill",
   "600-uni-notes/CP216": "RiCpuLine",
   "600-uni-notes/CP264": "RiFileCodeFill",
   "600-uni-notes/HI209": "FaHourglassHalfFill",
-  "000-day-planners": "FaCalendarCheckFill"
-=======
-  "Day Planners": "RiCalendarCheckFill",
-  "600-uni-notes": "FaUniversityFill",
-  "600-uni-notes/CP216": "RiCpuLine",
-  "600-uni-notes/CP264": "RiFileCodeFill",
-  "600-uni-notes/HI209": "FaHourglassHalfFill"
->>>>>>> 8fcb65af0b5698f92fca2cd098469ec95d57e424
+  "000-day-planners": "FaCalendarCheckFill",
+  "300-private": "RiAdminFill"
 }

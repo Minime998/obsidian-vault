@@ -26,6 +26,8 @@ takes four steps:
 
 ### Compiler Options
 ```ad-note
+title: Terminal Options
+icon: info
 gcc-std=c99 (use C99 standard)
 gcc-c hello.c (makes object file)
 gcc-g hello.c (put diagnostic into object file)
