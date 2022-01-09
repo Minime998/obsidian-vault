@@ -54,11 +54,14 @@ Binary addition:
 - 1 + 1 = 10 Sum of 1 with a carry of 1
 
 
-$$ \begin{aligned} 
+$$ 
+\begin{aligned} 
 11001\\
-+1101\\
++~~~1101\\
+---\\
 100110
-\end{aligned} $$
+\end{aligned} 
+$$
 
 Binary Subtraction:
 - 0 -0 = 0
