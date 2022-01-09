@@ -19,5 +19,6 @@
   "600-uni-notes/CP264": "RiFileCodeFill",
   "600-uni-notes/HI209": "FaHourglassHalfFill",
   "000-day-planners": "FaCalendarCheckFill",
-  "300-private": "RiAdminFill"
+  "300-private": "RiAdminFill",
+  "600-uni-notes/general-markdown.md": "FaInfoFill"
 }
