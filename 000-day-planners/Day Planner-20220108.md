@@ -2,4 +2,4 @@
 #meta
 - [x] 17:00 BREAK
 - [x] 18:00 Lectures
-- [ ] 20:00 END
+- [x] 20:00 END
