@@ -51,12 +51,9 @@ Binary addition:
 - 0 + 1 = 1
 - 1 + 0 = 1
 - 1 + 1 = 10 Sum of 1 with a carry of 1
-
-11001
-+1101
-------
-100110
-
+$$
+11001+1101 \line{1,0}{1cm}  100110
+$$
 
 Binary Subtraction:
 - 0 -0 = 0
