@@ -206,7 +206,16 @@ The int type uses 4 bytes
 
 * *concepts of variables*
 1. A variable is a name (identifier) used in source code to rep a dat value of a certain type
-2. S variable is assigend a memory block with relative address at the compile time, as well as instructions to set and get values to the memory block
+2. S variable is assigned a memory block with relative address at the compile time, as well as instructions to set and get values to the memory block
 3. The memory block of a variable is instantiated with the absolute address at at runtime
 
 Brief description: **a variable is an identifier of a data value in a program, it gets memory block allocation at the compile time, and absolute memory space (instanced) at runtime**
+
+### Variables in C
+
+- A var must be declared with a type and name
+- The var declaration lets compiler to assign memory block with relative address, and generate instructions to allocate memory space for the variable at runtime
+- A var has to be indicated or assigned a value by assignment statement before it can be used at runtime.
+- C car names must start with a letter, followed by letters, underscores and numbers, and case sensitive
+- C name convention:
+	- undercore_style, camelCaseStyle
