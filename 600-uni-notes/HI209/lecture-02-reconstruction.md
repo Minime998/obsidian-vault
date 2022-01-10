@@ -85,7 +85,37 @@ union troops brought in to **help the south follow** the new amendments
 	- vetoed bills against the south  
 	- upset the radical republicans
 
-### Johnson and Reconstuction
+### Johnson and Reconstruction
+
+He survived impeachment
+- he continued to be softer on the south 
+- voter suppression, the electoral collage, worked to make the white vote more powerful in the south. Democrats and republicans back to neck and neck
+
+### The Redeemers
+
+Southern politicians gained more power and toke over legislatures
+- worked to overthrow 13 and bring back slavery 
+- called themselves the redeemers
+- bring the south back
+
+### Sharecropping and Vagrancy Laws
+
+Set up to make freed black slaves into dept by loaning land
+- if you were a convict you could be sent for convict labor
+
+### Convict Labor
+
+Started with slavery
+- remained with the 13 and expanded
+
+### Convict Leasing and the South
+
+Could be worse than slavery
+- remained with the 13th
+- was how slavery was coming back
+- 
+
+
 
 
 
