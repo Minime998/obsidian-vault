@@ -63,4 +63,30 @@ The North was attracting more immigrants and capital and **grew after the civil 
 ### The Freedman's Bureau
 
 Main goal to provide assistance to all the now freed men 
-- still helped poor
+- still helped poor whites
+- while it did see success, the task was massive and next to impossible
+- had to push back against white state legislatures
+
+### Voting and the Franchise
+
+union troops brought in to **help the south follow** the new amendments
+- *black voting* skyrocket
+- *lack of vote* seen as key right that was denied 
+- several *black politicians* where elected to both senate and congress
+
+## Weakening Reconstruction: The Assassination of Lincoln
+
+*Death of Lincoln* was assassinated by actor john wilks both
+- big **setback** to reconstruction
+- Andrew Johnson became president:
+	- got rid of the freedman's bureau
+	- was softer on the south
+	- was against the 14th amendment
+	- vetoed bills against the south  
+	- upset the radical republicans
+
+### Johnson and Reconstuction
+
+
+
+
