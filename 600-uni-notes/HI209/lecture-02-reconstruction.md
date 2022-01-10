@@ -113,7 +113,28 @@ Started with slavery
 Could be worse than slavery
 - remained with the 13th
 - was how slavery was coming back
-- 
+- more than half of the revenue in southern states was coming from convict labor
+- was mostly black African Americans
+
+### Slavery by Another Name
+
+Brought back slavery with another name
+- remained up to today
+
+### The suppression of the black vote
+
+- grandfather Clauses
+- Poll Taxes
+- Literacy tests
+	- low literacy (tests were used)
+- Intimidation
+
+### The First Ku Klux Klan
+
+civil war veterans, was made to intimidate black people
+- hid their identites
+- southern people felt f
+
 
 
 
