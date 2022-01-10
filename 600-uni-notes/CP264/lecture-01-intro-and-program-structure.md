@@ -219,3 +219,12 @@ Brief description: **a variable is an identifier of a data value in a program, i
 - C car names must start with a letter, followed by letters, underscores and numbers, and case sensitive
 - C name convention:
 	- undercore_style, camelCaseStyle
+- *Variable scope*
+	- each var has a scope where it is declared and be accessed by statements within the scope A var has to be declared before it can be used
+	- global vars are variables declared not in any block. so can be used anywhere
+	- local variables are vars declared in a block
+
+### sizeof
+
+- sizeof is a unary operator used to calculate the sizes of data 
+- returns the size of the var
