@@ -141,8 +141,8 @@ civil war veterans, was made to intimidate black people
  ### Black Education vs. White Education
 
  education was a state matter
- - when southern politicians were put back in power they made schools segregated
- - cut founding to black schools
+- when southern politicians were put back in power they made schools segregated
+- cut founding to black schools
 
 ## End of Reconstruction: The political Aftermath
 
@@ -155,7 +155,18 @@ Johnson was not well liked
 
 new election year
 - to avoid second civil war, the republicans won on the condition that federal troops were moved out of the south
-- brought an end to Recons
+- brought an end to Reconstruction
+- south brought back a system very close to slavery
+
+### The United States at 100
+
+America had turned 100 and had changed
+- Americans thought that America had changed drastically 
+
+## Conclusion
+
+- The initial successes of Reconstruction
+- The ways in which white backlash made a similar structure 
 
 
 
