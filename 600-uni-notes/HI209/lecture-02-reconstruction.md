@@ -132,8 +132,30 @@ Brought back slavery with another name
 ### The First Ku Klux Klan
 
 civil war veterans, was made to intimidate black people
-- hid their identites
-- southern people felt f
+- hid their identities
+- southern people felt feminized after defeat
+- used this to gain masculinity
+- sought to bring back previous racial and gender hierarchies
+- mass mob violence
+
+ ### Black Education vs. White Education
+
+ education was a state matter
+ - when southern politicians were put back in power they made schools segregated
+ - cut founding to black schools
+
+## End of Reconstruction: The political Aftermath
+
+Johnson was not well liked
+- Ulysses S. Grant was elected and attempted to do the opposite of Johnson
+- favored assimilation over annihilation
+- ranked quite low to scandals
+
+### The Compromise of 1877
+
+new election year
+- to avoid second civil war, the republicans won on the condition that federal troops were moved out of the south
+- brought an end to Recons
 
 
 
