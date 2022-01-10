@@ -163,4 +163,20 @@ main( arguments ) {
 
 ![[Screenshot 2022-01-10 083405.png]]
 
-- each data type has a *size*, i.e *the number of bytes* 
+- each data type has a *size*, i.e *the number of bytes* required to store the values of the type in memory and has a *value range*
+```ad-example
+the int type has 2 in old 16 bits systems, but has 4 bytes in 32 and 64 bits systems
+**we will assume that int has 4 bytes in this course**
+
+```
+### The char type
+
+*char* type is used to present characters as an integer defined by ASCII code
+
+```ad-example
+A is coded as 65, a as 97, 0 as 48
+```
+
+![[Screenshot 2022-01-10 084216.png]]
+
+- each addressable memory cell hold 8 buts (1 byte). When a data type has a bugger size than 1, it needs a cont
