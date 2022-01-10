@@ -158,3 +158,9 @@ main( arguments ) {
 - C provides primary (primitive or basic) data types, defined by keywords: *char*, *int*, *float*, *double*, *short*, *long*, *signed*, *unsigned*
 
 - C provides methods to build secondary (derived, extended) data types, using primary, data types, pointer, array, struct, union, Enum
+
+### Primary data types
+
+![[Screenshot 2022-01-10 083405.png]]
+
+- each data type has a *size*, i.e *the number of bytes* 
