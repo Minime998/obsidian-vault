@@ -227,4 +227,12 @@ Brief description: **a variable is an identifier of a data value in a program, i
 ### sizeof
 
 - sizeof is a unary operator used to calculate the sizes of data 
-- returns the size of the var
+- returns the size of the var, data type expression in bytes
+- used to determine the memory size of a variable or a data type or a variable
+
+```ad-example
+*sizeof(char)* **returns 1**
+```
+### Constants
+
+- constants are fixed values in a program
