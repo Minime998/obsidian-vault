@@ -197,3 +197,16 @@ The int type uses 4 bytes
 
 ![[Screenshot 2022-01-10 084953.png]]
 
+### float and double types
+
+- *float* type uses *4 bytes* for single precision floating point numbers, defined by IEEE 754 standard
+- *double* type uses *8 bytes* for double precision floating point numbers, defined by IEEE 754 standard
+
+### Variables
+
+* *concepts of variables*
+1. A variable is a name (identifier) used in source code to rep a dat value of a certain type
+2. S variable is assigend a memory block with relative address at the compile time, as well as instructions to set and get values to the memory block
+3. The memory block of a variable is instantiated with the absolute address at at runtime
+
+Brief description: **a variable is an identifier of a data value in a program, it gets memory block allocation at the compile time, and absolute memory space (instanced) at runtime**
