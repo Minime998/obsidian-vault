@@ -179,4 +179,21 @@ A is coded as 65, a as 97, 0 as 48
 
 ![[Screenshot 2022-01-10 084216.png]]
 
-- each addressable memory cell hold 8 buts (1 byte). When a data type has a bugger size than 1, it needs a cont
+- each addressable memory cell hold 8 buts (1 byte). When a data type has a bugger size than 1, it needs a contiguous memory cells (called memory block) to store the value of the type
+- The char type has 1 byte, it uses one addressable memory cell.
+
+```ad-example
+Character A is coded as 65
+The binary rep of 65 is *100 0001*
+A is stored in memory as *0100 0001*
+```
+
+### How int type is stored in memory
+
+The int type uses 4 bytes
+
+*Big-endian*: Store the most significant byte in the lowest address cell
+*Little-endian*: store the least significant byte in the lowest address cell
+
+![[Screenshot 2022-01-10 084953.png]]
+
