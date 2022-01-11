@@ -18,3 +18,16 @@
 
 *Liberalism*:
 - There are both broad and narrow senses of "liberalism", this courses focus is a broad tradition of Anglo-American thinking about individual; *freedom*, *property rights*, *tolerance*, *property rights* and *equality* that informs mainstream views across the political spectrum 
+- means different things in different places
+- Is a **tradition** in out political system
+
+*Republicanism*:
+- its use is not connected to the republican party
+
+*Political Spectrum*
+
+1. *Traditional left/right* (one axis)
+2. *Horseshoe* (far left/right are the same)
+3. *Political compass* (plotted along more than one axis)
+
+
