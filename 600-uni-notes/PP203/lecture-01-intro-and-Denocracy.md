@@ -30,4 +30,14 @@
 2. *Horseshoe* (far left/right are the same)
 3. *Political compass* (plotted along more than one axis)
 
+*Reflection Equilibrium*:
+
+- idea that particular moral intuitions and judgments, and general moral theories and principles, must be revised in the terms of the other in order for intelligent moral reflection to proceed
+
+---
+
+# Democracy
+
+
+
 
