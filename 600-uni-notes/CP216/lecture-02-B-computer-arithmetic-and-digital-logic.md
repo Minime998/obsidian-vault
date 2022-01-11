@@ -8,4 +8,4 @@
 A binary floating point can be shown like:
 $$1.01010111110 \times 2^5$$
 
-Since is it defined as a product of two 
+Since is it defined as a product of two numbers it is not unique
