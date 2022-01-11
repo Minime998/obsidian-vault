@@ -24,7 +24,7 @@
 *Republicanism*:
 - its use is not connected to the republican party
 
-*Political Spectrum*
+*Political Spectrums*:
 
 1. *Traditional left/right* (one axis)
 2. *Horseshoe* (far left/right are the same)
