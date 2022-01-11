@@ -38,6 +38,12 @@
 
 # Democracy
 
+## 2.4 What is Democracy?
+
+What regime control Canada?
+
+- different answers...
+
 
 
 
