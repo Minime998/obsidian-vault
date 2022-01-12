@@ -27,4 +27,29 @@ Wages were going up
 - rose 50% to 60% percent
 - us got reputation of having high salaries
 - more Americas went into factories, also attracted more European immigrants
-- until now most were coming from Western 
+- until now most were coming from Western Europe, but this age saw more from Eastern Europe
+- more Eastern European settlements
+- Little immigrants went to the South
+
+### Trusts and Monopolies
+
+Trusts and Monopolies were on the rise
+- were businesses that were cornering the market
+- Oil and steel were getting monopolized
+- through agreements (both public and secret) they could control the market
+	- they set price and wages
+
+### Vertical and Horizontal Integration
+
+Vertical: control all steps on manufactor product
+Horizontal: control all the companies that produce product 
+throught these means they could control large parts of the economey
+
+### The Gospel of Wealth and Social Darwinism
+
+Idea of preserving the poor
+- of you were poor it was your fault (Social Darwinism)
+- disservice to help them (pull themselves by bootstraps)
+
+### Economic Growth
+
