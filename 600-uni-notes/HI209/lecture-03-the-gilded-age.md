@@ -91,3 +91,34 @@ Great railroad strikes
 ### Strike breaking
 
 State governors or presidents would have the strike declared illegal and then send in state troops/militia to break up workers
+- would continue to be used to break strikes
+
+### Unions and Organizing
+
+Knights of Labor followed by American Federation of Labor Union
+- connected across industries
+
+## Blackface Minstrelsy
+
+### Caricatures of African Americans
+
+racists caricatures were becoming more popular
+- they were lazy
+- outgrowths of scientific racism
+
+### The Minstrel Show 
+
+White actors playing out stereotypes of race
+- were very popular
+- showed plantations as good
+- came from a desire to experience cool black culture
+
+### The Minstrel Show 2
+
+white people wanted to experience avian American culture as long as it was safe in there eyes and familiar
+
+### Blackface as Caricature
+
+White people wanted a genouine experice but they only got caricatures
+- black women seen as more masculen
+- there was black actors as wre
