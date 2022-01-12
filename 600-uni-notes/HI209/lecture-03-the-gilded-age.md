@@ -43,7 +43,7 @@ Trusts and Monopolies were on the rise
 
 Vertical: control all steps on manufactor product
 Horizontal: control all the companies that produce product 
-throught these means they could control large parts of the economey
+through these means they could control large parts of the economy
 
 ### The Gospel of Wealth and Social Darwinism
 
@@ -53,3 +53,41 @@ Idea of preserving the poor
 
 ### Economic Growth
 
+Lots of new money and capital
+
+### Growing Inequality
+
+Wealth disparity was growing
+- Top control 75% of wealth
+- wages were stagnating now due to agreements
+- return to wage slavery
+
+### Business and Government
+
+Wealthy (trusts) were seen as in control of government
+
+## The Labor Movement
+
+### The rise of labor
+
+Unions response to this
+- organized strikes (first was railroad workers)
+- strikes got bloody
+
+### Labor's Demands
+
+Higher wages
+- job security
+- this was going to happen, employers were holding it back
+
+### Strikes
+
+Great railroad strikes
+- continued to go on in this era
+- start in one location but spread across the country
+- workers would strike down the industry (transportation)
+- unions were powerful (was seen as danger to national security)
+
+### Strike breaking
+
+State governors or presidents would have the strike declared illegal and then send in state troops/militia to break up workers
