@@ -119,6 +119,12 @@ white people wanted to experience avian American culture as long as it was safe 
 
 ### Blackface as Caricature
 
-White people wanted a genouine experice but they only got caricatures
-- black women seen as more masculen
-- there was black actors as wre
+White people wanted a genuine experience but they only got caricatures
+- black women seen as more masculine
+- there was black actors as well
+
+### Racialized Stereotypes
+
+Two types
+- happy slave
+- black city character (shown as lazy but thinks highly of themselves)
