@@ -153,6 +153,7 @@ free coinage of silver
 
 ### Third Parties in the US Politics
 
-Viters could find different things in third parties 
+Voters could find different things in third parties
+- voters go from third to new party, not directly
 
 
