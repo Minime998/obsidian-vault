@@ -79,6 +79,30 @@ process to separate black and white Americans
 - prior to the end of slavery, their was a good amount of interaction between black and white people
 - after interaction was discouraged
 - made by white legislatures 
-- less and less interg
+- less and less interactions
+
+### The West
+
+Mix of commercial and individual farms
+- Americans and immigrants were recruited to settle the west along rail lines
+- Wealth was in the hand of railway and rail owners
+	- *Chinese Exclusion Act*
+		- following gold rush, chinese workers were sought to build railways
+		- by the late 1800, chinese Americans were one of the biggest groups on the west
+		- gold rush was drying up, more racism to the chinese Americans
+		- legislatures wanted to limit chinese immigration (limit their population)
+		- followed by the exclusion act 
+		- hailed by white nativist groups
+		- had opponents that called it un American
+		- first time US banned group from getting into the US
+		- came down due to chinese American alliance
+
+ ### Women's Suffrage in the West
+
+ In some cases when voting was based off of land, some widows were able to vote
+ - this was eventually curtailed
+ - in some places women could vote in municipal votes 
+ - no universal suffrage yet
+ - 13 amendment left out gender
 
 
