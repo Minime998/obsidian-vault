@@ -121,6 +121,38 @@ Most of the pop was in the poverty, elites had most wealth
 - democrat was white south
 - republican was north 
 - believe that neither was for the common man, lead to rise of populism
-- poor people was split up b
+- poor people was split up by the wealthy, party for the common man
+
+### Populist Goals
+
+- graduated income tax
+- direct election of senators
+- shortened workweeks
+- restrictions on immigration (nativist)
+- public ownership of railroads and communication lines
+- free silver
+
+### Free silver
+
+free coinage of silver
+- American was on the gold standard
+- greenback was used by union to represent gold standard
+- gold was only allowed
+- populist wanted free coinage of silver and gold to rise up inflation
+- good for farmers as they get more money for their debts for raw goods that industrialists would be paying for
+- public supported this idea
+- W.J. Bryan took free silver and killed populism
+
+ ### Black and White Unity
+
+ Jim crow was separating races
+ - their was a sense of no race mixing
+ - was some rare examples of mixed families in the south
+ - little unity between poor black and white voters
+ - rich worked hard to separate these groups
+
+### Third Parties in the US Politics
+
+Viters could find different things in third parties 
 
 
