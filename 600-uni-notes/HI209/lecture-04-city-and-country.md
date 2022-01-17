@@ -45,5 +45,40 @@ Cities were seen as places of sin + immigrants
 - most rural Americans were wary of cities 
 - wealthy Americans saw them as hubs of culture
 
+## Regionalism in the US
+
+### The North
+
+residents lived in ramped quarters
+- included women and children (supported the family)
+- work was six days of the week
+- from rise to set
+- wealth was flowing upwards
+
+### Immigration and Northern Cities
+
+White native born Americans were distrustful of immigrants
+- did not like *political machines* that provided assistants to immigrants
+- understanding they would votes for that party
+
+### Nativism
+
+immigrants were seen more dedicated to their previous country and religion
+- believe that they were bringing in disease
+- tension between gangs
+
+### The South
+
+Poor black and white Americans were in share cropping
+- wealth was going to land owners (old plantation owners)
+- more rural
+
+### Establishing Jim Crow Segregation
+
+process to separate black and white Americans
+- prior to the end of slavery, their was a good amount of interaction between black and white people
+- after interaction was discouraged
+- made by white legislatures 
+- less and less interg
 
 
