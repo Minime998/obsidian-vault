@@ -103,6 +103,24 @@ Mix of commercial and individual farms
  - this was eventually curtailed
  - in some places women could vote in municipal votes 
  - no universal suffrage yet
- - 13 amendment left out gender
+ - 13 amendment left out gender (but was no law that they could not vote)
+ - by the 1900s their was momentum building for suffrage
+ - main arguments was that it would upset the political system
+ - didn't end up changing much 
+
+### Regional Identities
+
+3 different areas: the North(industrial growth), the South (agro control), and the West(expanding settlement)
+
+## Populism and Politics
+
+### The Populist Party
+
+Most of the pop was in the poverty, elites had most wealth
+- political allegiance was determined by location and race
+- democrat was white south
+- republican was north 
+- believe that neither was for the common man, lead to rise of populism
+- poor people was split up b
 
 
