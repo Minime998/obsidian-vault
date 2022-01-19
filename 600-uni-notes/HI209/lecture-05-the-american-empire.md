@@ -74,7 +74,31 @@ After Monroe doctrine, cause tension with Spain
  ### Puerto Rico and Guam
 
  After war these territories were given to the US
- 
+
+ ### The Philippine-American War
+
+ impedance movement fighting Spain
+- after war it is was given to the US
+- Had to fight revolutionaries
+
+ ### The Roosevelt Corollary
+
+ Roosevelt declared he would intervene in any American conflicts and settle claims
+- got the US in a privileged possession
+- strike hard if ever crossed
+- big stick diplomacy
+
+ ### The White Man's Burden
+
+ Responsibility of white nations to give other nations civilization 
+- targeted towards coloured countries
+
+## Turn of the Century America
+
+### Menlo Park and Innovation
+
+Electricity innovation 
+- was vastly different 
 
 
 
