@@ -53,11 +53,28 @@ Before they were pouting force onto North American, Now they wanted to expand to
 
 ### Alaska Purchase
 
-Russia wanted to give away Alaks as they could not defnd it
+Russia wanted to give away Alaska as they could not defend it
 
 ### The Annexation of Hawaii
 
-Reconised their independace under the Monrooe Doctrine 
+Recognized their independence under the Monroe Doctrine
+- no new European colonies in the Americas
+- American population in Hawaii began to rise
+- cause unrest, and lead uprising
+- was successful with American troops
+- Republic to annexation
+
+### Spanish-American War
+
+After Monroe doctrine, cause tension with Spain
+- Spain still had colonies
+- Sent Main, blew up and blamed Spain
+- After America got involved and Cuba got independence
+
+ ### Puerto Rico and Guam
+
+ After war these territories were given to the US
+ 
 
 
 
