@@ -28,4 +28,37 @@ Was a poison pill
 
  ### Gold Standard
 
- Republicans kept the 
+ Republicans kept the US on the gold standard
+- this pushed republicans to anti immigration, pro bossiness 
+- democrats got poor voters, republicans got nativists 
+
+### Republican Dominance
+
+M. kindly won twice
+- assassinated, Roosevelt took office
+
+### McKinley, Roosevelt, and the World
+
+Both were American Imperialists
+- should control their own sphere
+
+## American Imperialism
+
+### American Foreign Policy
+
+Before they were pouting force onto North American, Now they wanted to expand to all Americas
+- wanted to emulate European Empires
+- wanted to be an empire
+- before Americans were not comfortable with empire
+
+### Alaska Purchase
+
+Russia wanted to give away Alaks as they could not defnd it
+
+### The Annexation of Hawaii
+
+Reconised their independace under the Monrooe Doctrine 
+
+
+
+
