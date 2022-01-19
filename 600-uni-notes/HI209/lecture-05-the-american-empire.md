@@ -100,6 +100,35 @@ After Monroe doctrine, cause tension with Spain
 Electricity innovation 
 - was vastly different 
 
+### The Pace of Industrialization
+
+People were fearful of innovation
+
+### The Social Ills of Industrialization
+
+Immigration was connected to industrialization
+- family breakdown
+- child labor
+- pollution
+- lots of industrial accidents
+
+### American System of Manufacture
+
+Mass production of different parts to quickly make products
+- less labor intensive
+- origin is vague
+- American businesses were the first to implement
+
+### The Automobile
+
+Main person behind the system was Ford
+- put it towards the building of Automobiles
+- Fordism
+- all cars were the same
+
+### Flight
+
+
 
 
 
