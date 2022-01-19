@@ -128,6 +128,10 @@ Main person behind the system was Ford
 
 ### Flight
 
+Flight was taking off using modified automobile engine (internal combustion)
+- first human flight
+- only 8ft
+- lead to aircrafts role in WW1 
 
 
 
