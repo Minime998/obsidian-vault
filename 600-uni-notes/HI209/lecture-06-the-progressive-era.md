@@ -13,7 +13,7 @@ Rise in enrollment
 - women and African Americans were attending college
 	- mostly for color or women's college
 
-## Football
+### Football
 
 got big at college campuses
 - most likely from European sports
@@ -34,4 +34,31 @@ origin from bat and ball games from Europe
 	- often more for entertainment not professional
 - sports were a "masculine" activity
 
-### Ragtim
+### Ragtime
+
+big band marching music was very popular for music
+- various African Americans experimented with this on the offbeat
+- ragtime was a dancing music
+- Scott Joplin first player
+- ragtime seen as origin of other music
+
+### Silent Film Era
+
+no way to tie audio to film at this time
+- grew in popularity
+- had live music
+- film got big
+- seen as a cool new thing
+
+### Journalism and the Muckrakers
+
+Muckrakers tried to expose the wrongs in society
+- ran stories on the seedy aspects of industry
+	- ex. child labor
+- they were progressives
+
+### Jungle
+
+big story on the meat packing industry
+- graphic imagrey of the consitions
+- lead to the 
