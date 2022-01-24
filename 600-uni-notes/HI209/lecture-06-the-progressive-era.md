@@ -120,4 +120,22 @@ good example of the progressive movement
 	- wealthy people living in poor parts of town to learn more about their issues
 	- ran soup kitchens and child care
 	- religious programs
-- example of science to solve society' 
+- example of science to solve society's problems
+- issues with garbage collection lead to her to head trash collection and improve it
+
+### Theodore Roosevelt
+
+from a wealthy Dutch family
+- entered politics (seen as masculine)
+- was ridiculed as effeminate
+- because of this bought a ranch in Dakota
+	- seen as a manly frontiersmen
+
+### Roosevelt and the Rough Riders
+
+Roosevelt during the Spanish American war got a volunteer group together to go fight in Cuba
+- new reputation as a warrior
+- forged it into presidency
+
+### The Progressive party
+
