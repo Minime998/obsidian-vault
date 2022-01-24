@@ -60,5 +60,36 @@ Muckrakers tried to expose the wrongs in society
 ### Jungle
 
 big story on the meat packing industry
-- graphic imagrey of the consitions
-- lead to the 
+- graphic imagery of the conditions
+- lead to federal oversight (FDA)
+
+## The Progressives
+
+### The middle class
+
+Increase in wages meant more people in the middle class
+- seen as the progressive class
+
+### Progressives
+
+Three presidents seen as most progressive
+- not a united party, more of a movement 
+- trusted in the government to solve these problems
+- focus on hiring experts to solve society's problems
+
+### Progressive Goals
+
+Child labor laws
+- workplace safety
+- FDA
+- women's rights and suffrage
+- prohibition
+- immigration restrictions
+	- ex views Irish and germen immigrants bringing in alcoholism
+- eugenics
+
+### Prohibition
+
+Bonds of society were fraying (more alcoholism)
+- men would come home drunk (big effect on women)
+	- seen as mens vice effecting women
