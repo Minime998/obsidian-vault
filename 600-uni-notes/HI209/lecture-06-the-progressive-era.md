@@ -139,3 +139,34 @@ Roosevelt during the Spanish American war got a volunteer group together to go f
 
 ### The Progressive party
 
+Roosevelt came back once his vice president, as president, was less progressive
+- made progressive party to fight back
+- took a lot of white middle class voters
+- got a democrat elected as it took votes away from republicans
+
+### Successful Reforms
+
+Food and drug safety act
+- electoral reform
+- women's suffrage
+- prohibition 
+- etc...
+
+## Dark Side of Progressivism
+
+### progressive comfort with social control
+
+they were comfortable with right infringement for the greater good
+- influenced by sudo racial science
+- eugenics if you had bad genes
+
+### Race and the Progressive Movement
+
+Many polices of the movement helped white people more than those of color
+- not racist per say but was influenced by some racist ideas of the day
+- sudo science as base to interfere with immigrants lives
+
+### Eugenics
+
+targeted mostly immigrants as they were seen as behind social problems
+- forc
