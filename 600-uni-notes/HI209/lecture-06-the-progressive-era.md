@@ -92,4 +92,32 @@ Child labor laws
 
 Bonds of society were fraying (more alcoholism)
 - men would come home drunk (big effect on women)
-	- seen as mens vice effecting women
+	- seen as mans vice effecting women
+- temperance was not working, went to prohibition
+
+### Women's Suffrage
+
+many territories in the West had granted suffrage
+- many progressives wanted universal suffrage
+	- more men were joining the movement
+- more after world war 1
+
+### Gender and the Progressive Movement
+
+Men did not want women operating in the public sphere
+- but was seen as ok if they were out for women's issues as they were educating children
+- women took more of a stance on women's issues
+- spoke on the abolition movement
+
+### Jane Addams
+
+good example of the progressive movement
+- was from a wealthy family
+- got a education in medicine
+- father's death got her in a depression
+- decided that she had to help society
+- started a settlement house
+	- wealthy people living in poor parts of town to learn more about their issues
+	- ran soup kitchens and child care
+	- religious programs
+- example of science to solve society' 
