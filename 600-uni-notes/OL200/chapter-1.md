@@ -21,7 +21,11 @@ Communication is is important its **absence affects physical health**. Without r
 - adults have: **higher blood pressure, cardiovascular disease, cognitive decline, dementia, impaired immune systems, and early death**
 - satisfying relationships can be the difference between life and death
 	- a lack of a strong relationship means you run a **greater risk of early death** than people who are obese or exposed to sir pollution
-	- 
+	- People who are divorced, separated, or widowed are **5 to 10 times** more likely to need **psychiatric hospitalization** than their happily married counterparts
+	- People who have supportive social networks are less susceptible to **depression or cognitive decline**
+	- Pregnant women under stress and without a supportive relationship have three times as many **complications** as pregnant women who have the same stress but a better social network
+	- Socially connected people's **wounds heal faster**
+	- socially isolated people are four times as susceptible to the **common cold** as those who have active social networks  
 
 
 
