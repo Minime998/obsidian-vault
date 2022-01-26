@@ -74,4 +74,35 @@ Alliance between Germany and Mexico if the US joined on the side of the allies
 
 Woodrow Wilson was at the start of campaign against war
 - when the public was with him, he asked congress to declare war and they did
-- 
+
+### The world at war
+
+Was a world war cause of colonize
+
+## America and the First World War
+
+### American Propaganda
+
+at start president made public info poster (propaganda) against the central powers 
+- was a big part of convincing Americans to support the war effort
+- was very successful
+
+### Opposition to the War
+
+Jane Adams was against war
+- argued that none wanted this war but the elites
+- rich mans war
+- agony of mothers losing children
+- group was still small compared to those that supported the war
+	- was seen as slackers and un-American
+- seen at first as past wars (not many dead, little fighting directly)
+	- not a "splendid little war"
+- still viewed it as the american-spanish war
+
+### The American Military
+
+To increase the size, they drafted 4 million into the army, half would go to France
+- very little opposition to the draft
+	- their were few draft doggers
+
+
