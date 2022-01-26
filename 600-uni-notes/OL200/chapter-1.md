@@ -39,7 +39,11 @@ Communication is the major way we learn who we are. Our sense of identity comes 
 
 ### Social Needs
 
-
+Some social scientists have argued that as well as helping to define who we are, social interaction is how relationships are created.
+- chidden "talk friendships into existence"
+- teenagers value social interaction over all
+- communication helps to address a lot of social needs
+- 
 
 
 
