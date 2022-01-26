@@ -32,8 +32,14 @@ This shows that communication is essential for health, not everyone needs the sa
 ### Identity needs
 
 Communication is the major way we learn who we are. Our sense of identity comes from the way we interact with people. Rather then decide things about us using a mirror, it is our perceived reaction of others to ourselves that we decide are identity
-- With no communication we have no clear sense of identity
-- 
+- With no communication we have **no clear sense of identity**
+- we enter the world with little sense of our own identity
+- we gain an idea of who we are from **how others define us**
+- the messages children receive in their early years are the strongest identity shapers, but the influence of theirs **continues throughout our lives**
+
+### Social Needs
+
+
 
 
 
