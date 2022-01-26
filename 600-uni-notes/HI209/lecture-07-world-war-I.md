@@ -52,3 +52,26 @@ most had come from the allies
 was not scared, didn't want to
 - were many that disagreed with it 
 	- most wanted them on the side of the allies
+
+### The sinking of the Lusitania
+
+unrestricted submarine warfare from Germany
+- the British ship Lusitania was a ship from New York to Britain
+- It was attacked and sunk by German U-Boat off of Ireland
+	- after it was discovered it had arms
+- most think it was unprovoked at the time
+- American onionin tanked 
+
+### The Zimmerman Telegram
+
+Alliance between Germany and Mexico if the US joined on the side of the allies
+- it would recover land lost in Mexico-American war
+- intercepted by British intelligence
+- the German diplomat said it was real
+- was seen as the final straw that pushed the US to intervene
+
+### Declaration of War
+
+Woodrow Wilson was at the start of campaign against war
+- when the public was with him, he asked congress to declare war and they did
+- 
