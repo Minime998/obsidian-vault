@@ -97,12 +97,44 @@ Jane Adams was against war
 	- was seen as slackers and un-American
 - seen at first as past wars (not many dead, little fighting directly)
 	- not a "splendid little war"
-- still viewed it as the american-spanish war
+- still viewed it as the American-Spanish war
 
 ### The American Military
 
 To increase the size, they drafted 4 million into the army, half would go to France
 - very little opposition to the draft
 	- their were few draft doggers
+- because of the anti-patriotic nature of anti war agitation, it was not as effective in this war
+- was a large amount of volunteers
+	- mostly from European countries
+- most that faced combat were white men at the start
 
+### African Americans and the War Front
+
+Black people were actively recruited, but most white soldiers refused to fight with them
+- most famous Harlem hellfighters, in the French army
+- most others worked in support roles
+
+### Native Americans and the War Effort
+
+they were in the war as well
+- interesting as most did not have US citizenship at the time
+- more than 120000 joined war effort
+- most worked as code talkers
+- bigger in second
+- most did serve in combat roles
+	- seen as natural roles
+- given the dangerous missions
+	- higher casualties rate
+- indigious verterans were given US citizenship for their service
+	- lead to all other getting citizenship later
+
+### Women and the War Efforts
+
+Were actively recruited
+- were not given combat roles
+- also push for them to take men's jobs
+- calls for nurses as well
+- worked the telephone switchboards during the war
+	- called hello  
 
