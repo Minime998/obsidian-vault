@@ -126,7 +126,7 @@ they were in the war as well
 	- seen as natural roles
 - given the dangerous missions
 	- higher casualties rate
-- indigious verterans were given US citizenship for their service
+- indigenous veterans were given US citizenship for their service
 	- lead to all other getting citizenship later
 
 ### Women and the War Efforts
@@ -136,5 +136,26 @@ Were actively recruited
 - also push for them to take men's jobs
 - calls for nurses as well
 - worked the telephone switchboards during the war
-	- called hello  
+	- called hello girls
+
+### The War at Home
+
+Ration their food, save food, make clothing for troops, join the women's land army (to replace men farmers)
+- slacker was still used to target women
+- were constant appeals to American identity
+- idea of the melting pot (making Americans)
+- America as lands of immigrants that should help the war effort
+
+### American Identity
+
+events to build up sentiment
+- helped by celebrities
+
+### The Labor Movement
+
+long history of labor unrest, but organized labor promised not to strike during the war effort
+- Americans lined up behind the flag during the first world war
+- industrial workers playing their part
+- beginning of America comfort on the world stage 
+
 
