@@ -169,4 +169,11 @@ Many polices of the movement helped white people more than those of color
 ### Eugenics
 
 targeted mostly immigrants as they were seen as behind social problems
-- forc
+- forced sterilization
+
+### Progressivism and White Nationalism
+
+much in common with white nativist
+- nativist focused on groups, progressives on the individual
+
+ 
