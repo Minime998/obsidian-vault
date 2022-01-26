@@ -52,7 +52,19 @@ Some social scientists have argued that as well as helping to define who we are,
 ## Linear Model of communication
 
 suggests we communicate in a linear or straight line
-- the *sender* transmits a message throught a 
+- the *sender* transmits a message through a *channel* or *channels* to a *receiver* 
+- as the message goes through the channel it is subject to *noise* 
+	- the channel can be any method of transmitting the message such as oral or email, noise is anything the disrupts the transmission of a message
+- this model says you can be a sender or a receiver but not both 
+- very simple, assume one way
+- does not account for changing mid. send
+
+## Transactional model of Communication
+
+
+
+
+
 
 
 
