@@ -25,7 +25,15 @@ Communication is is important its **absence affects physical health**. Without r
 	- People who have supportive social networks are less susceptible to **depression or cognitive decline**
 	- Pregnant women under stress and without a supportive relationship have three times as many **complications** as pregnant women who have the same stress but a better social network
 	- Socially connected people's **wounds heal faster**
-	- socially isolated people are four times as susceptible to the **common cold** as those who have active social networks  
+	- socially isolated people are four times as susceptible to the **common cold** as those who have active social networks 
+
+This shows that communication is essential for health, not everyone needs the same level of contact, and the quality of communication is just as important as the quality
+
+### Identity needs
+
+Communication is the major way we learn who we are. Our sense of identity comes from the way we interact with people. Rather then decide things about us using a mirror, it is our perceived reaction of others to ourselves that we decide are identity
+- With no communication we have no clear sense of identity
+- 
 
 
 
