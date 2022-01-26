@@ -45,5 +45,14 @@ Some social scientists have argued that as well as helping to define who we are,
 - communication helps to address a lot of social needs
 - some say it is the primary goal of human existence 
 
+### Practical needs
+
+- everyday needs
+
+## Linear Model of communication
+
+suggests we communicate in a linear or straight line
+- the *sender* transmits a message throught a 
+
 
 
