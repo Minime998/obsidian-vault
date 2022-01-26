@@ -156,6 +156,11 @@ events to build up sentiment
 long history of labor unrest, but organized labor promised not to strike during the war effort
 - Americans lined up behind the flag during the first world war
 - industrial workers playing their part
-- beginning of America comfort on the world stage 
+- beginning of America comfort on the world stage
+
+### Baseball and the American military
+
+lots of baseball players went off to join the military
+- seen as a metaphor for American war effort 
 
 
