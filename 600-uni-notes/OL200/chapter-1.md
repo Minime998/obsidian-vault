@@ -43,7 +43,7 @@ Some social scientists have argued that as well as helping to define who we are,
 - chidden "talk friendships into existence"
 - teenagers value social interaction over all
 - communication helps to address a lot of social needs
-- 
+- some say it is the primary goal of human existence 
 
 
 
