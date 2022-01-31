@@ -98,3 +98,30 @@ was a progressive
 - was well accepted as small nations
 - was seen as the protector of smaller nations
 - called for peace without victory (peace should not cripple the losers as that would lead to a new war)
+	- was ridiculed by leaders for this belief (France, Russia, UK) as they had suffered the most
+
+### Paris Peace Conference
+
+peace with central powers was decided
+- how the league of nations would look like
+- despite being well liked, his 14 points were ignored
+- The Big four decided most things
+	- US, Italy, France, UK
+
+### End of War
+
+Germany was seen to have caused it
+- decided in treaty of versale
+
+### League of Nations
+
+was one of Wilson's victories
+- had little power
+- was modeled after US government
+- settle disputes before they turned violent
+- The US never joined due to the American senate
+	- despite not joining they did work with them 
+
+### Wilson's Stroke
+
+Went on barn storming tour to 
