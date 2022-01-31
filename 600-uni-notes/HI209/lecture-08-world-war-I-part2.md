@@ -124,4 +124,24 @@ was one of Wilson's victories
 
 ### Wilson's Stroke
 
-Went on barn storming tour to 
+Went on barn storming tour to get more support for the league
+- seemed to cause stroke
+- was hidden and most of his duties were taken over by his wife
+	- news did eventually get out
+	- questions on how fit for office he was
+
+### US after the War
+
+when the war ended labor unrest started up again
+- was very worrying to Americans as many were thinking of the Russian revolution
+
+Red Summer
+
+number of race riots
+- white gangs attacking and murdering black people
+- more black people moving into the north and getting into factories
+- demographics were shifting
+	- black Americans wanted to be treated like citizens after their involvement in war
+- was a sense that black people were more open to socialism
+- lead to rising tensions and violence
+- happened in more than a dozen cities  
