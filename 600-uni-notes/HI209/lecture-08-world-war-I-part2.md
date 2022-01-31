@@ -135,7 +135,7 @@ Went on barn storming tour to get more support for the league
 when the war ended labor unrest started up again
 - was very worrying to Americans as many were thinking of the Russian revolution
 
-Red Summer
+### Red Summer
 
 number of race riots
 - white gangs attacking and murdering black people
@@ -144,4 +144,38 @@ number of race riots
 	- black Americans wanted to be treated like citizens after their involvement in war
 - was a sense that black people were more open to socialism
 - lead to rising tensions and violence
-- happened in more than a dozen cities  
+- happened in more than a dozen cities
+	- fear was a big cause of violence
+
+## American and the First World War
+
+### Disease
+
+lots of new study on disease
+- anti immigration was a factor in this
+- immigrants seen as bringing it 
+- Typhoid fever was one
+
+### Origins of influenza
+
+first person got sick at camp Funston
+- military movement helped this spread to other army camps at home and abroad
+- army camps conditions helped it to spread
+- by July 1919, it had spread world wide
+	- was kept a secret due to press censorship at the time because of the war for moral
+- Spain was neutral and could talk about it
+
+### Spanish Flu
+
+other news outlets got the stories from Spanish news and then it was seen as originating from their
+- seen to spread from water droplets
+- cities started to take measures against it
+
+### Influenza and Regulation
+
+Americans were encouraged to wear face masks and in some cities it was even enforced
+
+### Influenza in the Post-War World
+
+was starting 
+
