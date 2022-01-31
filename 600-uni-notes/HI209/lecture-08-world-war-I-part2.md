@@ -12,4 +12,37 @@ Primary theater in war was the western front
 - American troops were welcomed into trenches
 	- helped turn the tide with new manpower
 
-### Military
+### Military Technology
+
+Lots of new tech introduced in the war
+- machine guns
+- submarines
+- armored tanks
+- gas
+	- all of these advancements made war more deadly
+- when the US joined the war they adapted to this tech but were a bit slow to adapt to it
+
+### Tank Warfare
+
+A stalemate developed on the western front due to the trenches
+- tanks helped to solve this problem
+- developed by allies (most by French)
+- The US made no tanks during the war, used French and British tanks
+	- after the war this started a new domestic tank industry in the US
+
+### Naval Warfare
+
+most nations started world war I with advanced navies
+- the US at the start of the war had a small navy compared to European navies 
+- used to protect trade and troop transports from German subs
+- US had no subs during the war
+	- war helped to start US sub production
+
+### Aerial Warfare
+
+First time planes were used extensively in war
+- started out being used for recon.
+	- lead to further development of further aircraft to take them down
+	- lead to fighters and bombers
+	- also lead to synchronized fire (guns were synced up to not hit plane propeller)
+- Us made no aircraft during war, relied on allied aircraft 
