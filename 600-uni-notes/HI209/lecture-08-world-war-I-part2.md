@@ -45,4 +45,32 @@ First time planes were used extensively in war
 	- lead to further development of further aircraft to take them down
 	- lead to fighters and bombers
 	- also lead to synchronized fire (guns were synced up to not hit plane propeller)
-- Us made no aircraft during war, relied on allied aircraft 
+- Us made no aircraft during war, relied on allied aircraft
+	- lead to US domestic plane production
+
+### Warfare in 1900 and 1918
+
+started out being just men and horses
+- warfare had now developed with machine guns, tanks, bombs, and gas
+-  compared to Spanish American war, US had much greater combat deaths + causalities
+	- still was small compared to 20 million European deaths
+
+### The Turning Tide
+
+US entry helped to start to turn the tide in the allies favor
+- US industrial production
+- manpower
+- US supplies
+- Germany had thought that America would take a long tide to gear up to fully fight in war, turned out not to be the case
+
+### America's Contribution to the War Effort
+
+Americans believed that they were going to end the war
+- seemed to be Americans were ending the European war in months
+	- made Americans more comfortable with further international involvement
+
+## The Wilsonian Moment
+
+### Woodrow Wilson
+
+w
