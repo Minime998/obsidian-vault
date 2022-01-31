@@ -73,4 +73,28 @@ Americans believed that they were going to end the war
 
 ### Woodrow Wilson
 
-w
+was a progressive
+- was a democrat
+- held racist views
+- bared African Americans from civil positions
+- screened birth of a nation at the white house (story of first klu klux clan)
+	- clan "saved" the south according to movie
+	- was a fan of the movie
+	- helped to make it popular
+- also argued the European colonies should become independent (self governing) 
+- gained more popularity from the war (also in the international stage)
+- looked on as a major post war figure (calm arbiter)
+- positions himself and America as a arbiter
+
+### Fourteen Points
+
+1. Open covenants of peace
+2. absolute freedom of navigation upon the seas
+3. the removal of economic barriers to trade
+4. the reduction of national armaments
+5. the adjustment of all colonial claims
+14. league of nations
+(Goal : independent nations that choose to be influenced by America) 
+- was well accepted as small nations
+- was seen as the protector of smaller nations
+- called for peace without victory (peace should not cripple the losers as that would lead to a new war)
