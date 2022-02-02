@@ -177,5 +177,14 @@ Americans were encouraged to wear face masks and in some cities it was even enfo
 
 ### Influenza in the Post-War World
 
-was starting 
+was starting to spread through out Europe
+
+### Impact of Influenza
+
+3-2% of the worlds population died
+- killed lots of young heathy people
+	- this started to scare many Americans
+- workforce was dying out
+- this was still left out of American history and things started to go back to normal after it ended
+- helped to cause desire for America to return to Pre war era America  
 
