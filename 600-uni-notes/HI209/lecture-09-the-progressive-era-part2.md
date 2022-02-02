@@ -134,4 +134,12 @@ Many men were thinking that it would break down society
 ### 19 Amendment
 
 amendment brought in universal suffrage to the US
+- for 21 years and older
+- women voted very similar to men it seemed
+
+### Women in American Politics
+
+women were getting elected to positions
+
+
 
