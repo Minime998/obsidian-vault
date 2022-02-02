@@ -29,4 +29,33 @@ who knows where labor moments will lead
 
 ### Capitalism and Prosperity
 
+Sense that American capitalism was better
+- socialism was weaker then communism
+- true American was a capitalist
 
+### Decline of Union Organizing
+
+due to this association, labor unions were declining
+- loss of members and strikes
+- Americans were scared of socialism
+- 1920s were prosperous so not as many middle income people were on board
+- business owners worked to undermine them
+
+### Working Class vs Middle Class
+
+interruptions in infostructure and associations made the middle class distance themselves more
+- working class was mad that the middle class was not behind them
+- was taken advantage of
+
+## Prohibition
+
+### Progressive Momentum
+
+momentum has been growing before world war I
+- was waiting to rise back up
+- seemed their was a chance for female suffrage in the past
+	- was broken up by other events, but the first world war was different
+- picked up where it left off
+- was a want for change
+
+$$
