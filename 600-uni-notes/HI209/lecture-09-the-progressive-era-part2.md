@@ -116,3 +116,22 @@ after prohibition, both genders started to drink
 
 women had to step up during the war
 
+### The Women's Rights Movement
+
+pushed to have women's suffrage on the ballet
+- was gaining ground in the west
+
+### Universal Women's Suffrage
+
+momentum building for national suffrage
+- more men were joining the movement
+
+### Opposition to Women's Suffrage
+
+Many men were thinking that it would break down society
+- the response against was not enough
+
+### 19 Amendment
+
+amendment brought in universal suffrage to the US
+
