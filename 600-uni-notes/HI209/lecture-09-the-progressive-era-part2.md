@@ -58,4 +58,34 @@ momentum has been growing before world war I
 - picked up where it left off
 - was a want for change
 
-$$
+### Push for Prohibition
+
+alcohol was considered a mal vice
+- seen as a working class problem
+- would go home drunk and hurt their wife/family
+- many advocates for it were women 
+- was also connected to immigrants (Irish and German)
+
+### Alcohol and Politics
+
+was also connected to political machines (immigrants were helped for votes)
+- alcohol was used for bribes to vote
+- pubs were seen as place for working class and immigrants
+- was why many progressive were behind it
+
+### The Spread for Prohibition
+
+many places had dry laws before it was national (federal)
+- by 1919 most places were dried
+
+### 18 Amendment
+
+went into effect 1920
+- was medical exemptions
+- spread well beyond the US
+- was seen as major progressive victory
+
+### Bootlegging
+
+taste for it did not go anywhere
+- was soon a thriving balck market for it in the US
