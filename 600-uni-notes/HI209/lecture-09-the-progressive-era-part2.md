@@ -88,4 +88,31 @@ went into effect 1920
 ### Bootlegging
 
 taste for it did not go anywhere
-- was soon a thriving balck market for it in the US
+- was soon a thriving black market for it in the US
+- producers of beer switched to "non-alcoholic" beer or went underground
+- people that sold it was called bootleggers
+- gangsters became very wealthy
+- needed a big expansion of the police force
+- cemented police as civil service run by the government
+- shift to hard liquor
+- changed the gender dynamics of drinking
+
+### Speakeasies
+
+all the times were not that secret
+- thrived across the US
+- place for the cool people
+- place to have fun
+
+### American Women during Prohibition
+
+after prohibition, both genders started to drink
+- women drank to flaunt the social structure as a sign of empowerment
+- by the end seen as ok for both to do
+
+## Women's Suffrage
+
+### Women and the War Effort
+
+women had to step up during the war
+
