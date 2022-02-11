@@ -139,7 +139,7 @@ amendment brought in universal suffrage to the US
 
 ### Women in American Politics
 
-women were getting elected to positions
+women were getting elected to positions after this
 
 
 
