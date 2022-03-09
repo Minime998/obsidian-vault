@@ -21,13 +21,18 @@
     "anarcho",
     "constituional",
     "pre",
-    "Reintegrative"
+    "Reintegrative",
+    "Hoovervilles",
+    "Dixiecrats",
+    "Hotline",
+    "Whitehouse"
   ],
   "strictLineBreaks": false,
   "foldHeading": true,
-  "foldIndent": false,
+  "foldIndent": true,
   "attachmentFolderPath": "uni-notes/PP204-formal-logic/note-images",
   "fileSortOrder": "byCreatedTime",
   "showUnsupportedFiles": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "legacyEditor": false
 }
