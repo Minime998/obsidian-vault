@@ -7,23 +7,23 @@
 ### Music
 
 1950s was the era of rock and roll
-- was origonal slang for sex
-- variation on rythem and blues
-- was very popular for both black and white audiances
+- was original slang for sex
+- variation on rhythm and blues
+- was very popular for both black and white audiences
 - Elvis was among the famous white musicians
 - another way America spread its culture around the world
 
 ### Television
 
-comidies and news were among the popular programming
+comedies and news were among the popular programming
 - sit coms hold over from silent films
-- was not the goldne age of film
+- was not the golden age of film
 
 ### The Influence of Television on Film
 
 after the great depression more Americans were going to the movies
 - the rise in television created a step drop of of people going to the movies
-- films in theater were different then what was shown on tv, but tv was free
+- films in theatre were different then what was shown on tv, but tv was free
 - television seemed to be replacing film
 
 ### New Hollywood
@@ -32,32 +32,32 @@ started late 50s
 - when the film industry was looking down, movies turned to new tech to try and beat television
 - wide lenses, 3d, and colour were all tried
 - mostly large musicals
-- film attenadace continued to plummet however
-	- people found out that it was mostly younf people going to the threater
-	- and that these people wanted new European techiniqes
+- film attendance continued to plummet however
+	- people found out that it was mostly young people going to the theatre
+	- and that these people wanted new European techniques
 	- French new wave was and example
-	- Hollywood started to hire yound people that combined American and European styles
+	- Hollywood started to hire young people that combined American and European styles
 
 ### Hay's Code and the Film Rating System
 
-American morals were losening
+American morals were loosening
 - Hay's code was starting to lose power
-- Hay's code was eventualy abanded and replaced by film rating system
+- Hay's code was eventually abended and replaced by film rating system
 
 
-## Religeion in America 
+## Religion in America 
 
 ### Revivals in American Religion
 
-After WWI US christans were worrying about the moral direction of the US
-- poeple like Billy Sunday started to breach about how Ameirca needed to go back to religious roots
-- very animated sermen, nationalistic, very religious, shouting, etc...
-- in the 50s revivalist preachers found a big audiance as well since America was going throught change
+After WWI US christens were worrying about the moral direction of the US
+- people like Billy Sunday started to breach about how America needed to go back to religious roots
+- very animated sermon, nationalistic, very religious, shouting, etc...
+- in the 50s revivalist preachers found a big audience as well since America was going through change
 
 ### Families and the Baby Boom
 
 A lot of anxiety at the time and religion was seen as a place to turn
-- big familes turned to religion to get their children a moral education
+- big families turned to religion to get their children a moral education
 
 ### Christianity and Communism
 

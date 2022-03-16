@@ -26,5 +26,6 @@
   "blue-topaz-theme@@font-family-vault": "var(--default-font)",
   "blue-topaz-theme@@saturate-4-bg": 1,
   "blue-topaz-theme@@brightness-4-bg": 0.9,
-  "blue-topaz-theme@@blur-depth": 10
+  "blue-topaz-theme@@blur-depth": 10,
+  "things-style@@macOS-translucent": true
 }
