@@ -73,7 +73,10 @@ similar to the Linear model, but with key differences
 
 ---
 
+### Types of Listening Responses
 
+**responding** is one of the concepts of **listening**, it lets one know if one is truly in tune with what you are saying
+- 
 
 
 
