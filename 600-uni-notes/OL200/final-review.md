@@ -21,4 +21,14 @@
 - Types of power
 - Types of Noise(chapter1)
 
+### How the Self-Concept Develops
+
+**Self Concept** does not exist at birth
+- at about six-seven months is when children begin to form the concept of "self"
+	- stare at parts of body to make that connection
+- as the child develops their sense of identity expands to form a more complicated picture of the self-concept of adults
+- this is almost totally due to social interaction
+- two models explaine how interaction shape the self, **reflected appraisal** and **social comparison** 
+
+
 
