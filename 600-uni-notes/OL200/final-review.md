@@ -21,6 +21,8 @@
 - Types of power
 - Types of Noise(chapter1)
 
+---
+
 ### How the Self-Concept Develops
 
 **Self Concept** does not exist at birth
@@ -28,7 +30,20 @@
 	- stare at parts of body to make that connection
 - as the child develops their sense of identity expands to form a more complicated picture of the self-concept of adults
 - this is almost totally due to social interaction
-- two models explaine how interaction shape the self, **reflected appraisal** and **social comparison** 
+- two models explain how interaction shape the self, **reflected appraisal** and **social comparison** 
+
+#### Reflected Appraisal
+
+**Self Concept** can be seen in part as a product of the messages you get throughout your life
+- these messages can be negative or positive
+- the term **significant other** describes a person whose evaluation/messages were especially influential to that development
+	- an example is messages from parents
+	- parents that send supportive messages are more likely to raise children with a healthy self concept
+- significant others can also be family members as well as teachers and friends can also inflence this
+-  
+
+
+
 
 
 
