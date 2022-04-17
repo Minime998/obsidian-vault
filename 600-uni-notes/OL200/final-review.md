@@ -32,15 +32,16 @@
 - this is almost totally due to social interaction
 - two models explain how interaction shape the self, **reflected appraisal** and **social comparison** 
 
-#### Reflected Appraisal
+#### Reflected Appraisal  
 
 **Self Concept** can be seen in part as a product of the messages you get throughout your life
-- these messages can be negative or positive
+- these messages can be *negative or positive*
 - the term **significant other** describes a person whose evaluation/messages were especially influential to that development
 	- an example is messages from parents
 	- parents that send supportive messages are more likely to raise children with a healthy self concept
-- significant others can also be family members as well as teachers and friends can also inflence this
--  
+- significant others can also be family members as well as teachers and friends can also influence this
+-  when something like *"I think you worked hard to solve that problem"* is said to a child, they understand that working hard produced a good result and are therefore more likely to show tenacity and perseverance when faced with a problem
+- when somthing simple like "You're smart" is said to a child it makes them think 
 
 
 
