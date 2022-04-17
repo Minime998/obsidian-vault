@@ -5,7 +5,7 @@
 ## Key Concepts
 
 - ~~How the self concept develops(chapter2) | Reflected appraisal
-- Transactional Communication Model(chapter1)
+- ~~Transactional Communication Model(chapter1)
 - Listening responses(chapter5)
 - Self-serving bias(chapter3)
 - Knapp's model of relationship Development(chapter8) | specifically termination
@@ -65,7 +65,15 @@ similar to the Linear model, but with key differences
 	- this would include factors like size and noise present
 		- the difference in physical context will likely have a major impact on a message
 - **Cultural context**
-	- each culture will have different ru
+	- each culture will have different rules for communication
+- **Social and emotional context**
+	- the relationship with the sender and receiver
+- **Historical context**
+	- relation of communicators as well as past messages
+
+---
+
+
 
 
 
