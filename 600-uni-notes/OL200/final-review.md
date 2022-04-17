@@ -75,12 +75,24 @@ similar to the Linear model, but with key differences
 
 ### Types of Listening Responses
 
-**responding** is one of the concepts of **listening**, it lets one know if one is truly in tune with what you are saying
-- Good listerners:
-	- ask and asnwer questions
+**responding** is one of the <mark style="background: #FF5582A6;">concepts of **listening**</mark> , it lets one know if one is truly in tune with what you are saying
+- Good listeners:
+	- ask and answer questions
 	- give the speaker time and space to express themselves
-	- offer ther own perspective
-	- respond non verbally by making eye contact nodding head and leaning forward 
+	- offer their own perspective
+	- respond non verbally by making eye contact nodding head and leaning forward
+-  responses can range from more reflective -> less reflective and less directive -> more directive
+
+#### Listening Responses
+
+##### Silent Listening:
+
+there are times where the best response is to say nothing
+- if someone is droning on or telling a story you want to be over quickly the best response is to silently listen to them to discourage them to continue
+- it can go beyond avoidance however, if your open to some ones ideas but don't fell interjection would be appropriate for example
+-  
+
+
 
 
 
