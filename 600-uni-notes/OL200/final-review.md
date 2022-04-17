@@ -92,7 +92,15 @@ there are times where the best response is to say nothing
 - it can go beyond avoidance however, if your open to some ones ideas but don't fell interjection would be appropriate for example
 - if someone is telling a joke wait for the punchline 
 - it can be hard to just listen
-	- "listening circles" 
+	- "listening circles" can be implemented to help improve interpersonal communication
+	-  person who speaks holds stick
+- silent listening can also help solve problems be allowing someone to speak freely without interruption
+
+##### Questioning:
+
+most popular piece of language
+- can be used to *clarify meanings.* good listens don't assume they know what their partners mean
+- to *learn about others peiples's thoughts*
 
 
 
