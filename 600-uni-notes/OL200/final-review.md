@@ -4,7 +4,7 @@
 
 ## Key Concepts
 
-- How the self concept develops(chapter2) | Reflected appraisal
+- ~~How the self concept develops(chapter2) | Reflected appraisal
 - Transactional Communication Model(chapter1)
 - Listening responses(chapter5)
 - Self-serving bias(chapter3)
@@ -29,12 +29,12 @@
 - at about six-seven months is when children begin to form the concept of "self"
 	- stare at parts of body to make that connection
 - as the child develops their sense of identity expands to form a more complicated picture of the self-concept of adults
-- this is almost totally due to social interaction
+- this is <mark style="background: #FF5582A6;">almost totally due to social interaction</mark> 
 - two models explain how interaction shape the self, **reflected appraisal** and **social comparison** 
 
 #### Reflected Appraisal  
 
-**Self Concept** can be seen in part as a product of the messages you get throughout your life
+**Self Concept** can be seen in part as a product of the <mark style="background: #FF5582A6;">messages you get throughout your life</mark> 
 - these messages can be *negative or positive*
 - the term **significant other** describes a person whose evaluation/messages were especially influential to that development
 	- an example is messages from parents
@@ -50,8 +50,11 @@
 
 similar to the Linear model, but with key differences
 - **Communicators** both send and receive messages at the same time, this takes care of one of the problems of the linear model
-- in this model communication is seen as reciprocal event
--  
+- in this model communication is seen as a **reciprocal** event
+- the intent in any communication is to build *shared sustained meaning*, this can only be done if all members cooperate and participate
+- <mark style="background: #FF5582A6;">each message sent builds on the previous ones</mark> 
+	-   this is important as each message sent will impact future ones as well as reinterpretation of past ones
+- all communication occurs in **context** (or environment) and context must be considered when sending or receiving messages
 
 
 
