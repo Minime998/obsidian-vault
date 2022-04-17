@@ -41,8 +41,17 @@
 	- parents that send supportive messages are more likely to raise children with a healthy self concept
 - significant others can also be family members as well as teachers and friends can also influence this
 -  when something like *"I think you worked hard to solve that problem"* is said to a child, they understand that working hard produced a good result and are therefore more likely to show tenacity and perseverance when faced with a problem
-- when somthing simple like "You're smart" is said to a child it makes them think 
+- when something simple like "You're smart" is said to a child it makes them more likely to develop a **fixed mindset** as they believe that someone is simply born smart and that it is not something that can be developed or trained over time
+- a fixed mindset means that you are more likely to quit are failing something, less likely to take chances, and tackle difficult projects aka *they live up to expectations*
 
+---
+
+### Transactional Communication Model
+
+similar to the Linear model, but with key differences
+- **Communicators** both send and receive messages at the same time, this takes care of one of the problems of the linear model
+- in this model communication is seen as reciprocal event
+-  
 
 
 
