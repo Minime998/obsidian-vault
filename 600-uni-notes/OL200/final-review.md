@@ -55,6 +55,17 @@ similar to the Linear model, but with key differences
 - <mark style="background: #FF5582A6;">each message sent builds on the previous ones</mark> 
 	-   this is important as each message sent will impact future ones as well as reinterpretation of past ones
 - all communication occurs in **context** (or environment) and context must be considered when sending or receiving messages
+	- when context is correctly considered it can reduce **noise**
+- an example is if someone uses the word "sick", if they are coughing and talking about he they are feeling it most likely means they are referring to the illness, if they say it in conjunction with seeing someone throw something that means that it really means "cool"
+
+#### Types on context
+
+- **Physical context**
+	- the actual environment like in a room or out on the street
+	- this would include factors like size and noise present
+		- the difference in physical context will likely have a major impact on a message
+- **Cultural context**
+	- each culture will have different ru
 
 
 
