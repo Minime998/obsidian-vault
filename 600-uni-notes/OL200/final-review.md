@@ -7,7 +7,7 @@
 - ~~How the self concept develops(chapter2) | Reflected appraisal
 - ~~Transactional Communication Model(chapter1)
 - Listening responses(chapter5)
-- Self-serving bias(chapter3)
+- ~~Self-serving bias(chapter3)
 - Knapp's model of relationship Development(chapter8) | specifically termination
 - Language is governed by rules(chapter6)
 - Perception process(chapter3)
@@ -124,6 +124,15 @@ most popular piece of language
 ##### Advising
 
 ---
+
+### Self-serving bias
+
+**Self-serving bias** means that when we perform badly we tend to assign blame to outside forces, when we perform well we blame ourselves rather than outside forces (we judge ourselves nicer than we do others)
+
+---
+
+### Knapp's Model (Terminating)
+
 
 
 
