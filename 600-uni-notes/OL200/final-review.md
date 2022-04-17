@@ -100,7 +100,34 @@ there are times where the best response is to say nothing
 
 most popular piece of language
 - can be used to *clarify meanings.* good listens don't assume they know what their partners mean
-- to *learn about others peiples's thoughts*
+	- to *learn about others people's thoughts, feelings and wants.* a sincere and sensitive question can draw out options emotions needs and hopes.
+	-  to *encourage elaboration*
+	- to *encourage discovery*
+	- to *gather facts and details*
+- do not use to:
+	- *questions that make statements*
+	- *questions that have hidden agendas*
+	- *questions that seek positive judgment*
+	- *questions based on unchecked assumptions*
+
+
+##### Paraphrasing
+
+##### Empathizing
+
+##### Supporting
+
+##### Analyzing
+
+##### Evaluating
+
+##### Advising
+
+---
+
+
+
+
 
 
 
