@@ -90,7 +90,9 @@ similar to the Linear model, but with key differences
 there are times where the best response is to say nothing
 - if someone is droning on or telling a story you want to be over quickly the best response is to silently listen to them to discourage them to continue
 - it can go beyond avoidance however, if your open to some ones ideas but don't fell interjection would be appropriate for example
--  
+- if someone is telling a joke wait for the punchline 
+- it can be hard to just listen
+	- "listening circles" 
 
 
 
