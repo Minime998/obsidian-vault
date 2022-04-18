@@ -9,7 +9,7 @@
 - <mark style="background: #ABF7F7A6;">Listening responses(chapter5)</mark> 
 - ~~Self-serving bias(chapter3)
 - <mark style="background: #ABF7F7A6;">Knapp's model of relationship Development(chapter8) | specifically termination</mark> 
-- Language is governed by rules(chapter6)
+- ~~Language is governed by rules(chapter6)
 - Perception process(chapter3)
 - Triangle of Meaning(chapter6)
 - Gibb Model(chapter9)
@@ -132,6 +132,18 @@ most popular piece of language
 ---
 
 ### Knapp's Model (Terminating)
+
+---
+
+### Language Rules
+
+The only way symbol laden languages work is that all people agree on how to use them
+- languages contain different codified rules that evolve
+- **phonological** rules govern how sounds are combined to form words
+- **syntactic** rules govern that way symbols can be arranged
+- **semantic** rules govern the meaning of statements
+- **pragmatic** rules tell us the interpretations of a massage are reasonable in a given situation 
+
 
 
 
