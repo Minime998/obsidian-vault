@@ -6,9 +6,9 @@
 
 - ~~How the self concept develops(chapter2) | Reflected appraisal
 - ~~Transactional Communication Model(chapter1)
-- Listening responses(chapter5)
+- <mark style="background: #ABF7F7A6;">Listening responses(chapter5)</mark> 
 - ~~Self-serving bias(chapter3)
-- Knapp's model of relationship Development(chapter8) | specifically termination
+- <mark style="background: #ABF7F7A6;">Knapp's model of relationship Development(chapter8) | specifically termination</mark> 
 - Language is governed by rules(chapter6)
 - Perception process(chapter3)
 - Triangle of Meaning(chapter6)
